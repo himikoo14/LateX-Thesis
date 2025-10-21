@@ -1,6 +1,6 @@
-PWD c:\Users\ADMIN\Desktop\Cude\LateX\Thesis
+PWD c:\Users\ADMIN\Desktop\LateX\LateX-Thesis\Thesis
 INPUT C:\Users\ADMIN\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ADMIN\Desktop\Cude\LateX\Thesis\main.tex
+INPUT c:\Users\ADMIN\Desktop\LateX\LateX-Thesis\Thesis\main.tex
 OUTPUT main.log
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
