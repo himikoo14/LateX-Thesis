@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  21 OCT 2025 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  22 OCT 2025 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1138,27 +1138,27 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (main.aux (approval-sheet.aux) (acknowledgement.aux) (abstract.aux) (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (ch-5.aux) (appendix.aux) (curriculum-vitae.aux))
+ (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1215,7 +1215,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package hyperref Info: Link coloring OFF on input line 22.
+Package hyperref Info: Link coloring OFF on input line 21.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1256,12 +1256,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 22.
-Package biblatex Info: Reference segment=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference segment=0 on input line 21.
 <./assets/logo2.jpg, id=6, 481.8pt x 481.8pt>
 File: ./assets/logo2.jpg Graphic file (type jpg)
 <use ./assets/logo2.jpg>
-Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
+Package pdftex.def Info: ./assets/logo2.jpg  used on input line 33.
 (pdftex.def)             Requested size: 99.58464pt x 99.57831pt.
 
 
@@ -1269,101 +1269,40 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 
 
 {C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/logo2.jpg>]
-\openout2 = `approval-sheet.aux'.
-
- (approval-sheet.tex
-File: ./assets/logo2.jpg Graphic file (type jpg)
-<use ./assets/logo2.jpg>
-Package pdftex.def Info: ./assets/logo2.jpg  used on input line 9.
-(pdftex.def)             Requested size: 51.21504pt x 51.2117pt.
-<./assets/logo3.jpg, id=15, 271.4943pt x 285.34605pt>
-File: ./assets/logo3.jpg Graphic file (type jpg)
-<use ./assets/logo3.jpg>
-Package pdftex.def Info: ./assets/logo3.jpg  used on input line 11.
-(pdftex.def)             Requested size: 51.21504pt x 53.82445pt.
-<./assets/logo.png, id=16, 722.7pt x 722.7pt>
-File: ./assets/logo.png Graphic file (type png)
-<use ./assets/logo.png>
-Package pdftex.def Info: ./assets/logo.png  used on input line 13.
-(pdftex.def)             Requested size: 51.21504pt x 51.2117pt.
-
-
-
-
-
-
-)
-
-[2
-
-
- <./assets/logo3.jpg> <./assets/logo.png>]
-\openout2 = `acknowledgement.aux'.
-
- (acknowledgement.tex)
-
-[3
-
-
-
-
-]
-\openout2 = `abstract.aux'.
-
- (abstract.tex)
-
-[4
-
-
-
-
-] (main.toc
-
-[5
-
-
-
-])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
-
-
-[6] (main.lof)
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
-
-
-[7
-
-] (main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
-
-
-
-[8
-
-]
 \openout2 = `ch-1.aux'.
 
  (ch-1.tex
 Chapter 1.
-)
+
 
 [1
 
 
 
 ]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8])
+
+[9]
 \openout2 = `ch-2.aux'.
 
  (ch-2.tex
 Chapter 2.
 )
 
-[2
+[10
 
 
 
@@ -1375,66 +1314,19 @@ Chapter 2.
 Chapter 3.
 )
 
-[3
-
-
-
-
-]
-\openout2 = `ch-4.aux'.
-
- (ch-4.tex
-Chapter 4.
-)
-
-[4
-
-
-
-
-]
-\openout2 = `ch-5.aux'.
-
- (ch-5.tex
-Chapter 5.
-)
-
-[5
+[11
 
 
 
 
 ]
 
-[6
+[12
 
 
 
 
-]
-\openout2 = `appendix.aux'.
-
- (appendix.tex)
-
-[7
-
-
-]
-\openout2 = `curriculum-vitae.aux'.
-
- (curriculum-vitae.tex
-File: ./assets/logo.png Graphic file (type png)
-<use ./assets/logo.png>
-Package pdftex.def Info: ./assets/logo.png  used on input line 5.
-(pdftex.def)             Requested size: 56.90189pt x 56.9055pt.
-)
-
-[8
-
-
-
-
-] (main.aux (approval-sheet.aux) (acknowledgement.aux) (abstract.aux) (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (ch-5.aux) (appendix.aux) (curriculum-vitae.aux))
+] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1444,17 +1336,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50706 strings out of 468081
- 1188737 string characters out of 5425788
- 2269372 words of memory out of 5000000
- 78604 multiletter control sequences out of 15000+600000
- 634703 words of font info for 63 fonts, out of 8000000 for 9000
+ 50698 strings out of 468081
+ 1187710 string characters out of 5425788
+ 2253261 words of memory out of 5000000
+ 78671 multiletter control sequences out of 15000+600000
+ 629986 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,149p,787b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (16 pages, 2177244 bytes).
+ 123i,11n,149p,1358b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (13 pages, 496803 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
