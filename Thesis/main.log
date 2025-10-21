@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  21 OCT 2025 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  21 OCT 2025 23:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ADMIN/Desktop/Cude/LateX/Thesis/main.tex
-(c:/Users/ADMIN/Desktop/Cude/LateX/Thesis/main.tex
+**c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
+(c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -1138,7 +1138,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (main.aux (approval-sheet.aux) (acknowledgement.aux) (abstract.aux) (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (ch-5.aux) (appendix.aux) (curriculum-vitae.aux))
+ (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1268,74 +1268,21 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 [1
 
 
-{C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/logo2.jpg>]
-\openout2 = `approval-sheet.aux'.
-
- (approval-sheet.tex
-File: ./assets/logo2.jpg Graphic file (type jpg)
-<use ./assets/logo2.jpg>
-Package pdftex.def Info: ./assets/logo2.jpg  used on input line 9.
-(pdftex.def)             Requested size: 51.21504pt x 51.2117pt.
-<./assets/logo3.jpg, id=15, 271.4943pt x 285.34605pt>
-File: ./assets/logo3.jpg Graphic file (type jpg)
-<use ./assets/logo3.jpg>
-Package pdftex.def Info: ./assets/logo3.jpg  used on input line 11.
-(pdftex.def)             Requested size: 51.21504pt x 53.82445pt.
-<./assets/logo.png, id=16, 722.7pt x 722.7pt>
-File: ./assets/logo.png Graphic file (type png)
-<use ./assets/logo.png>
-Package pdftex.def Info: ./assets/logo.png  used on input line 13.
-(pdftex.def)             Requested size: 51.21504pt x 51.2117pt.
-
-
-
-
-
-
-)
-
-[2
-
-
- <./assets/logo3.jpg> <./assets/logo.png>]
-\openout2 = `acknowledgement.aux'.
-
- (acknowledgement.tex)
-
-[3
-
-
-
-
-]
-\openout2 = `abstract.aux'.
-
- (abstract.tex)
-
-[4
-
-
-
-
-] (main.toc
-
-[5
-
-
-
-])
+{C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/logo2.jpg>] (main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 
 
-[6] (main.lof)
+[2
+
+] (main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
 
 
-[7
+[3
 
 ] (main.lot)
 \tf@lot=\write7
@@ -1343,7 +1290,7 @@ Package pdftex.def Info: ./assets/logo.png  used on input line 13.
 
 
 
-[8
+[4
 
 ]
 \openout2 = `ch-1.aux'.
@@ -1381,60 +1328,13 @@ Chapter 3.
 
 
 ]
-\openout2 = `ch-4.aux'.
-
- (ch-4.tex
-Chapter 4.
-)
 
 [4
 
 
 
 
-]
-\openout2 = `ch-5.aux'.
-
- (ch-5.tex
-Chapter 5.
-)
-
-[5
-
-
-
-
-]
-
-[6
-
-
-
-
-]
-\openout2 = `appendix.aux'.
-
- (appendix.tex)
-
-[7
-
-
-]
-\openout2 = `curriculum-vitae.aux'.
-
- (curriculum-vitae.tex
-File: ./assets/logo.png Graphic file (type png)
-<use ./assets/logo.png>
-Package pdftex.def Info: ./assets/logo.png  used on input line 5.
-(pdftex.def)             Requested size: 56.90189pt x 56.9055pt.
-)
-
-[8
-
-
-
-
-] (main.aux (approval-sheet.aux) (acknowledgement.aux) (abstract.aux) (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (ch-5.aux) (appendix.aux) (curriculum-vitae.aux))
+] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1444,17 +1344,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50706 strings out of 468080
- 1188401 string characters out of 5425767
- 2269359 words of memory out of 5000000
- 78605 multiletter control sequences out of 15000+600000
- 634703 words of font info for 63 fonts, out of 8000000 for 9000
+ 50460 strings out of 468081
+ 1182278 string characters out of 5425788
+ 2250159 words of memory out of 5000000
+ 78427 multiletter control sequences out of 15000+600000
+ 633099 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,149p,779b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (16 pages, 2177233 bytes).
+ 123i,11n,149p,787b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (8 pages, 481902 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
