@@ -1,0 +1,73 @@
+\documentclass[11pt]{letter}
+\usepackage{graphicx}
+\usepackage{marvosym}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{tabularray}
+\usepackage{geometry}
+\geometry{paperheight=13in,paperwidth=8.5in,top=2cm,bottom=2cm,left=2.5cm,right=2.5cm}
+\usepackage{caption}
+\usepackage{newfloat}
+\usepackage{multicol}
+\usepackage{float}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,
+	urlcolor=black,
+}
+
+\DeclareFloatingEnvironment[fileext=lot]{table}
+
+\newcommand{\myname}{\textbf{LETTER SENDER}}
+\newcommand{\mytitle}{Position/Designation}
+\signature{\myname\\\mytitle}
+
+\makeatletter
+\renewcommand\date[1]{\gdef\@date{\hbox to \linewidth{#1\hss}}}
+\makeatother
+\date{SPECIFY DATE} % Don't forget to change the date.
+
+\begin{document}
+
+\begin{letter}{
+		\textbf{LETTER RECEPIENT}\\
+		Position/Designation\\
+		Company/Agency/Office\\[1em]
+		% Uncomment the next line for 'thru' indications
+		\hspace*{1em} Thru: Proper Channels
+	}
+
+	\hspace{0.1cm}
+	\includegraphics[width=0.15\textwidth]{logo.png}
+	%\hspace{0.5\textwidth}
+	\vspace{-3cm}
+
+	\begin{center}
+		Mindanao State University - General Santos\\
+		\textbf{CIVIL ENGINEERING DEPARTMENT}\\
+		H1-03, H-Building, Engineering Drive\\
+		Brgy.\ Fatima, General Santos City\\
+		\href{mailto:ce_engg@msugensan.edu.ph}{\nolinkurl{ce_engg@msugensan.edu.ph}}
+	\end{center}
+	\vspace{1em}
+	\hrule
+	\vspace{2em}
+	\opening{SALUTATION} % Change Salutations if necessary.
+
+	\pagestyle{empty}
+	\setstretch{1.25} % Change line spacing to desired value.
+
+	THIS IS WHERE THE BODY OF THE LETTER GOES \dots
+
+	\vspace*{1em}
+	\closing{Respectfully,}
+	\vspace*{1em}
+	Noted by:\\[3em]
+	ADMIN NOTING THE LETTER\\
+	Position/Designation\\
+	Office\\[6em]
+	\small{CC: \hspace{1em} Campus Security Office}
+\end{letter}
+\end{document}
