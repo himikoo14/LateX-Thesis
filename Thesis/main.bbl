@@ -99,42 +99,6 @@
       \field{year}{2023}
       \field{dateera}{ce}
     \endentry
-    \entry{gioncu_earthquake_2011}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=22e6b85a39befe841fb0604dd9e63ca3}{%
-           family={Gioncu},
-           familyi={G\bibinitperiod},
-           given={Victor},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=83c9d565cd9a23d4d095314e1cdfb548}{%
-           family={Mazzolani},
-           familyi={M\bibinitperiod},
-           given={Federico\bibnamedelima M.},
-           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Spon P}%
-      }
-      \strng{namehash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{fullhash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{fullhashraw}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{bibnamehash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{authorbibnamehash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{authornamehash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{authorfullhash}{8417f84a7875f52487456c47dce5a7ae}
-      \strng{authorfullhashraw}{8417f84a7875f52487456c47dce5a7ae}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{pagetotal}{566}
-      \field{title}{Earthquake Engineering for Structural Design}
-      \field{year}{2011}
-      \field{dateera}{ce}
-    \endentry
     \entry{incierto_mathematics_nodate}{thesis}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=77f2ef920bf1521ace8ed73b8b97de5a}{%
@@ -181,73 +145,6 @@
       \endverb
       \verb{url}
       \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
-      \endverb
-    \endentry
-    \entry{rutz_student_2003}{article}{}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=db222f1cd67602e0f888c6b41f913f41}{%
-           family={Rutz},
-           familyi={R\bibinitperiod},
-           given={Eugene},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f0864b197f6beb4cc3a720a733e27a0b}{%
-           family={Eckart},
-           familyi={E\bibinitperiod},
-           given={Roy},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=853b01596eab54e764830fed0134df2e}{%
-           family={E.\bibnamedelimi Wade},
-           familyi={E\bibinitperiod\bibinitdelim W\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=207cd050ec703d1a3a01bda415f121b3}{%
-           family={Maltbie},
-           familyi={M\bibinitperiod},
-           given={Cathy},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f3c8dcaed71c6308c760f22908a45e02}{%
-           family={Rafter},
-           familyi={R\bibinitperiod},
-           given={Catherine},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=66604824f99b0358d188662825ca5897}{%
-           family={Elkins},
-           familyi={E\bibinitperiod},
-           given={Virginia},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2bb2e314a489845b67ae0a5493913c76}
-      \strng{fullhash}{6c440ca74276a9474b1f5c501ed844a3}
-      \strng{fullhashraw}{6c440ca74276a9474b1f5c501ed844a3}
-      \strng{bibnamehash}{2bb2e314a489845b67ae0a5493913c76}
-      \strng{authorbibnamehash}{2bb2e314a489845b67ae0a5493913c76}
-      \strng{authornamehash}{2bb2e314a489845b67ae0a5493913c76}
-      \strng{authorfullhash}{6c440ca74276a9474b1f5c501ed844a3}
-      \strng{authorfullhashraw}{6c440ca74276a9474b1f5c501ed844a3}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The College of Engineering at the University of Cincinnati has evaluated the use of instructional technologies to improve the learning process for students in fundamental engineering science courses. The goal of this effort was to both retain more students in engineering programs and improve student performance through appropriate use of technology. Four modes of instruction were used to teach an engineering fundamentals course in statics. A traditional instructor-led course, a Web-assisted course, a streaming media course, and an interactive video course were all presented using a common syllabus, homework, tests, and grading regimen. Evaluations of final course grades indicate that use of instructional technology improved student performance when compared with traditional teaching methods. Student satisfaction with technology varied considerably with the Web-assisted format having the highest student approval rating of the technologies. The results indicate that time on task and interest in content can be improved through the appropriate use of technology.}
-      \field{issn}{2168-9830}
-      \field{journaltitle}{Journal of Engineering Education}
-      \field{number}{2}
-      \field{shorttitle}{Student Performance and Acceptance of Instructional Technology}
-      \field{title}{Student Performance and Acceptance of Instructional Technology: Comparing Technology-Enhanced and Traditional Instruction for a Course in Statics}
-      \field{volume}{92}
-      \field{year}{2003}
-      \field{dateera}{ce}
-      \field{pages}{133\bibrangedash 140}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1002/j.2168-9830.2003.tb00751.x
       \endverb
     \endentry
     \entry{salami_challenges_2025}{inproceedings}{}{}
@@ -346,6 +243,115 @@
       \verb{doi}
       \verb 10.30935/scimath/13867
       \endverb
+    \endentry
+    \entry{szymkowiak_information_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=26fecf4c0d6f11e79d55095952926f97}{%
+           family={Szymkowiak},
+           familyi={S\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09ab67182bdbb9165f62b6ad3671b4d3}{%
+           family={Melović},
+           familyi={M\bibinitperiod},
+           given={Boban},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45d587b7646ac812ade65a38e3a50c51}{%
+           family={Dabić},
+           familyi={D\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a211ffbc2645422eedd9f62bb32bcad}{%
+           family={Jeganathan},
+           familyi={J\bibinitperiod},
+           given={Kishokanth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8e7addacb5d2d635e8a7be2d807aaf}{%
+           family={Kundi},
+           familyi={K\bibinitperiod},
+           given={Gagandeep\bibnamedelima Singh},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{fullhash}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{fullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{bibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authorbibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authornamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authorfullhash}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{authorfullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Technological progress has influenced the way we acquire knowledge and learn. On the other hand, the Internet provides fast access to information technology in different fields and thus, improves efficiency and saves time. The importance of online technology is especially emphasized in new methods for learning and education. This is particularly important among Generation Z (“Gen Z″), which derives knowledge from the Internet and is focused on a quick search of information. The aim of this paper is to determine how technology and the Internet affect the acquisition of knowledge by Generation Z, and which forms of knowledge acquisition this generation prefers. In our paper, the problem concerns various forms of learning and acquiring knowledge. Research was conducted among 498 young people actively using an online peer-to-peer knowledge-sharing community. The results of {ANOVA} analysis showed the respondents being more partial towards learning via mobile applications and video content over the traditional form. It also discovered that the students tended to emulate their teachers who integrated modern technologies into their curriculum and used it outside classroom hours for learning. The results of this research make several important theoretical contributions to the gap in knowledge acquisition by Gen Z, and provide several important practical recommendations for educators.}
+      \field{day}{1}
+      \field{issn}{0160-791X}
+      \field{journaltitle}{Technology in Society}
+      \field{month}{5}
+      \field{shortjournal}{Technology in Society}
+      \field{shorttitle}{Information technology and Gen Z}
+      \field{title}{Information technology and Gen Z: The role of teachers, the internet, and technology in the education of young people}
+      \field{volume}{65}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{101565}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.techsoc.2021.101565
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\TTP2GGBJ\\S0160791X21000403.html:text/html
+      \endverb
+      \keyw{Gen Z,Internet,Knowledge,Technology}
+    \endentry
+    \entry{zeichner_using_2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9880672f2c7854d0468ff9988b9928}{%
+           family={Zeichner},
+           familyi={Z\bibinitperiod},
+           given={Orit},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{fullhash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{fullhashraw}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{bibnamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorbibnamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authornamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorfullhash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorfullhashraw}{4b9880672f2c7854d0468ff9988b9928}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examined the effect of learning in a computerized environment that includes simulations on the students' achievements and motivation, and is based on models that show that learning through simulation has more potential to promote the comprehension of abstract principles and concepts than traditional learning does. The theoretical background describes studies on technology in teaching, simulations and their role in teaching, learning motivation, and achievements. To examine the relationship between learning through simulation and achievements in the learning of operation systems in Information and Communications Technology ({ICT}) classes, we developed five simulations on a {FLASH} platform for each unit in the study program. The simulations were accompanied by interactive activity pages. This is a mixed-methods (quantitative and qualitative) research. The tools included preliminary and summary questionnaires. The sample included 151 high school students, who were divided randomly into two groups: experiment group--learned through online simulations (N=74); control group--learned without simulations (N=77). The findings indicated that students in the experiment group significantly improved their achievements. Also, integrating simulations in learning increased the students' motivation to learn {ICT}, and improved their comprehension of the study topics. The participants in the experiment group noted that learning {ICT} was important, and should be learned at school, as it is closely linked to their everyday lives.}
+      \field{issn}{0973-2217}
+      \field{journaltitle}{Journal on School Educational Technology}
+      \field{langid}{english}
+      \field{note}{Publisher: i-manager Publications {ERIC} Number: {EJ}1354679}
+      \field{number}{1}
+      \field{title}{Using Simulations to Improve Achievements and Motivation in {ICT} Studies}
+      \field{volume}{16}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 24}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.26634/jsch.16.1.17426
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\TKYKPKLC\\eric.ed.gov.html:text/html
+      \endverb
+      \keyw{Academic Achievement,Computer Science Education,Computer Simulation,Educational Technology,High School Students,Information Technology,Middle School Students,Student Attitudes,Student Motivation,Technology Integration}
     \endentry
   \enddatalist
 \endrefsection
