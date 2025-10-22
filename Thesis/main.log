@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  22 OCT 2025 00:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  22 OCT 2025 21:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
-(c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
+**c:/Users/ADMIN/Desktop/Cude/LateX/Thesis/main.tex
+(c:/Users/ADMIN/Desktop/Cude/LateX/Thesis/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -1336,13 +1336,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50698 strings out of 468081
- 1187710 string characters out of 5425788
- 2253261 words of memory out of 5000000
- 78671 multiletter control sequences out of 15000+600000
+ 50698 strings out of 468080
+ 1187566 string characters out of 5425767
+ 2253262 words of memory out of 5000000
+ 78672 multiletter control sequences out of 15000+600000
  629986 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,149p,1358b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,11n,149p,1350b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on main.pdf (13 pages, 496803 bytes).
 PDF statistics:
