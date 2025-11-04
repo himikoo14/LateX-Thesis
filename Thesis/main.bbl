@@ -1,0 +1,359 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{de_la_hoz_self-explanation_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e499c52438f2b0c56fd36bde70946f51}{%
+           family={De\bibnamedelima La\bibnamedelima Hoz},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Jose\bibnamedelima Luis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2aab2683b990713a38bfd95530b9912}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5cedee6ea35ec8a7d19ba60d237d9d2}{%
+           family={Arteta},
+           familyi={A\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{521343eb702f8e625ec32d21fe901b48}
+      \strng{fullhash}{21d6ec195b432d76949f74b4af849ddb}
+      \strng{fullhashraw}{21d6ec195b432d76949f74b4af849ddb}
+      \strng{bibnamehash}{521343eb702f8e625ec32d21fe901b48}
+      \strng{authorbibnamehash}{521343eb702f8e625ec32d21fe901b48}
+      \strng{authornamehash}{521343eb702f8e625ec32d21fe901b48}
+      \strng{authorfullhash}{21d6ec195b432d76949f74b4af849ddb}
+      \strng{authorfullhashraw}{21d6ec195b432d76949f74b4af849ddb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background The complexity and diversity of problems and concepts in different engineering subjects represent a great challenge for students. Traditional approaches to teaching statics are ineffective in helping some students overcome the learning barriers that underlie learning statics and developing problem-solving skills. Purpose This article explores how self-explanation activities may support student learning in statics. Specifically, this study examines the characteristics of student self-explanations of worked examples and their relationship with students′ conceptual change. Design/Method The study population included 147 undergraduate engineering students enrolled in a statics course. The students wrote their self-explanations at each step of an incomplete or incorrect worked example in the context of static equilibrium. Students′ self-explanations were qualitatively analyzed using content analysis to identify the approaches used. We used descriptive and inferential statistics to identify differences in students′ conceptual understanding of statics, based on their approach to self-explanation. Results We identified four self-explaining approaches: restricted explanations, elemental explanations, inferential explanations, and strategic explanations. After completing the activity, students who self-explained incomplete worked examples showed better results in the quality of their explanations and conceptual change than students in the incorrect worked example condition. Conclusions The findings suggest a relationship between the type of worked example, students' approaches to self-explaining, and their conceptual change and problem-solving skills in statics. To increase the quality of the students' explanations and to improve their conceptual understanding, additional prompts or initial training in self-explaining may be required within the worked-examples context.}
+      \field{issn}{2168-9830}
+      \field{journaltitle}{Journal of Engineering Education}
+      \field{number}{3}
+      \field{shorttitle}{Self-explanation activities in statics}
+      \field{title}{Self-explanation activities in statics: A knowledge-building activity to promote conceptual change}
+      \field{volume}{112}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{741\bibrangedash 768}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1002/jee.20531
+      \endverb
+      \keyw{conceptual change,incomplete worked examples,incorrect worked examples,problem solving,self-explanation,statics}
+    \endentry
+    \entry{felix_analyzing_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29451e38499a98be8665c67f023b1491}{%
+           family={Felix},
+           familyi={F\bibinitperiod},
+           given={Criselda\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{29451e38499a98be8665c67f023b1491}
+      \strng{fullhash}{29451e38499a98be8665c67f023b1491}
+      \strng{fullhashraw}{29451e38499a98be8665c67f023b1491}
+      \strng{bibnamehash}{29451e38499a98be8665c67f023b1491}
+      \strng{authorbibnamehash}{29451e38499a98be8665c67f023b1491}
+      \strng{authornamehash}{29451e38499a98be8665c67f023b1491}
+      \strng{authorfullhash}{29451e38499a98be8665c67f023b1491}
+      \strng{authorfullhashraw}{29451e38499a98be8665c67f023b1491}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This research provides an overview of the challenges faced by college freshmen in understanding Mathematics 1 (College Algebra) and finds that many students end up flunking the subject. The study employed a descriptive-normative quantitative research design, analyzing data collected from 267 college freshmen students which were identified through total random sampling method. A Likert-type survey was used, asking students to rate their mathematical difficulty as freshmen students. By studying responses gathered from students, the research highlights the need for adequate teaching materials, skilled teachers and the provision of textbooks and other supplies for classroom learning. The findings suggest that school heads should prioritize the provision of such teaching materials to ensure a successful learning experience for students in Mathematics 1 (college algebra) and that teachers should be knowledgeable about a discovery approach and given ample time to offer remedial instructions for struggling students. Furthermore, the research establishes that teachers should be well-versed in the subject matter to ensure the best outcome for the students. The implications of this research are clear: school heads and teachers must prioritize student success by providing effective teaching materials and remedial instructions to ensure student comprehension.}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Analyzing the Impact of Declining Math Skills on College Readiness for Incoming Freshmen}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{incierto_mathematics_nodate}{thesis}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=77f2ef920bf1521ace8ed73b8b97de5a}{%
+           family={Incierto},
+           familyi={I\bibinitperiod},
+           given={Theresa\bibnamedelima Christine},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6a02b5464ed6668b76a882e572529bd}{%
+           family={Mondejar},
+           familyi={M\bibinitperiod},
+           given={May\bibnamedelima Bellen},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d202a3085731d95c77c7903653018b24}{%
+           family={Nellas},
+           familyi={N\bibinitperiod},
+           given={Zoren},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{401bd6459c30f440387cfad72c78cac0}
+      \strng{fullhash}{8fb354e0c85ca65edeccc87bfcd91426}
+      \strng{fullhashraw}{8fb354e0c85ca65edeccc87bfcd91426}
+      \strng{bibnamehash}{401bd6459c30f440387cfad72c78cac0}
+      \strng{authorbibnamehash}{401bd6459c30f440387cfad72c78cac0}
+      \strng{authornamehash}{401bd6459c30f440387cfad72c78cac0}
+      \strng{authorfullhash}{8fb354e0c85ca65edeccc87bfcd91426}
+      \strng{authorfullhashraw}{8fb354e0c85ca65edeccc87bfcd91426}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This thesis examines the mathematics anxiety level and academic performance of first-year education students at Mandaue City College in the new normal online learning environment. 83 students were surveyed to determine their math anxiety level using a questionnaire and their academic performance was measured using their average grades. The study found a significant relationship between higher math anxiety and lower academic performance. It was concluded that theories around math anxiety causing poor performance or vice versa were affirmed. Recommendations include providing student support and implementing an intervention program to reduce anxiety and improve grades.}
+      \field{title}{Mathematics Anxiety Level of The First Year Education Students in Manduae City College in The New Normal in Relation To Their Academic Performance {\textbackslash}textbar {PDF} {\textbackslash}textbar Correlation And Dependence {\textbackslash}textbar Anxiety}
+      \field{type}{research}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
+      \endverb
+      \verb{url}
+      \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
+      \endverb
+    \endentry
+    \entry{salami_challenges_2025}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3a157315beb004bcf5388aded4be8da8}{%
+           family={Salami},
+           familyi={S\bibinitperiod},
+           given={Ibukunoluwa},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79b767ae677ed447b04606a137672d75}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Logan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montreal, Quebec, Canada}%
+      }
+      \list{publisher}{1}{%
+        {{ASEE} Conferences}%
+      }
+      \strng{namehash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{fullhash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{fullhashraw}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{bibnamehash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{authorbibnamehash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{authornamehash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{authorfullhash}{81732821ad00c4a1a5416da82bdec3a3}
+      \strng{authorfullhashraw}{81732821ad00c4a1a5416da82bdec3a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Engineering statics is a foundational course for engineering students, serving as a prerequisite for advanced courses such as mechanics of materials and playing a critical role in determining student retention in engineering programs. However, an analysis from a Midwestern university revealed that an average of 11.4\% of students across all courses received D, F, or W grades as compared to 26.9\% D, F, W rates in engineering statics, highlighting statics as a challenging course for students. A previous study explored instructors' perspectives on the high rate of D, F and W grade in engineering statics, themes such as “difficulty in introducing practical applications, large class sizes, weak foundations in prerequisites, inconsistent use of resources, and insufficient attention to detail” highlighted the reasons why instructors perceive students’ perform poorly in engineering statics.}
+      \field{booktitle}{2025 {ASEE} Annual Conference \& Exposition Proceedings}
+      \field{eventtitle}{2025 {ASEE} Annual Conference \& Exposition}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shorttitle}{Challenges in Engineering Statics}
+      \field{title}{Challenges in Engineering Statics: Students' Perceptions of Their Difficulties}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{56077}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.18260/1-2--56077
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\H68WD3B8\\Salami and Perry - 2025 - Challenges in Engineering Statics Students' Perceptions of Their Difficulties.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{segarra_does_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=24d86343fb56585102b75edf6531e047}{%
+           family={Segarra},
+           familyi={S\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c236327cec46294f2d080a4db535dfd}{%
+           family={Cabrera-Martínez},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Abel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{fullhash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{fullhashraw}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{bibnamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{authorbibnamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{authornamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{authorfullhash}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \strng{authorfullhashraw}{a6b8e3d7847d9c5d660ccc860953f26d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Received: 28 Mar 2023 Accepted: 18 Oct 2023 The objective of this research is to study if the use of the calculator decreases students’ anxiety in the subject of differential and integral calculus. Specifically, the research is carried out with 30 engineering students. Auzmendi anxiety factor questions are used to measure anxiety. The study is carried out in two moments; in the first the calculator is not used and in the second if they use it. In the second case, the calculator is used in problems involving the application of derivatives and integrals. The results indicate that the students reduce their anxiety when they use the calculator. Thus, in seven of the nine questions, students who use the calculator obtain a higher mean, it helps to reduce anxiety. In general, t-student test indicates that the moment students use the calculator they have less anxiety, and it helps to reduce errors in the mathematical process. Teachers should consider the calculator as a resource that motivates the student and helps reduce anxiety. In addition, the use of the calculator helps to reduce mathematical errors in basic operations and in the application of derivatives and integrals.}
+      \field{day}{1}
+      \field{issn}{2301-251X}
+      \field{journaltitle}{European Journal of Science and Mathematics Education}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{{EUR} J {SCI} {MATH} {ED}}
+      \field{title}{Does the use of the calculator reduce anxiety in the study of differential and integral calculus?}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{97\bibrangedash 111}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.30935/scimath/13867
+      \endverb
+    \endentry
+    \entry{szymkowiak_information_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=26fecf4c0d6f11e79d55095952926f97}{%
+           family={Szymkowiak},
+           familyi={S\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09ab67182bdbb9165f62b6ad3671b4d3}{%
+           family={Melović},
+           familyi={M\bibinitperiod},
+           given={Boban},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45d587b7646ac812ade65a38e3a50c51}{%
+           family={Dabić},
+           familyi={D\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a211ffbc2645422eedd9f62bb32bcad}{%
+           family={Jeganathan},
+           familyi={J\bibinitperiod},
+           given={Kishokanth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8e7addacb5d2d635e8a7be2d807aaf}{%
+           family={Kundi},
+           familyi={K\bibinitperiod},
+           given={Gagandeep\bibnamedelima Singh},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{fullhash}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{fullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{bibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authorbibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authornamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
+      \strng{authorfullhash}{e368ec1af51508b8299ad6a5944e84f0}
+      \strng{authorfullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Technological progress has influenced the way we acquire knowledge and learn. On the other hand, the Internet provides fast access to information technology in different fields and thus, improves efficiency and saves time. The importance of online technology is especially emphasized in new methods for learning and education. This is particularly important among Generation Z (“Gen Z″), which derives knowledge from the Internet and is focused on a quick search of information. The aim of this paper is to determine how technology and the Internet affect the acquisition of knowledge by Generation Z, and which forms of knowledge acquisition this generation prefers. In our paper, the problem concerns various forms of learning and acquiring knowledge. Research was conducted among 498 young people actively using an online peer-to-peer knowledge-sharing community. The results of {ANOVA} analysis showed the respondents being more partial towards learning via mobile applications and video content over the traditional form. It also discovered that the students tended to emulate their teachers who integrated modern technologies into their curriculum and used it outside classroom hours for learning. The results of this research make several important theoretical contributions to the gap in knowledge acquisition by Gen Z, and provide several important practical recommendations for educators.}
+      \field{day}{1}
+      \field{issn}{0160-791X}
+      \field{journaltitle}{Technology in Society}
+      \field{month}{5}
+      \field{shortjournal}{Technology in Society}
+      \field{shorttitle}{Information technology and Gen Z}
+      \field{title}{Information technology and Gen Z: The role of teachers, the internet, and technology in the education of young people}
+      \field{volume}{65}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{101565}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.techsoc.2021.101565
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\TTP2GGBJ\\S0160791X21000403.html:text/html
+      \endverb
+      \keyw{Gen Z,Internet,Knowledge,Technology}
+    \endentry
+    \entry{zeichner_using_2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9880672f2c7854d0468ff9988b9928}{%
+           family={Zeichner},
+           familyi={Z\bibinitperiod},
+           given={Orit},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{fullhash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{fullhashraw}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{bibnamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorbibnamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authornamehash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorfullhash}{4b9880672f2c7854d0468ff9988b9928}
+      \strng{authorfullhashraw}{4b9880672f2c7854d0468ff9988b9928}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examined the effect of learning in a computerized environment that includes simulations on the students' achievements and motivation, and is based on models that show that learning through simulation has more potential to promote the comprehension of abstract principles and concepts than traditional learning does. The theoretical background describes studies on technology in teaching, simulations and their role in teaching, learning motivation, and achievements. To examine the relationship between learning through simulation and achievements in the learning of operation systems in Information and Communications Technology ({ICT}) classes, we developed five simulations on a {FLASH} platform for each unit in the study program. The simulations were accompanied by interactive activity pages. This is a mixed-methods (quantitative and qualitative) research. The tools included preliminary and summary questionnaires. The sample included 151 high school students, who were divided randomly into two groups: experiment group--learned through online simulations (N=74); control group--learned without simulations (N=77). The findings indicated that students in the experiment group significantly improved their achievements. Also, integrating simulations in learning increased the students' motivation to learn {ICT}, and improved their comprehension of the study topics. The participants in the experiment group noted that learning {ICT} was important, and should be learned at school, as it is closely linked to their everyday lives.}
+      \field{issn}{0973-2217}
+      \field{journaltitle}{Journal on School Educational Technology}
+      \field{langid}{english}
+      \field{note}{Publisher: i-manager Publications {ERIC} Number: {EJ}1354679}
+      \field{number}{1}
+      \field{title}{Using Simulations to Improve Achievements and Motivation in {ICT} Studies}
+      \field{volume}{16}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 24}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.26634/jsch.16.1.17426
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\TKYKPKLC\\eric.ed.gov.html:text/html
+      \endverb
+      \keyw{Academic Achievement,Computer Science Education,Computer Simulation,Educational Technology,High School Students,Information Technology,Middle School Students,Student Attitudes,Student Motivation,Technology Integration}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
