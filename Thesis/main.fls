@@ -446,6 +446,13 @@ INPUT ch-1.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
+INPUT .\assets\conceptual_framework.jpg
 INPUT .\ch-2.tex
 OUTPUT ch-2.aux
 INPUT .\ch-2.tex
