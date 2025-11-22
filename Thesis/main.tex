@@ -1,0 +1,93 @@
+\documentclass[a4paper, 11pt, oneside]{book}
+
+% The Preamble is applied through a separate file.
+% Please do not change anything in that file unless
+% you are sure of what you are doing.
+\input{preamble.tex}
+
+% The Thesis Title (in UPPERCASE)
+\title{STATICALCS: AN INTERACTIVE WEB-BASED LEARNING TOOL WITH INTEGRATED CALCULATORS FOR STATICS OF RIGID  BODIES 
+}
+
+% Author/s
+% (Separate Names with the "\\" command)
+\author{
+    IAN CARL P. COÑA\\
+    SOPHIA DAPHNE C. FAELNAR
+}
+
+% Month of Submission
+\date{Novemberr 2025}
+
+\begin{document}
+
+% Un-comment this command to show line numbers 
+% on the left side margin of your file.
+% \linenumbers
+
+% This command separates the front matter and formats it
+% differently from the main body of the manuscript.
+\frontmatter
+
+% Title Page
+\thispagestyle{empty}
+\begin{titlepage}
+	\addcontentsline{toc}{chapter}{Title Page}
+\end{titlepage}
+
+% Approval Sheet
+%\include{approval-sheet.tex}
+
+% Acknowledgement
+%\include{acknowledgement.tex}
+
+% Abstract
+%\include{abstract.tex}
+
+% Table of Contents
+\tableofcontents
+\thispagestyle{frontmatter}
+
+% List of Figures
+%\listoffigures
+%\addcontentsline{toc}{chapter}{List of Figures}
+%\thispagestyle{frontmatter}
+
+%List of Tables
+%listoftables
+%\addcontentsline{toc}{chapter}{List of Tables}
+%\thispagestyle{frontmatter}
+
+% This is where the main content (body) of the thesis starts.
+\mainmatter
+
+% Chapter 1
+\include{ch-1.tex}
+
+% Chapter 2
+\include{ch-2.tex}
+
+% Chapter 3
+\include{ch-3.tex}
+
+% Chapter 4
+%\include{ch-4.tex}
+
+% Chapter 5
+%\include{ch-5.tex}
+
+% This separates back matter and formats it differently
+% from the rest of the manuscript.
+\backmatter
+
+% Bibliography/References
+\printbibliography
+\addcontentsline{toc}{chapter}{References}
+
+% Appendices
+%\include{appendix.tex}
+
+% Curriculum Vitae
+%\include{curriculum-vitae.tex}
+
+\end{document}
