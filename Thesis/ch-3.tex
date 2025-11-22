@@ -1,10 +1,104 @@
 \chapter{Methodology}\label{ch:3}
 
+    \hspace{1cm}This chapter presents the research method, respondents, locale, instrument, and procedure used in the study. It explains how the research will be conducted to determine the perceptions of Civil Engineering students and faculty toward \textit{StatiCalc}, an interactive web-based learning tool developed for the subject Statics of Rigid Bodies.
+
+%---------------------------------------------------------------------
+
 \section{Research Method}\label{sec:3-method}
+
+    \hspace{1cm}This study will use a quantitative research method, which focuses on collecting and analyzing numerical data to describe patterns, relationships, and differences among variables. According to \cite{apuke_quantitative_2017}, quantitative research involves a systematic investigation that uses statistical techniques to produce objective and measurable results. This method is appropriate for the present study because it seeks to gather data from Civil Engineering students and instructors to assess and compare their perceptions of the developed web-based learning tool, \textit{StatiCalc}.
+
+    \hspace{1cm}Specifically, a correlational quantitative approach will be applied. As defined by Creswell (2014), this approach examines the relationship or difference between two or more variables to determine whether a significant association exists. In this study, it will be used to determine the significant difference between the perceptions of students and instructors regarding the usability, accessibility, and satisfaction of \textit{StatiCalc}. This method will allow the researchers to statistically analyze the degree to which these two groups differ in their perceptions, providing insights into the effectiveness and acceptance of the developed learning tool across users.
+
+%---------------------------------------------------------------------
+
+\section{Research Respondents}\label{sec:3-respo}
+
+\hspace{1cm}The respondents of this study will be selected Bachelor of Science in Civil Engineering students and teaching faculty from the College of Engineering at Mindanao State University – General Santos (MSU-Gensan). The student respondents will include second-year and higher-level Civil Engineering students who are either currently enrolled in or have already completed the course Statics of Rigid Bodies (ENS 161). This selection ensures that participants have sufficient background and experience with the subject, allowing them to provide reliable feedback on the developed web-based learning tool, \textit{StatiCalc}. The faculty respondents, on the other hand, will consist of instructors who are currently teaching or have previously taught Statics of Rigid Bodies, as they can provide expert evaluation regarding the tool’s usability, accessibility, and relevance to the course content.
+
+%---------------------------------------------------------------------
 
 \section{Research Locale}\label{sec:3-locale}
 
+\hspace{1cm}This study will be conducted at the College of Engineering, Mindanao State University – General Santos (MSU-Gensan), located in Fatima, General Santos City. The college offers various engineering programs, including Civil, Mechanical, Electrical, and Agricultural and Biosystems Engineering. The research will primarily focus on the Engineering Building, where most classroom lectures, computer laboratory sessions, and faculty offices are situated. This location is ideal for the study since it houses both the student respondents taking Statics of Rigid Bodies and the faculty members teaching the subject.
+
+%---------------------------------------------------------------------
+
 \section{Research Procedure}\label{sec:3-proc}
+
+%add here gina pa add ni sir kay ian
+
+\hspace{1cm}The researchers will conceptualize, design, and develop a web-based learning tool called \textit{StatiCalc}, an interactive platform with integrated calculators specifically designed for the subject Statics of Rigid Bodies. The system will undergo evaluation and approval by experts in the field to ensure its accuracy, functionality, and relevance to the course. A researcher-made questionnaire will then be developed to measure the level of perception of Civil Engineering students and instructors in terms of usability, accessibility, and satisfaction. Before data gathering, a formal letter of permission to conduct the study will be submitted to the Dean of the College of Engineering at Mindanao State University–General Santos.
+
+\hspace{1cm}The researchers will administer the questionnaire to the selected respondents composed of Civil Engineering students and faculty members. After data collection, the gathered responses will be encoded, organized, and subjected to statistical analysis.
+
+%......
+
+\subsection{Website Development Process}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{assets/systemflowchart.jpg}
+    \caption{System Flow Chart}
+    \label{fig:system_flow_chart}
+\end{figure}
+
+The website development began by identifying the appropriate programming language and technologies to use. Since Java is widely known for its reliability, security, and strong support for web development, it was selected as the primary language for building the backend and handling the application's logic. Java’s object-oriented features and its ability to support large, complex systems made it a suitable choice for this project.
+
+To store the project files and manage version control, GitHub was used as the code repository. This platform enabled easy tracking of changes, collaboration, and source code backups. It also provided seamless integration with deployment services, making it convenient to update the website when needed.
+
+For the frontend design, Tailwind CSS was used to build the user interface. Tailwind CSS is a utility-first CSS framework that allows developers to style web pages efficiently without writing long custom CSS codes. It helped in designing a clean, responsive, and modern layout while ensuring consistent styling across all pages.
+
+Additionally, ChatGPT was utilized throughout the development process to assist with web design decisions, code arrangements, and debugging. Its guidance helped improve code structure, resolve errors, and streamline the workflow, making development more efficient.
+
+Finally, Netlify was chosen as the hosting and deployment platform. Netlify is a cloud platform that automates the building, deployment, and hosting of modern websites and web applications. By connecting the GitHub repository to Netlify, every change made to the code was automatically built and deployed online. This allowed for continuous updates and ensured the website remained accessible to users on the internet.
+
+Overall, the development process followed a modern workflow using Java for backend development, GitHub for code management, Tailwind CSS for frontend styling, and Netlify for automated hosting and deployment.
+
+
+
+\subsection{Website Navigation and Functional Flow}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{assets/webflowchart.jpg}
+    \caption{User journey flow chart}
+    \label{fig:user_journey_flow}
+\end{figure}
+
+
+The website begins at the Landing Page, which acts as the main entry point for users. From this page, users are provided with navigational options to explore introductory sections such as About / Project Story, Meet the Developers, and Contact / Feedback. These sections help users understand the objectives of the project, know the creators behind the system, and provide a communication channel for inquiries or suggestions.
+
+From the Landing Page, users encounter a decision point labeled Choose Path, where they decide whether to proceed to the Learning Section or directly access the Solver Tools.
+
+If the user selects the Learning Path, they are directed to the Introduction / Theory page, which presents foundational concepts in statics. Following this, users proceed to Topic Pages (Chapter 1: Introduction to Statics), which include lessons on essential topics such as Equilibrium, Distributed Loads, Structures, and 2D/3D Concepts. After gaining theoretical knowledge, users move to the Learn How to Use Solvers section, which offers instructional guides on how to properly use the computational tools for structural analysis.
+
+To further support learning, users may visit the Reference Page, which contains formula compilations, example problems, and relevant learning materials. An FAQ / Help section is also available to address common issues and user concerns. If additional support is needed, users may contact the developers directly through the Contact Page.
+
+Alternatively, if the user chooses the direct problem-solving pathway, they proceed to a second decision point called Select Solver Type. The available solver tools are aligned with the chapters covered in the theoretical section, including:
+
+\begin{itemize}
+    \item Chapter 1: Introduction to Statics
+    \item Chapter 2: Force Systems – 2D and 3D Resultant Force Calculator
+    \item Chapter 3: Equilibrium – Equilibrium Calculator
+    \item Chapter 4: Structures – Truss Analysis Calculator
+    \item Chapter 5: Distributed Loads – Structural Analysis Calculator for Distributed Load Effects
+\end{itemize}
+
+After selecting a specific solver, the user proceeds to Run Analysis \& Get Results. Following computation, a View Results Summary page displays the output in a clear and structured format.
+
+From this results page, users have three options:
+
+\begin{enumerate}
+    \item Generate and view Force Diagrams / Deflection Plot
+    \item Download results as PDF or formatted report
+    \item Modify input parameters and Recalculate to explore different solutions or optimize results
+\end{enumerate}
+
+This structured flow allows users to either learn fundamental engineering concepts before solving problems or directly perform structural analysis based on their needs. The design ensures flexibility, user engagement, and accessibility while supporting both educational and analytical purposes.
+
+%---------------------------------------------------------------------
 
 \section{Statistical Tools}\label{sec:3-stat}
 
+\hspace{1cm}A researcher-made instrument will be utilized in conducting this study. The tool will employ a five-point Likert scale to measure the level of perception of both students and instructors regarding the developed web-based learning tool, \textit{StatiCalc}. The survey will assess their perceptions in terms of usability, accessibility, and satisfaction. Each item in the questionnaire will be rated on a scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree), allowing for quantitative analysis of the respondents’ perceptions toward the tool’s overall usability, accessibility, and user satisfaction.
