@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1761140862.63266 "main.bcf" "main.bbl" "main" 1761140890.63737 0
-  "main.bcf" 1761140889 126557 be774180b844e5cb7d02698361eb02d7 "pdflatex"
+["biber main"] 1761140862.63266 "main.bcf" "main.bbl" "main" 1761158106.7569 0
+  "main.bcf" 1761158106 126557 be774180b844e5cb7d02698361eb02d7 "pdflatex"
   "thesis.bib" 1761140521 57382 89134b060ccc38c226a87ab1bbf4648a ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761140880.72195 "c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex" "main.pdf" "main" 1761140890.63979 0
+["pdflatex"] 1761158102.9803 "c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex" "main.pdf" "main" 1761158106.75785 0
   "C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761059487 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ADMIN/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761059343 13321623 6d6037b3df14707b926ee1dad2b89a3b ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -247,15 +247,15 @@
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "assets/logo2.jpg" 1761034267 376713 0b7975189d7e0d2901fdb09d2cb9d1a3 ""
   "c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex" 1761133051 1979 d1867d2a165be56b1f974b08fdbed68d ""
-  "ch-1.aux" 1761140889 5450 71d563bf61afcbffec512699395a6a3b "pdflatex"
+  "ch-1.aux" 1761158106 5450 71d563bf61afcbffec512699395a6a3b "pdflatex"
   "ch-1.tex" 1761140625 14783 8d4cffee8de3aeeb02cc9876ca2881bc ""
-  "ch-2.aux" 1761140889 4376 e05168798acadde1e8ca9ff59a9dfb88 "pdflatex"
-  "ch-2.tex" 1761140857 154 0eae50e194d84367ddd3bde8a633c032 ""
-  "ch-3.aux" 1761140889 5034 ffbd5f5a25decf3cb80df5994987d2bb "pdflatex"
+  "ch-2.aux" 1761158106 4376 e05168798acadde1e8ca9ff59a9dfb88 "pdflatex"
+  "ch-2.tex" 1761158102 155 8224512548319db14b302ad1c72f04a0 ""
+  "ch-3.aux" 1761158106 5034 ffbd5f5a25decf3cb80df5994987d2bb "pdflatex"
   "ch-3.tex" 1761034267 234 55553e3bf20ed6bcf379ac92868158c8 ""
-  "main.aux" 1761140889 6204 41168621c38c9f1fc753ee6e9505f3ef "pdflatex"
+  "main.aux" 1761158106 6204 41168621c38c9f1fc753ee6e9505f3ef "pdflatex"
   "main.bbl" 1761140871 24640 8c7ecfe9eaad13660aeba67e6db16f36 "biber main"
-  "main.run.xml" 1761140889 2494 cfd72517cdccd37697d5cf227975311d "pdflatex"
+  "main.run.xml" 1761158106 2494 cfd72517cdccd37697d5cf227975311d "pdflatex"
   "main.tex" 1761133051 1979 d1867d2a165be56b1f974b08fdbed68d ""
   "preamble.tex" 1761034267 4262 67d626405e85decfd4cb77b2bee3324d ""
   (generated)
