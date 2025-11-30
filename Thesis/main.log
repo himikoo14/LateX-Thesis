@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  22 NOV 2025 02:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  30 NOV 2025 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ADMIN/Desktop/Thesis-20251120T184909Z-1-001/Thesis/main.tex
-(c:/Users/ADMIN/Desktop/Thesis-20251120T184909Z-1-001/Thesis/main.tex
+**"c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex"
+(c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -1296,16 +1296,16 @@ Chapter 1.
 [3]
 
 [4]
-<assets/conceptual_framework.jpg, id=124, 752.8125pt x 245.91875pt>
-File: assets/conceptual_framework.jpg Graphic file (type jpg)
-<use assets/conceptual_framework.jpg>
-Package pdftex.def Info: assets/conceptual_framework.jpg  used on input line 90.
-(pdftex.def)             Requested size: 375.14705pt x 122.55005pt.
+<assets/Concept.png, id=126, 974.64125pt x 222.8325pt>
+File: assets/Concept.png Graphic file (type png)
+<use assets/Concept.png>
+Package pdftex.def Info: assets/Concept.png  used on input line 90.
+(pdftex.def)             Requested size: 375.14705pt x 85.76868pt.
 
 
 [5]
 
-[6 <./assets/conceptual_framework.jpg>]
+[6 <./assets/Concept.png>]
 
 [7]
 
@@ -1315,23 +1315,23 @@ Package pdftex.def Info: assets/conceptual_framework.jpg  used on input line 90.
 
 [10]
 
-[11])
+[11]
 
-[12]
+[12])
+
+[13]
 \openout2 = `ch-2.aux'.
 
  (ch-2.tex
 Chapter 2.
 
 
-[13
+[14
 
 
 
 
 ]
-
-[14]
 
 [15]
 
@@ -1347,47 +1347,51 @@ Chapter 2.
 
 [21]
 
-[22])
+[22]
 
-[23]
+[23])
+
+[24]
 \openout2 = `ch-3.aux'.
 
  (ch-3.tex
 Chapter 3.
 
 
-[24
+[25
 
 
 
 
 ]
 
-[25]
-<assets/systemflowchart.jpg, id=272, 340.27126pt x 598.48593pt>
-File: assets/systemflowchart.jpg Graphic file (type jpg)
-<use assets/systemflowchart.jpg>
-Package pdftex.def Info: assets/systemflowchart.jpg  used on input line 41.
-(pdftex.def)             Requested size: 208.41644pt x 366.57355pt.
-
-
 [26]
-
-[27 <./assets/systemflowchart.jpg>]
-<assets/webflowchart.jpg, id=282, 1224.07312pt x 1140.51094pt>
-File: assets/webflowchart.jpg Graphic file (type jpg)
-<use assets/webflowchart.jpg>
-Package pdftex.def Info: assets/webflowchart.jpg  used on input line 64.
-(pdftex.def)             Requested size: 375.14705pt x 349.5347pt.
+<assets/SystemFlow.jpg, id=280, 129.1224pt x 254.8722pt>
+File: assets/SystemFlow.jpg Graphic file (type jpg)
+<use assets/SystemFlow.jpg>
+Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 41.
+(pdftex.def)             Requested size: 208.41644pt x 411.4284pt.
 
 
-[28]
+[27]
 
-[29 <./assets/webflowchart.jpg>]
+[28 <./assets/SystemFlow.jpg>]
+<assets/WebFlow.jpg, id=291, 626.8218pt x 489.9906pt>
+File: assets/WebFlow.jpg Graphic file (type jpg)
+<use assets/WebFlow.jpg>
+Package pdftex.def Info: assets/WebFlow.jpg  used on input line 54.
+(pdftex.def)             Requested size: 375.14705pt x 293.25644pt.
 
-[30])
 
-[31]
+[29 <./assets/WebFlow.jpg>]
+
+[30]
+
+[31])
+
+[32]
+
+[33]
 Overfull \hbox (17.64365pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 no. 3, 2023, []eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jee.20531, pp. 741{
  []
@@ -1400,7 +1404,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
 
 
-[32
+[34
 
 
 
@@ -1412,9 +1416,9 @@ Overfull \hbox (5.91148pt too wide) in paragraph at lines 85--85
 
 
 
-[33]
+[35]
 
-[34] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
+[36] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1424,17 +1428,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51215 strings out of 468081
- 1201396 string characters out of 5425788
- 2255672 words of memory out of 5000000
- 79088 multiletter control sequences out of 15000+600000
- 633440 words of font info for 59 fonts, out of 8000000 for 9000
+ 51221 strings out of 468081
+ 1201228 string characters out of 5425788
+ 2255673 words of memory out of 5000000
+ 79090 multiletter control sequences out of 15000+600000
+ 633799 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,12n,149p,2096b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (37 pages, 858294 bytes).
+ 123i,12n,149p,2094b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (39 pages, 794197 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 125 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
