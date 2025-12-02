@@ -1,3 +1,6 @@
+
+\justifying % fully justified text
+
 \chapter{Introduction}\label{ch:1}
 
 \section{Background of the Study}\label{sec:1-bos}
@@ -25,60 +28,62 @@ Specifically, this study aims to answer the following questions:
     \item What is the level of perception of Civil Engineering students of MSU--General Santos regarding \textit{StatiCalcs} in terms of:
     \begin{enumerate}
         \renewcommand{\labelenumii}{\theenumi.\arabic{enumii}}
-        \item Usability
-        \item Accessibility
-        \item Satisfaction
+        \item Usability;
+        \item Accessibility; and
+        \item Satisfaction?
     \end{enumerate}
 
     \item What is the level of perception of Civil Engineering instructors of MSU--General Santos regarding \textit{StatiCalcs} in terms of:
     \begin{enumerate}
         \renewcommand{\labelenumii}{\theenumi.\arabic{enumii}}
-        \item Usability
-        \item Accessibility
-        \item Satisfaction
+        \item Usability;
+        \item Accessibility; and
+        \item Satisfaction?
     \end{enumerate}
 
     \item Is there a significant difference between the level of perception of students and instructors in terms of usability, accessibility, and satisfaction?
+\bigskip
+
+    \textbf{Null Hypothesis (Ho):} There is no significant difference between the level of perception of students and instructors regarding \textit{StatiCalcs} in terms of usability, accessibility, and satisfaction.
+
 \end{enumerate}
 
 %---------------------------------------------------------------------
 
 \section{Scope and Limitations}\label{sec:1-sal}
 
-This study focuses on the design, development, and evaluation of a web-based learning tool, StatiCalcs, intended to assist Civil Engineering students of Mindanao State University – General Santos in studying the subject \textit{Statics of Rigid Bodies}. The website covers all major topics in Statics, including force systems, equilibrium, structures, centroids, moments of inertia, and friction. It integrates conceptual explanations and calculators to help users understand and solve problems interactively. The evaluation of the tool focuses on three aspects: usability, accessibility, and user satisfaction.
+This study will focus on the design, development, and evaluation of a web-based learning tool, \textit{StatiCalcs}, intended to assist Bachelor of Science in Civil Engineering students of Mindanao State University -- General Santos in studying the subject \textit{Statics of Rigid Bodies}. The website will cover all major topics in Statics, including force systems, equilibrium, structures, centroids, moments of inertia, and friction. It will integrate step-by-step solutions and calculators to help users understand and solve problems interactively. The evaluation of the tool will focus on three aspects: usability, accessibility, and user satisfaction.
 
-The respondents of the study are limited to Civil Engineering students, specifically second-year students currently enrolled in \textit{Statics of Rigid Bodies} and senior students who have already taken the subject, as well as instructors teaching the same course in the College of Engineering of MSU-General Santos during the Academic Year 2025–2026. The data were collected through survey questionnaires administered after the respondents had explored and used the developed website
+The respondents of the study will be limited to Bachelor of Science in Civil Engineering students, specifically second-year students currently enrolled in \textit{Statics of Rigid Bodies} and students who have already taken the subject, as well as instructors teaching the same course in the College of Engineering of MSU--General Santos during the Academic Year 2025--2026. Data will be collected through survey questionnaires administered after respondents have explored and used the developed website.
 
-The study does not measure students’ academic performance or actual improvement in examination results. It also excludes students and instructors from other engineering programs and subjects such as Dynamics and Mechanics of Materials. Moreover, the study focuses solely on perceptions regarding the usability and effectiveness of the developed tool and does not account for external factors such as internet connectivity, learning motivation, or prior knowledge of the respondents.
+The study will not measure students' academic performance or actual improvement in examination results. It will also exclude students and instructors from other engineering programs. Moreover, the study will focus solely on perceptions of the usability and effectiveness of the developed tool. It will not account for external factors such as internet connectivity, learning motivation, or respondents' prior knowledge.
 
 %.....
 
-The scope of this project includes the development of a website using modern web technologies, focusing on both frontend and backend functionality. The backend of the website is built using Java, which handles the application logic and processes user interactions. The frontend interface is designed with Tailwind CSS, ensuring a responsive, modern, and visually consistent user experience. Version control and collaboration are managed through GitHub, while deployment and hosting are automated via Netlify. ChatGPT is utilized as a supplementary tool to assist in web design decisions, code arrangement, and debugging, providing guidance and improving workflow efficiency.
+The scope of this project will include the development of a website using modern web technologies, focusing on both frontend and backend functionality. The backend of the website will be built in Java, handling application logic and processing user interactions. The frontend interface will be designed with Tailwind CSS, ensuring a responsive, modern, and visually consistent user experience. Version control and collaboration will be managed through GitHub, while deployment and hosting will be automated via Netlify. ChatGPT will be utilized as a supplementary tool to assist in web design decisions, code arrangement, and debugging, providing guidance and improving workflow efficiency.
 
-The limitations of the project include the reliance on specific technologies and platforms. The backend is limited to Java, which may restrict integration with other programming languages or frameworks without additional configuration. The frontend design is dependent on Tailwind CSS, and deviations from its utility-first approach may require additional custom CSS. While GitHub and Netlify streamline version control and deployment, they require internet connectivity and account setup, which could pose challenges in offline or restricted environments. ChatGPT serves only as a supportive tool and does not replace the developer’s judgment or expertise. Additionally, the website’s functionality and performance are constrained by the features provided by the chosen technologies and hosting platform, limiting scalability for highly complex or resource-intensive applications.
+The project’s delimitations and limitations will include reliance on specific technologies and platforms. The backend will be limited to Java, which may restrict integration with other programming languages or frameworks without additional configuration. The frontend design will depend on Tailwind CSS, and deviations from its utility-first approach may require additional custom CSS. While GitHub and Netlify will streamline version control and deployment, they will require internet connectivity and account setup, which could pose challenges in offline or restricted environments. ChatGPT will serve
 
 
-% ian add - Discuss the development platform you’re using (e.g. Python, React, etc.).
 
 %---------------------------------------------------------------------
 
 \section{Significance of the Study}\label{sec:1-sots}
 
-% edit content. mej meh
 
-This study is conducted to develop a web-based learning tool, \textit{StatiCalcs}, which aims to support the teaching and learning of \textit{Statics of Rigid Bodies} among Civil Engineering students of Mindanao State University – General Santos. The results and outcomes of this research are expected to benefit the following:
-
-\medskip
-\textbf{Students.} The developed website serves as a supplementary learning tool that allows students to practice problem-solving in \textit{Statics of Rigid Bodies} through an interactive and user-friendly platform. As learners today are inclined toward technology-based education, \textit{StatiCalcs} provides an accessible and engaging way to enhance understanding and reinforce classroom instruction.
+This study will focus on developing a web-based learning tool, \textit{StatiCalcs}, to support the teaching and learning of \textit{Statics of Rigid Bodies} among Bachelor of Science in Civil Engineering students at MSU--General Santos. The results and outcomes of this research may benefit the following:
 
 \medskip
-\textbf{Instructors.} The tool can be integrated into teaching strategies to improve the delivery of complex statics concepts. It may also assist instructors in providing visual and computational demonstrations that complement lectures and classroom exercises.
+\textbf{Students.} The developed website may serve as a supplementary learning tool, allowing students to practice problem-solving in \textit{Statics of Rigid Bodies} through an interactive, user-friendly platform. As learners today are inclined toward technology-based education, \textit{StatiCalcs} may provide an accessible and engaging way to enhance understanding and reinforce classroom instruction.
 
 \medskip
-\textbf{School Administration.} The study may provide the institution with an example of how digital learning tools can be developed and implemented to improve academic performance. It may also encourage future initiatives that promote technology-driven learning in other engineering courses.
+\textbf{Teachers.} The tool may be integrated into teaching strategies to improve the delivery of complex statics concepts. It may assist instructors in providing visual and computational demonstrations that complement lectures and classroom exercises.
 
 \medskip
-\textbf{Future Researchers.} This study may serve as a reference for future studies that aim to develop similar educational tools or further improve \textit{StatiCalcs} by adding new features, expanding its scope, or evaluating its long-term impact on student learning.
+\textbf{School Administration.} The study may provide the institution with an example of how to develop and implement digital learning tools to improve academic performance. It may also encourage future initiatives that promote technology-driven learning in other engineering courses.
+
+\medskip
+\textbf{Future Researchers.} This study may serve as a reference for future studies aiming to develop similar educational tools or further improve \textit{StatiCalcs} by adding new features, expanding its scope, or evaluating its long-term impact on student learning.
 
 %---------------------------------------------------------------------
 
@@ -92,7 +97,7 @@ This study is conducted to develop a web-based learning tool, \textit{StatiCalcs
     \label{fig:conceptual_framework}
 \end{figure}
 
-This study is anchored in a conceptual framework that describes the relationship between users of the system and the web-based learning tool \textit{StatiCalcs}, and how their interaction with the platform leads to the evaluation of three key system attributes: usability, accessibility, and satisfaction.
+This study is anchored in a conceptual framework that describes the relationship between users of the system and the web-based learning tool \textit{StatiCalcs}, and how their interaction with the platform leads to the evaluation of three key system attributes: usability, accessibility, and satisfaction. The independent variables are the students and instructors, while the dependent variables are their level of perception in terms of usability, accessibility, and satisfaction.
 
 \textit{StatiCalcs} functions as the central intervention, offering computational features and step-by-step problem-solving support. The quality of users’ interactions with the system is evaluated through three outcome variables: usability, accessibility, and satisfaction. Usability pertains to the efficiency and ease with which users navigate and perform tasks within the platform. Accessibility evaluates the system’s ability to accommodate diverse users, devices, and learning conditions. Satisfaction measures the overall acceptance of the tool and the extent to which it meets user expectations.
 
@@ -108,66 +113,39 @@ Overall, the framework posits that students' and teachers' experiences with \tex
 \begin{longtblr}[
     entry=none,
     label=none
-  ]{rowsep=2mm, colspec={t{5cm,l}t{8.5cm,l}}}
+]{rowsep=2mm, colspec={t{5cm,l}t{8.5cm,j}}}
 
 \textbf{Accessibility} &
-Accessibility is the design of products, systems, or environments that can be used by people of all abilities, including those with disabilities, to perceive, understand, navigate, and interact effectively. \\
+The extent to which Bachelor of Science in Civil Engineering students enrolled in \textit{Statics of Rigid Bodies} and their instructors can easily access, navigate, and use the developed website, \textit{StatiCalcs}, regardless of ability, to support effective learning and teaching. \\
 
-\textbf{Civil Engineering} &
-Civil engineering is the professional discipline that deals with the design, construction, and maintenance of the physical and naturally built environment. It encompasses the analysis and development of structures such as buildings, bridges, roads, dams, and water systems to ensure safety, sustainability, and functionality in society. This refers to the academic program in which the target population of the study is enrolled. It includes students who are currently taking the subject \textit{Statics of Rigid Bodies}, which is one of the fundamental courses in the Civil Engineering curriculum. \\
+\textbf{Bachelor of Science in Civil Engineering Students} &
+Refers to the respondents of the study who are currently enrolled in or have previously completed the course \textit{Statics of Rigid Bodies} in the Academic Year 2025--2026. These participants will provide data regarding their perception of the usability, accessibility, and satisfaction of the developed website. \\
+
+\textbf{Bachelor of Science in Civil Engineering Instructors} &
+Refers to the respondents of the study who are teaching the course \textit{Statics of Rigid Bodies} during the Academic Year 2025--2026. Their feedback will contribute to evaluating the effectiveness, usability, and accessibility of the developed website as a supplementary learning tool. \\
 
 \textbf{Digital Natives} &
-Digital natives are individuals who have grown up during the age of digital technology, such as computers, smartphones, and the internet, and are thus comfortable using these tools in daily life. These refer to the generational group that represents the target population of the study. They are individuals who have grown up in the age of digital technology and are highly familiar with the use of computers, the Internet, and web-based applications. \\
-
-\textbf{Distributed Loads} &
-A distributed load acts continuously over a region of a structure such as a beam or surface, unlike a concentrated load that acts at a single point. It is characterized by intensity (force per unit length or area) and is represented by a load distribution diagram. \\
+Individuals who grew up in the age of digital technology and are comfortable using computers, the Internet, and web-based applications. They represent the target population of this study. \\
 
 \textbf{Dynamics of Rigid Bodies} &
-Dynamics of rigid bodies is a field of mechanics that studies the motion of bodies that do not deform under applied forces. It involves analyzing translational and rotational motion using Newton’s laws and principles of energy and momentum. \\
-
-\textbf{Equilibrium} &
-Equilibrium refers to the condition of a body when the sum of all forces and the sum of all moments acting upon it are equal to zero, meaning the body remains at rest or moves with constant velocity. \\
-
-\textbf{Force Systems} &
-A force system is defined as a collection of forces acting on a body or system of bodies. The location, magnitude, and direction of these forces determine their resultant and the conditions for equilibrium. \\
+A branch of mechanics that examines the motion of non-deformable bodies under applied forces, including translational and rotational motion, using Newton’s laws and principles of energy and momentum. Prerequisite: \textit{Statics of Rigid Bodies}. \\
 
 \textbf{Free Body Diagram (FBD)} &
 A Free Body Diagram (FBD) is a simplified graphical representation of a body or system isolated from its surroundings, showing all external forces and moments acting on it. It is used to visualize and solve problems involving equilibrium. \\
 
 \textbf{Mechanics of Deformable Bodies} &
-Mechanics of deformable bodies (also called the mechanics of materials) deals with the behavior of solid bodies that deform under the action of external forces. It explains how stresses and strains are distributed within materials and how these deformations relate to material properties. \\
+Also known as the mechanics of materials, this field studies the behavior of solid bodies that deform under applied forces. It analyzes how stresses and strains are distributed within materials and relates these deformations to material properties. Prerequisite: \textit{Statics of Rigid Bodies}. \\
 
 \textbf{Perception} &
-Perception is the process by which individuals interpret and organize sensory information to create meaning and understanding of their environment. In educational research, it often refers to how learners view or experience a certain tool, concept, or environment. \\
-
-\textbf{Physics} &
-Physics is the branch of science concerned with the study of matter, energy, motion, and the fundamental forces of nature. It aims to understand the behavior of the physical universe through observation and experimentation. \\
+The way students and instructors interpret and evaluate their experiences with a learning tool, concept, or environment. In this study, it refers to how they perceive the usability, accessibility, and effectiveness of the developed website. \\
 
 \textbf{Statics of Rigid Bodies} &
-Statics of rigid bodies is a branch of engineering mechanics that deals with the study of forces and their effects on bodies that are assumed to remain perfectly rigid. It focuses on determining the conditions of equilibrium, where the sum of all forces and moments acting on a body equals zero to ensure structural stability. This is the course that serves as the primary focus of the web-based learning tool developed by the researchers. It involves the study of forces, moments, and their effects on bodies that are assumed to remain perfectly rigid. \\
-
-\textbf{Static} &
-Refers to a state or condition characterized by the absence of motion or change. It describes systems, bodies, or conditions that remain at rest or in equilibrium, with all forces balanced and no acceleration occurring. \\
-
-\textbf{Structures} &
-Structures are physical systems composed of interconnected elements designed to support and transmit applied loads safely to the ground, maintaining stability and integrity under various conditions. \\
+A branch of engineering mechanics that studies forces and their effects on rigid bodies, focusing on conditions of equilibrium where the sum of all forces and moments equals zero. This course is the main focus of the study. \\
 
 \textbf{Satisfaction} &
-Satisfaction refers to the degree to which users feel content or fulfilled with a product, service, or experience, often reflecting how well it meets their expectations and needs. \\
-
-\textbf{Supplementary} &
-Supplementary refers to something that is added to complete, enhance, or support something else. In the context of education or research, supplementary materials or tools provide additional information or resources that aid in understanding, reinforcement, or enrichment of learning. \\
+The degree to which Bachelor of Science in Civil Engineering students enrolled in \textit{Statics of Rigid Bodies} and their instructors feel content or fulfilled with the developed website, \textit{StatiCalcs}, reflecting how well it meets their learning needs and expectations. \\
 
 \textbf{Usability} &
-Usability refers to the degree to which a product, tool, or interface allows users to achieve specific goals effectively, efficiently, and satisfactorily in a defined context. \\
-
-\textbf{Web-Based} &
-Web-based refers to tools, applications, or platforms that operate over the internet and are accessible through web browsers. In education, web-based systems facilitate learning, communication, and collaboration online. \\
-
-\textbf{Web-Based Learning Tool} &
-A web-based learning tool is an interactive educational platform or software accessible through the internet, designed to facilitate learning through engagement, visualization, and feedback. \\
-
-\textbf{Generation Z} &
-Generation Z refers to the demographic cohort born roughly between the mid-to-late 1990s and the early 2010s. They are characterized by their familiarity with digital technology, internet connectivity, and social media from an early age. Generation Z is often described as tech-savvy, socially aware, and highly engaged with online communication and learning environments. These refer to individuals belonging to Generation Z, the target population of the study. They grew up in the digital age, making them highly adept at using technology, the Internet, and web-based learning platforms. \\
+The degree to which Bachelor of Science in Civil Engineering students enrolled in \textit{Statics of Rigid Bodies} and their instructors can effectively, efficiently, and satisfactorily use the developed website, \textit{StatiCalcs}, to achieve their learning and teaching goals. \\
 
 \end{longtblr}
