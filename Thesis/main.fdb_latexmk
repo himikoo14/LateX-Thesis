@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1764703599.55578 -1
-  "main.bcf" 1764703599 128063 6ae687a6f7d9bd43afabe523c9d51725 "pdflatex"
+["biber main"] 1764948097.96082 "main.bcf" "main.bbl" "main" 1764950392.47488 0
+  "main.bcf" 1764950392 128063 88c7adc77b2446e1bb8455cd15b72437 "pdflatex"
   "thesis.bib" 1763746802 35453 729cbb946cc0917e784e7410dd798175 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1764703593.80887 "c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex" "main.pdf" "main" 1764703599.55689 0
+["pdflatex"] 1764950387.66028 "c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex" "main.pdf" "main" 1764950392.47608 0
   "C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764700961 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1761059495 12668 667a4d74da248123d48600f0630831f1 ""
   "C:/Users/ADMIN/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761059343 13321623 6d6037b3df14707b926ee1dad2b89a3b ""
@@ -257,18 +257,20 @@
   "assets/SystemFlow.jpg" 1764473387 34691 f2b20a7ac954273d92f5f3261541bcc5 ""
   "assets/finalchart.png" 1764689899 201227 34563803e07c053319941c0e1c00b0aa ""
   "assets/logo2.jpg" 1763664576 376713 0b7975189d7e0d2901fdb09d2cb9d1a3 ""
-  "c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex" 1764472125 1839 3189ee5a0749f4a5b9721bae5158c3fc ""
-  "ch-1.aux" 1764703597 5743 f9d3c65ec416236152a9bafa3124b1af "pdflatex"
-  "ch-1.tex" 1764702005 14862 01920fa560edf1d88d1435e03f91ddb0 ""
-  "ch-2.aux" 1764703598 5848 049f977880a239592ba3076a9dee5762 "pdflatex"
-  "ch-2.tex" 1764702263 22146 55cb7208b628c1aeda6cb86372e3b95d ""
-  "ch-3.aux" 1764703598 6271 fb8ae86de122b04ee59833a2fa7bc372 "pdflatex"
-  "ch-3.tex" 1764703592 13905 64f66da3c3f5b44a0b4bacdcf2e925f9 ""
-  "main.aux" 1764703598 15733 c670ddaaa194cfabc0516d57403aa7e1 "pdflatex"
-  "main.bbl" 1763746993 53813 bf286bd296002b5357ef81d98aa14a46 "biber main"
-  "main.run.xml" 1764703599 2494 cfd72517cdccd37697d5cf227975311d "pdflatex"
-  "main.tex" 1764472125 1839 3189ee5a0749f4a5b9721bae5158c3fc ""
-  "main.toc" 1764703599 2680 81d016e6f255bd76dd9e25fda94e53dd "pdflatex"
+  "c:/Users/ADMIN/Desktop/LateX - Copy/LateX-Thesis/Thesis/main.tex" 1764948730 1833 6564208cdb1fc07d15535c2dcd4373c0 ""
+  "ch-1.aux" 1764950391 5743 d53cb4fb59342839f37472f3efe9bfb0 "pdflatex"
+  "ch-1.tex" 1764950386 15213 8a1ddffd8100c7a2b4ee5a907fc87e3e ""
+  "ch-2.aux" 1764950391 5848 de04534cb963d22b8c51fdcb148c2a44 "pdflatex"
+  "ch-2.tex" 1764948352 21874 62e54ba563ed1b0217a38b6eb8223e1c ""
+  "ch-3.aux" 1764950391 6271 4663bf8384c7f224dd1f97700d589a1a "pdflatex"
+  "ch-3.tex" 1764950165 13753 b02e2bb5c96e5ea8cddbb4bba8d68caf ""
+  "main.aux" 1764950391 16397 ab3cd749d65eb7f9dea5f015585ccad4 "pdflatex"
+  "main.bbl" 1764948255 53813 bf286bd296002b5357ef81d98aa14a46 "biber main"
+  "main.lof" 1764950392 393 50d6097767adbfa4d8ad241f8e7cea13 "pdflatex"
+  "main.lot" 1764950392 208 3da2a35818265abbf3b8595f642d220a "pdflatex"
+  "main.run.xml" 1764950392 2494 cfd72517cdccd37697d5cf227975311d "pdflatex"
+  "main.tex" 1764948730 1833 6564208cdb1fc07d15535c2dcd4373c0 ""
+  "main.toc" 1764950392 2794 2b1d0a5cbf94323c1a136aff7d514223 "pdflatex"
   "preamble.tex" 1764700951 4271 c18ffb4292788848efa18177f92567a3 ""
   (generated)
   "ch-1.aux"
@@ -276,7 +278,9 @@
   "ch-3.aux"
   "main.aux"
   "main.bcf"
+  "main.lof"
   "main.log"
+  "main.lot"
   "main.pdf"
   "main.run.xml"
   "main.toc"

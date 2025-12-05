@@ -1,5 +1,7 @@
 \babel@toc {american}{}\relax 
 \contentsline {chapter}{Title Page}{i}{Doc-Start}%
+\contentsline {chapter}{List of Figures}{iv}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{v}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background of the Study}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Statement of the Problem}{2}{section.1.2}%
@@ -13,8 +15,8 @@
 \contentsline {section}{\numberline {2.3}Procedural and Analytical Challenges}{11}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Mathematical Readiness in Statics}{12}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Math Anxiety and Its Impact on Engineering Students}{13}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Importance of Free Body Diagram Construction}{13}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Visualization and Spatial Ability in Engineering}{14}{section.2.7}%
+\contentsline {section}{\numberline {2.6}Visualization and Spatial Ability in Engineering}{13}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Importance of Free Body Diagram Construction}{14}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Technology-Based Learning for Engineering Student}{14}{section.2.8}%
 \contentsline {section}{\numberline {2.9}Web-Based Learning in Engineering Education}{16}{section.2.9}%
 \contentsline {section}{\numberline {2.10}Related Systems and Existing Educational Tools}{18}{section.2.10}%
@@ -28,4 +30,4 @@
 \contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{25}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{27}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}Statistical Tools}{28}{section.3.5}%
-\contentsline {chapter}{References}{32}{chapter*.6}%
+\contentsline {chapter}{References}{32}{chapter*.8}%
