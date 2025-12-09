@@ -228,6 +228,69 @@
       \verb JSTOR
       \endverb
     \endentry
+    \entry{de_la_hoz_promoting_2022}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=119ea6ef608551d9c6dc183fb58bf66e}{%
+           family={De\bibnamedelima La\bibnamedelima Hoz},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Jose\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2aab2683b990713a38bfd95530b9912}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47a3b8faeb886e82e6416d9b7c44cc85}{%
+           family={Ojeda},
+           familyi={O\bibinitperiod},
+           given={Alfredo\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27c0713beabd0aa640e5df42784384ec}{%
+           family={Garcia-Yepes},
+           familyi={G\bibinithyphendelim Y\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Perth, {WA}, Australia}%
+      }
+      \list{publisher}{1}{%
+        {Research in Enineering Education Network ({REEN})}%
+      }
+      \strng{namehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{fullhash}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{fullhashraw}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{bibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authorbibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authornamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authorfullhash}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{authorfullhashraw}{15a422f8951ade03dc939e798e4eae8d}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{CONTEXT} Statics is a fundamental course in engineering, representing one of the main challenges for students to complete their engineering programs. Statics is also a prerequisite to different subsequent subjects where problem-solving and spatial visualization skills are essential. The traditional teaching of Statics is insufficient for students to achieve successful learning of Statics.}
+      \field{booktitle}{9th Research in Engineering Education Symposium ({REES} 2021) and 32nd Australasian Association for Engineering Education Conference ({REES} {AAEE} 2021)}
+      \field{eventtitle}{9th Research in Engineering Education Symposium \& 32nd Australasian Association for Engineering Education Conference}
+      \field{langid}{english}
+      \field{title}{Promoting Students' Conceptual Change in Statics through Self-Explanation Strategy in a Remote Learning Context}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{215\bibrangedash 223}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.52202/066488-0024
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\X2RT3VTY\\De La Hoz et al. - 2022 - Promoting Students' Conceptual Change in Statics through Self-Explanation Strategy in a Remote Learn.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{de_la_hoz_self-explanation_2023}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e499c52438f2b0c56fd36bde70946f51}{%
@@ -257,6 +320,7 @@
       \strng{authornamehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{authorfullhash}{21d6ec195b432d76949f74b4af849ddb}
       \strng{authorfullhashraw}{21d6ec195b432d76949f74b4af849ddb}
+      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \true{singletitle}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  9 DEC 2025 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  10 DEC 2025 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1458,30 +1458,35 @@ Chapter 2.
 [13]
 
 [14]
+Overfull \hbox (3.00598pt too wide) in paragraph at lines 65--66
+[]\OT1/cmr/m/n/10.95 (-20) They fur-ther noted that self-explanation prac-tices sig-nif-i-cantly con-tribute to con-cep-tual
+ []
+
+
 
 [15]
 
 [16]
 
 [17]
-Overfull \hbox (12.38715pt too wide) in paragraph at lines 99--100
+Overfull \hbox (12.38715pt too wide) in paragraph at lines 104--105
 \OT1/cmr/m/n/10.95 (-20) adapt-ing to dig-i-tal learn-ing en-vi-ron-ments. The re-searcher fur-ther pro-posed rec-om-men-da-tions
  []
 
 
 
 [18]
-Overfull \hbox (3.6889pt too wide) in paragraph at lines 105--106
+
+[19]
+Overfull \hbox (3.6889pt too wide) in paragraph at lines 110--111
 \OT1/cmr/m/n/10.95 (-20) im-prove ef-fi-ciency in me-chan-ics ed-u-ca-tion by re-duc-ing in-struc-tor work-load while sup-port-ing
  []
 
 
 
-[19]
+[20]
 
-[20])
-
-[21]
+[21])
 
 [22]
 \openout2 = `ch-3.aux'.
@@ -1502,7 +1507,7 @@ Overfull \hbox (0.74318pt too wide) in paragraph at lines 35--36
 \OT1/cmr/m/n/10.95 (-20) sub-mit-ted to the Dean of the Col-lege of En-gi-neer-ing at Min-danao State University--General
  []
 
-<assets/SystemFlow.jpg, id=322, 129.1224pt x 254.8722pt>
+<assets/SystemFlow.jpg, id=326, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
 Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 43.
@@ -1510,7 +1515,7 @@ Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 43.
 
 
 [25 <./assets/SystemFlow.jpg>]
-<assets/finalchart.png, id=327, 1311.90125pt x 1045.9075pt>
+<assets/finalchart.png, id=331, 1311.90125pt x 1045.9075pt>
 File: assets/finalchart.png Graphic file (type png)
 <use assets/finalchart.png>
 Package pdftex.def Info: assets/finalchart.png  used on input line 56.
@@ -1555,6 +1560,16 @@ Overfull \hbox (36.31422pt too wide) in paragraph at lines 85--85
 
 Overfull \hbox (19.9194pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 (-20) Sys-tems Re-search Cen-ter, Uni-ver-sity of Min-nesota, pp. 319{40. \OT1/cmr/m/it/10.95 (-20) JS-TOR\OT1/cmr/m/n/10.95 (-20) , https://doi.org/[]$10 .
+ []
+
+
+Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
+\OT1/cmr/m/n/10.95 (-20) Self-Explanation Strat-egy in a Re-mote Learn-ing Con-text." \OT1/cmr/m/it/10.95 (-20) 9th Re-search in En-gi-neer-ing
+ []
+
+
+Overfull \hbox (3.8417pt too wide) in paragraph at lines 85--85
+\OT1/cmr/m/it/10.95 (-20) Ed-u-ca-tion Sym-po-sium (REES 2021) and 32nd Aus-tralasian As-so-ci-a-tion for En-gi-neer-ing
  []
 
 
@@ -1660,17 +1675,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53291 strings out of 468081
- 1236836 string characters out of 5425788
- 2344314 words of memory out of 5000000
- 80946 multiletter control sequences out of 15000+600000
+ 53299 strings out of 468081
+ 1237215 string characters out of 5425788
+ 2344397 words of memory out of 5000000
+ 80953 multiletter control sequences out of 15000+600000
  638390 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,149p,2291b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (46 pages, 861196 bytes).
+Output written on main.pdf (46 pages, 863394 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
+ 618 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 500000)
  20793 words of extra memory for PDF output out of 24883 (max. 10000000)
 
