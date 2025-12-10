@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  10 DEC 2025 01:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  10 DEC 2025 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1536,17 +1536,17 @@ Overfull \hbox (2.97906pt too wide) in paragraph at lines 110--111
 
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent nei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
@@ -1601,28 +1601,28 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 \openout2 = `appendix.aux'.
 
  (appendix.tex
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent nei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 6078) in paragraph at lines 65--65
 []|\OT1/cmr/m/n/10.95 (+20) The func-tions of the plat-form are
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 72--72
-[]|\OT1/cmr/m/n/10.95 (+20) The plat-form re-duces the ef-fort needed to
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\OT1/cmr/m/n/10.95 (+20) The plat-form is re-spon-sive when
  []
 
 
@@ -1633,39 +1633,20 @@ Underfull \hbox (badness 1019) in paragraph at lines 72--72
 ]
 
 [37]
-Underfull \hbox (badness 1983) in paragraph at lines 93--93
-[]|\OT1/cmr/m/n/10.95 (+20) The plat-form is ac-ces-si-ble across mul-ti-ple
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-[]|\OT1/cmr/m/n/10.95 (+20) I can ac-cess the plat-form with sta-ble
+Underfull \hbox (badness 2221) in paragraph at lines 95--95
+[]|\OT1/cmr/m/n/10.95 (+20) The text and in-ter-face el-e-ments are
  []
 
 
 
 [38]
-Underfull \hbox (badness 1097) in paragraph at lines 143--143
-[]|\OT1/cmr/m/n/10.95 (+20) I would rec-om-mend the plat-form to other
- []
-
-
-Underfull \hbox (badness 7326) in paragraph at lines 162--162
-[]|\OT1/cmr/m/n/10.95 (+20) I am sat-is-fied with the speed of
- []
-
-
-
-[39]
-Underfull \hbox (badness 7326) in paragraph at lines 179--179
+Underfull \hbox (badness 7326) in paragraph at lines 119--119
 []|\OT1/cmr/m/n/10.95 (+20) I am sat-is-fied with the speed of
  []
 
 )
 
-[40]
-
-[41] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux))
+[39] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1675,17 +1656,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53299 strings out of 468081
- 1237215 string characters out of 5425788
- 2344397 words of memory out of 5000000
+ 53297 strings out of 468081
+ 1237201 string characters out of 5425788
+ 2344398 words of memory out of 5000000
  80953 multiletter control sequences out of 15000+600000
  638390 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,149p,2291b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (46 pages, 863394 bytes).
+Output written on main.pdf (44 pages, 860905 bytes).
 PDF statistics:
- 618 PDF objects out of 1000 (max. 8388607)
- 162 named destinations out of 1000 (max. 500000)
+ 610 PDF objects out of 1000 (max. 8388607)
+ 160 named destinations out of 1000 (max. 500000)
  20793 words of extra memory for PDF output out of 24883 (max. 10000000)
 
