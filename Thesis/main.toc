@@ -32,6 +32,7 @@
 \contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{27}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{29}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}Statistical Tools}{30}{section.3.5}%
-\contentsline {chapter}{References}{35}{chapter*.8}%
-\contentsline {chapter}{Appendix A}{36}{appendix*.9}%
-\contentsline {chapter}{Appendix B}{40}{appendix*.11}%
+\contentsline {section}{\numberline {3.6}Statistical Treatment}{31}{section.3.6}%
+\contentsline {chapter}{References}{36}{chapter*.8}%
+\contentsline {chapter}{Appendix A}{37}{appendix*.9}%
+\contentsline {chapter}{Appendix B}{41}{appendix*.11}%
