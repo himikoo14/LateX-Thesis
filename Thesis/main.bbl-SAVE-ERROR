@@ -102,6 +102,195 @@
       \verb Full Text PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\83RSUVEF\\Apuke - 2017 - Quantitative Research Methods A Synopsis Approach.pdf:application/pdf
       \endverb
     \endentry
+    \entry{corbin_basics_2008}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e46b44b3880ddec217f5389d036844e}{%
+           family={Corbin},
+           familyi={C\bibinitperiod},
+           given={Juliet},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a0acf1107168c1ce16d5c38189790b0}{%
+           family={Strauss},
+           familyi={S\bibinitperiod},
+           given={Anselm},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{SAGE} Publications, }%
+      }
+      \strng{namehash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{fullhash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{fullhashraw}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{bibnamehash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{authorbibnamehash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{authornamehash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{authorfullhash}{770af2138b13eb03facf5c19ff9b7bab}
+      \strng{authorfullhashraw}{770af2138b13eb03facf5c19ff9b7bab}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Basics of Qualitative Research (3rd ed.)}
+      \field{title}{Basics of Qualitative Research (3rd ed.): Techniques and Procedures for Developing Grounded Theory}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4135/9781452230153
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\GLMRIRNF\\Corbin and Strauss - 2008 - Basics of Qualitative Research (3rd ed.) Techniques and Procedures for Developing Grounded Theory.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{davis_technology_1985}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhashraw}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhashraw}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Thesis (Ph. D.)--Massachusetts Institute of Technology, Sloan School of Management, 1986.}
+      \field{note}{Accepted: 2005-08-08T16:11:32Z}
+      \field{shorttitle}{A technology acceptance model for empirically testing new end-user information systems}
+      \field{title}{A technology acceptance model for empirically testing new end-user information systems : theory and results}
+      \field{type}{Thesis}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{1985}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb dspace.mit.edu/handle/1721.1/15192
+      \endverb
+      \verb{url}
+      \verb dspace.mit.edu/handle/1721.1/15192
+      \endverb
+    \endentry
+    \entry{davis_perceived_1989}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhashraw}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhashraw}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Valid measurement scales for predicting user acceptance of computers are in short supply. Most subjective measures used in practice are unvalidated, and their relationship to system usage is unknown. The present research develops and validates new scales for two specific variables, perceived usefulness and perceived ease of use, which are hypothesized to be fundamental determinants of user acceptance. Definitions for these two variables were used to develop scale items that were pretested for content validity and then tested for reliability and construct validity in two studies involving a total of 152 users and four application programs. The measures were refined and stream-lined, resulting in two six-item scales with reliabilities of.98 for usefulness and.94 for ease of use. The scales exhibited high convergent, discriminant, and factorial validity. Perceived usefulness was significantly correlated with both self-reported current usage (r=.63, Study 1) and self-predicted future usage (r=.85, Study 2). Perceived ease of use was also significantly correlated with current usage (r=.45, Study 1) and future usage (r=.59, Study 2). In both studies, usefulness had a significantly greater correlation with usage behavior than did ease of use. Regression analyses suggest that perceived ease of use may actually be a causal antecedent to perceived usefulness, as opposed to a parallel, direct determinant of system usage. Implications are drawn for future research on user acceptance.}
+      \field{issn}{0276-7783}
+      \field{journaltitle}{{MIS} Quarterly}
+      \field{note}{Publisher: Management Information Systems Research Center, University of Minnesota}
+      \field{number}{3}
+      \field{title}{Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology}
+      \field{volume}{13}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{319\bibrangedash 340}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2307/249008
+      \endverb
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+    \endentry
+    \entry{de_la_hoz_promoting_2022}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=119ea6ef608551d9c6dc183fb58bf66e}{%
+           family={De\bibnamedelima La\bibnamedelima Hoz},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Jose\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2aab2683b990713a38bfd95530b9912}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47a3b8faeb886e82e6416d9b7c44cc85}{%
+           family={Ojeda},
+           familyi={O\bibinitperiod},
+           given={Alfredo\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27c0713beabd0aa640e5df42784384ec}{%
+           family={Garcia-Yepes},
+           familyi={G\bibinithyphendelim Y\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Perth, {WA}, Australia}%
+      }
+      \list{publisher}{1}{%
+        {Research in Enineering Education Network ({REEN})}%
+      }
+      \strng{namehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{fullhash}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{fullhashraw}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{bibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authorbibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authornamehash}{ad84c174166ad185dbe6e3406b9de17d}
+      \strng{authorfullhash}{15a422f8951ade03dc939e798e4eae8d}
+      \strng{authorfullhashraw}{15a422f8951ade03dc939e798e4eae8d}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{CONTEXT} Statics is a fundamental course in engineering, representing one of the main challenges for students to complete their engineering programs. Statics is also a prerequisite to different subsequent subjects where problem-solving and spatial visualization skills are essential. The traditional teaching of Statics is insufficient for students to achieve successful learning of Statics.}
+      \field{booktitle}{9th Research in Engineering Education Symposium ({REES} 2021) and 32nd Australasian Association for Engineering Education Conference ({REES} {AAEE} 2021)}
+      \field{eventtitle}{9th Research in Engineering Education Symposium \& 32nd Australasian Association for Engineering Education Conference}
+      \field{langid}{english}
+      \field{title}{Promoting Students' Conceptual Change in Statics through Self-Explanation Strategy in a Remote Learning Context}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{215\bibrangedash 223}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.52202/066488-0024
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\X2RT3VTY\\De La Hoz et al. - 2022 - Promoting Students' Conceptual Change in Statics through Self-Explanation Strategy in a Remote Learn.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{de_la_hoz_self-explanation_2023}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e499c52438f2b0c56fd36bde70946f51}{%
@@ -131,6 +320,7 @@
       \strng{authornamehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{authorfullhash}{21d6ec195b432d76949f74b4af849ddb}
       \strng{authorfullhashraw}{21d6ec195b432d76949f74b4af849ddb}
+      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \true{singletitle}
@@ -305,6 +495,76 @@
       \endverb
       \keyw{Physics - Physics Education}
     \endentry
+    \entry{hassan_usability_2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9d1a0305bba75c18c13ca4d5094a3ad7}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Jawad\bibnamedelima Ul},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c047426cdfbba1641bbca0db2aa43a8}{%
+           family={Missen},
+           familyi={M\bibinitperiod},
+           given={Malik\bibnamedelimb M.\bibnamedelimi Saad},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd36a242998d70a19f4adc2377cfc972}{%
+           family={Karim},
+           familyi={K\bibinitperiod},
+           given={Musrat},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe17388b24f98ddf11fc5c98c5ff7d11}{%
+           family={Ain},
+           familyi={A\bibinitperiod},
+           given={Qurat\bibnamedelima Ul},
+           giveni={Q\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbd07c9f260cd54c4a597ac2f15e667c}{%
+           family={Firdous},
+           familyi={F\bibinitperiod},
+           given={Amnah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a23a8cc05ec0da0758f628ced081aa4a}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Asad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{fullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{fullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{bibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authorbibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authornamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authorfullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{authorfullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}p{>}An application is considered "usable" if it is visually appealing, simple to use, and performs as expected. The majority of {IT} industries focus on the app's functional requirements while making only minor efforts to improve usability. Usability is an essential attribute that want more attention in determining the production of a successful mobile application. In recent years, different learning applications have been developed to help the effective learning and enhanced the {IT} expertise of the students but the usability of apps for slow learners is ignored during design process so that the slow learners are facing problem during learning process. In order for slow learners to learn effectively, learning apps must focus on usability so that they can learn effectively as learn others. Slow learners are students who have difficulty in learning due of their limited cognitive abilities. They face difficulties in understanding complex instructions and take longer to catch up. Smart phones can be used as complementary learning tools to support and enhance the learning experience of the slow learners. The touch screens to interact the applications on the smart phone gives the more confidence of slow learners to feel more encouraged to stay maximum period and to involve with the application. Using apps in learning activities with slow learners reaps benefits for their learning. In this work, we performed a participant-based usability evaluation of the 25 apps on {HTML} learning for {iOS} and Android. Slow learners between the ages of 16 to 55 years are selected for usability evaluation. Further participants are distributed into four main groups Group I, Group {II}, Group {III} and Group {IV} based on their age and 24 participants/slow learners are selected for usability testing under the supervision of moderator. As a result of usability testing of {HTML} learning apps, we discovered that {HTML} learning apps usability decrease as the age of the slow learners participants increase. Current {HTML} learning apps are not effective and efficient for slow learners learning.{<}/p{>}}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{{USABILITY} {EVALUATION} {OF} {MOBILE} {LEARNING} {APPS} {FOR} {SLOW} {LEARNERS}}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb tianjindaxuexuebao.com/details.php?id=DOI:10.17605/OSF.IO/URSNJ
+      \endverb
+      \verb{url}
+      \verb tianjindaxuexuebao.com/details.php?id=DOI:10.17605/OSF.IO/URSNJ
+      \endverb
+    \endentry
     \entry{incierto_mathematics_nodate}{thesis}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=77f2ef920bf1521ace8ed73b8b97de5a}{%
@@ -351,6 +611,44 @@
       \endverb
       \verb{url}
       \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
+      \endverb
+    \endentry
+    \entry{mathur_students_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=778e49630d5e94f867bd5afc06761c30}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Roopa},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{fullhash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{fullhashraw}{778e49630d5e94f867bd5afc06761c30}
+      \strng{bibnamehash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{authorbibnamehash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{authornamehash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{authorfullhash}{778e49630d5e94f867bd5afc06761c30}
+      \strng{authorfullhashraw}{778e49630d5e94f867bd5afc06761c30}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Walden Dissertations and Doctoral Studies}
+      \field{month}{1}
+      \field{title}{Students' Perceptions of a Mobile Application for College Course Management Systems}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb text/html Attachment:C\:\\Users\\ADMIN\\Zotero\\storage\\NMBU87MG\\925.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb scholarworks.waldenu.edu/dissertations/925
+      \endverb
+      \verb{url}
+      \verb scholarworks.waldenu.edu/dissertations/925
       \endverb
     \endentry
     \entry{paulin_effectiveness_2024}{article}{}{}
@@ -400,6 +698,49 @@
       \endverb
       \verb{file}
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\YHN968WM\\Paulin and Jean Baptiste - 2024 - Effectiveness of the Symbolab Calculator in Improving Second Year Science and Mathematics Students A.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{pedraza_assessing_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ccdfeabe49c684b1d3dc775d64762e18}{%
+           family={Pedraza},
+           familyi={P\bibinitperiod},
+           given={Salvador\bibnamedelima Miguel},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb28f96a8bea8a6633fcd820721084d4}{%
+           family={Canoy},
+           familyi={C\bibinitperiod},
+           given={Orbel},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{fullhash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{fullhashraw}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{bibnamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorbibnamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authornamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorfullhash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorfullhashraw}{3da716dbe67869efe223fba61acfbdc6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The rapid evolution of educational technology has positioned mobile learning apps as transformative tools for enhancing student learning and engagement. This study assesses the effectiveness of mobile learning apps in selected secondary public schools in General Trias City, Philippines, focusing}
+      \field{issn}{2822-4353, 2822-4353}
+      \field{journaltitle}{Psychology and Education: A Multidisciplinary Journal}
+      \field{shortjournal}{Psych Educ Multidisc J}
+      \field{title}{Assessing the Effectiveness of Mobile Learning Apps in Enhancing Student Learning and Engagement in Selected Secondary Public Schools in General Trias City}
+      \field{volume}{45}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.70838/pemj.450909
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\VYWQRP2D\\6254.html:text/html
       \endverb
     \endentry
     \entry{salami_challenges_2025}{inproceedings}{}{}
@@ -709,6 +1050,50 @@
       \endverb
       \verb{file}
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\IKEZXPIN\\Tawafak et al. - 2021 - Innovative Smart Phone Learning System for Graphical Systems within COVID-19 Pandemic.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{venkatesh_pdf_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f13fa051c2955b3440b2021e4d99806e}{%
+           family={Venkatesh},
+           familyi={V\bibinitperiod},
+           given={Viswanath},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{fullhash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{fullhashraw}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{bibnamehash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{authorbibnamehash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{authornamehash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{authorfullhash}{e89213cbe08bd80162b49e40cb783d1c}
+      \strng{authorfullhashraw}{e89213cbe08bd80162b49e40cb783d1c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{PDF} {|} The present research develops and tests a theoretical extension of the Technology Acceptance Model ({TAM}) that explains perceived usefulness and... {|} Find, read and cite all the research you need on {ResearchGate}}
+      \field{day}{6}
+      \field{journaltitle}{{ResearchGate}}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{({PDF}) A Theoretical Extension of the Technology Acceptance Model}
+      \field{title}{({PDF}) A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1287/mnsc.46.2.186.11926
+      \endverb
+      \verb{file}
+      \verb Accepted Version:C\:\\Users\\ADMIN\\Zotero\\storage\\BW7SMVYP\\2025 - (PDF) A Theoretical Extension of the Technology Acceptance Model Four Longitudinal Field Studies.pdf:application/pdf;Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\PYR9C3HP\\227447282_A_Theoretical_Extension_of_the_Technology_Acceptance_Model_Four_Longitudinal_Field_St.html:text/html
       \endverb
     \endentry
     \entry{wenceslao_mathematical_2022}{article}{}{}

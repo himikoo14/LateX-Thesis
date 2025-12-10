@@ -45,9 +45,26 @@
 \usepackage[none]{hyphenat} % disable hyphenation completely
 \usepackage{microtype} % improves justification spacing
 
-
-
+%------------------ for codes------------------------
+\usepackage{pdfpages}
+\usepackage{embedfile}
+\usepackage{graphicx}
+\usepackage{geometry} % in preamble
+\usepackage{fancyvrb}
+\usepackage[export]{adjustbox}  % in preamble, allows center alignment with scaling
 % --------------------------------------------------------------------
+\usepackage{listings}
+
+\lstdefinestyle{plainstyle}{
+    basicstyle=\ttfamily\small, % monospaced font
+    numbers=left,               % line numbers (optional)
+    numberstyle=\tiny,          % line number font size
+    frame=single,               % box around the code
+    breaklines=true,            % wrap long lines
+    showstringspaces=false      % show spaces normally
+}
+% --------------------------------------------------------------------
+
 
 % Fixing compatibility issues with the pgfplots package
 % --------------------------------------------------------------------

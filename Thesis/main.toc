@@ -34,3 +34,4 @@
 \contentsline {section}{\numberline {3.5}Statistical Tools}{30}{section.3.5}%
 \contentsline {chapter}{References}{35}{chapter*.8}%
 \contentsline {chapter}{Appendix A}{36}{appendix*.9}%
+\contentsline {chapter}{Appendix B}{40}{appendix*.11}%

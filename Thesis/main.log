@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  10 DEC 2025 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  11 DEC 2025 04:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1159,25 +1159,125 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen394
+\ESO@tempdimb=\dimen395
+)
+\AM@pagewidth=\dimen396
+\AM@pageheight=\dimen397
+\AM@fboxrule=\dimen398
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count564
+\AM@pagebox=\box158
+\AM@global@opts=\toks53
+\AM@pagecnt=\count565
+\AM@toc@title=\toks54
+\AM@lof@heading=\toks55
+\c@AM@survey=\count566
+\AM@templatesizebox=\box159
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/embedfile\embedfile.sty
+Package: embedfile 2025-10-27 v2.13 Embed files into PDF (HO)
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count567
+\FV@InFile=\read5
+\FV@TabBox=\box160
+\c@FancyVerbLine=\count568
+\FV@StepNumber=\count569
+\FV@OutFile=\write5
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
+)
+\XKV@depth=\count570
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box161
+)
+\tc@llx=\dimen399
+\tc@lly=\dimen400
+\tc@urx=\dimen401
+\tc@ury=\dimen402
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen403
+\adjbox@Height=\dimen404
+\adjbox@Depth=\dimen405
+\adjbox@Totalheight=\dimen406
+\adjbox@pwidth=\dimen407
+\adjbox@pheight=\dimen408
+\adjbox@pdepth=\dimen409
+\adjbox@ptotalheight=\dimen410
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count571
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box162
+\sift@deathcycles=\count572
+\@vwid@loff=\dimen411
+\@vwid@roff=\dimen412
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count573
+\lst@gtempboxa=\box163
+\lst@token=\toks58
+\lst@length=\count574
+\lst@currlwidth=\dimen413
+\lst@column=\count575
+\lst@pos=\count576
+\lst@lostspace=\dimen414
+\lst@width=\dimen415
+\lst@newlines=\count577
+\lst@lineno=\count578
+\lst@maxwidth=\dimen416
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count579
+\lst@skipnumbers=\count580
+\lst@framebox=\box164
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen394
-\lightrulewidth=\dimen395
-\cmidrulewidth=\dimen396
-\belowrulesep=\dimen397
-\belowbottomsep=\dimen398
-\aboverulesep=\dimen399
-\abovetopsep=\dimen400
-\cmidrulesep=\dimen401
-\cmidrulekern=\dimen402
-\defaultaddspace=\dimen403
-\@cmidla=\count564
-\@cmidlb=\count565
-\@aboverulesep=\dimen404
-\@belowrulesep=\dimen405
-\@thisruleclass=\count566
-\@lastruleclass=\count567
-\@thisrulewidth=\dimen406
+\heavyrulewidth=\dimen417
+\lightrulewidth=\dimen418
+\cmidrulewidth=\dimen419
+\belowrulesep=\dimen420
+\belowbottomsep=\dimen421
+\aboverulesep=\dimen422
+\abovetopsep=\dimen423
+\cmidrulesep=\dimen424
+\cmidrulekern=\dimen425
+\defaultaddspace=\dimen426
+\@cmidla=\count581
+\@cmidlb=\count582
+\@aboverulesep=\dimen427
+\@belowrulesep=\dimen428
+\@thisruleclass=\count583
+\@lastruleclass=\count584
+\@thisrulewidth=\dimen429
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1241,17 +1341,17 @@ LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count568
-\scratchdimen=\dimen407
-\scratchbox=\box158
-\nofMPsegments=\count569
-\nofMParguments=\count570
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count571
-\MPscratchDim=\dimen408
-\MPnumerator=\count572
-\makeMPintoPDFobject=\count573
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count585
+\scratchdimen=\dimen430
+\scratchbox=\box165
+\nofMPsegments=\count586
+\nofMParguments=\count587
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count588
+\MPscratchDim=\dimen431
+\MPnumerator=\count589
+\makeMPintoPDFobject=\count590
+\everyMPtoPDFconversion=\toks60
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1263,6 +1363,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 Package hyperref Info: Link coloring OFF on input line 22.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
@@ -1303,6 +1404,9 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
+Package microtype Info: Patching varwidth to enable character protrusion.
+\MT@vwid@leftmargin=\dimen432
+\MT@vwid@rightmargin=\dimen433
 LaTeX Info: Redefining \microtypecontext on input line 22.
 Package microtype Info: Applying patch `item' on input line 22.
 Package microtype Info: Applying patch `toc' on input line 22.
@@ -1322,7 +1426,16 @@ Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+\c@lstlisting=\count591
 <./assets/logo2.jpg, id=6, 481.8pt x 481.8pt>
 File: ./assets/logo2.jpg Graphic file (type jpg)
 <use ./assets/logo2.jpg>
@@ -1338,22 +1451,22 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 [2
 
 ])
-\tf@toc=\write5
-\openout5 = `main.toc'.
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
 
 
 [3] (main.lof)
-\tf@lof=\write6
-\openout6 = `main.lof'.
+\tf@lof=\write7
+\openout7 = `main.lof'.
 
 
 
 [4
 
 ] (main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
+\tf@lot=\write8
+\openout8 = `main.lot'.
 
 
 
@@ -1396,7 +1509,7 @@ Overfull \hbox (7.51436pt too wide) in paragraph at lines 80--81
 [5]
 
 [6]
-<assets/finalconcept.png, id=177, 1507.6325pt x 474.77374pt>
+<assets/finalconcept.png, id=179, 1507.6325pt x 474.77374pt>
 File: assets/finalconcept.png Graphic file (type png)
 <use assets/finalconcept.png>
 Package pdftex.def Info: assets/finalconcept.png  used on input line 111.
@@ -1507,7 +1620,7 @@ Overfull \hbox (0.74318pt too wide) in paragraph at lines 35--36
 \OT1/cmr/m/n/10.95 (-20) sub-mit-ted to the Dean of the Col-lege of En-gi-neer-ing at Min-danao State University--General
  []
 
-<assets/SystemFlow.jpg, id=326, 129.1224pt x 254.8722pt>
+<assets/SystemFlow.jpg, id=330, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
 Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 43.
@@ -1515,7 +1628,7 @@ Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 43.
 
 
 [25 <./assets/SystemFlow.jpg>]
-<assets/finalchart.png, id=331, 1311.90125pt x 1045.9075pt>
+<assets/finalchart.png, id=335, 1311.90125pt x 1045.9075pt>
 File: assets/finalchart.png Graphic file (type png)
 <use assets/finalchart.png>
 Package pdftex.def Info: assets/finalchart.png  used on input line 56.
@@ -1644,9 +1757,753 @@ Underfull \hbox (badness 7326) in paragraph at lines 119--119
 []|\OT1/cmr/m/n/10.95 (+20) I am sat-is-fied with the speed of
  []
 
-)
 
-[39] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux))
+
+[39]
+<scode.pdf, id=442, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=444, page=2, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 2>
+Package pdftex.def Info: scode.pdf , page2 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 2>
+Package pdftex.def Info: scode.pdf , page2 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+[40
+
+]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 2>
+Package pdftex.def Info: scode.pdf , page2 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 2>
+Package pdftex.def Info: scode.pdf , page2 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 2>
+Package pdftex.def Info: scode.pdf , page2 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[41
+
+ <./scode.pdf>]
+<scode.pdf, id=476, page=3, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 3>
+Package pdftex.def Info: scode.pdf , page3 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 3>
+Package pdftex.def Info: scode.pdf , page3 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 3>
+Package pdftex.def Info: scode.pdf , page3 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[42
+
+ <./scode.pdf>]
+<scode.pdf, id=485, page=4, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 4>
+Package pdftex.def Info: scode.pdf , page4 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 4>
+Package pdftex.def Info: scode.pdf , page4 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 4>
+Package pdftex.def Info: scode.pdf , page4 used on input line 158.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[43
+
+ <./scode.pdf>]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=495, page=6, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 6>
+Package pdftex.def Info: scode.pdf , page6 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 6>
+Package pdftex.def Info: scode.pdf , page6 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 6>
+Package pdftex.def Info: scode.pdf , page6 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 6>
+Package pdftex.def Info: scode.pdf , page6 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 6>
+Package pdftex.def Info: scode.pdf , page6 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[44
+
+ <./scode.pdf>]
+<scode.pdf, id=507, page=7, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 7>
+Package pdftex.def Info: scode.pdf , page7 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 7>
+Package pdftex.def Info: scode.pdf , page7 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 7>
+Package pdftex.def Info: scode.pdf , page7 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[45
+
+ <./scode.pdf>]
+<scode.pdf, id=521, page=8, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 8>
+Package pdftex.def Info: scode.pdf , page8 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 8>
+Package pdftex.def Info: scode.pdf , page8 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 8>
+Package pdftex.def Info: scode.pdf , page8 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[46
+
+ <./scode.pdf>]
+<scode.pdf, id=530, page=9, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 9>
+Package pdftex.def Info: scode.pdf , page9 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 9>
+Package pdftex.def Info: scode.pdf , page9 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 9>
+Package pdftex.def Info: scode.pdf , page9 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[47
+
+ <./scode.pdf>]
+<scode.pdf, id=539, page=10, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 10>
+Package pdftex.def Info: scode.pdf , page10 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 10>
+Package pdftex.def Info: scode.pdf , page10 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 10>
+Package pdftex.def Info: scode.pdf , page10 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[48
+
+ <./scode.pdf>]
+<scode.pdf, id=548, page=11, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 11>
+Package pdftex.def Info: scode.pdf , page11 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 11>
+Package pdftex.def Info: scode.pdf , page11 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 11>
+Package pdftex.def Info: scode.pdf , page11 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[49
+
+ <./scode.pdf>]
+<scode.pdf, id=557, page=12, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 12>
+Package pdftex.def Info: scode.pdf , page12 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 12>
+Package pdftex.def Info: scode.pdf , page12 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 12>
+Package pdftex.def Info: scode.pdf , page12 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[50
+
+ <./scode.pdf>]
+<scode.pdf, id=567, page=13, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 13>
+Package pdftex.def Info: scode.pdf , page13 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 13>
+Package pdftex.def Info: scode.pdf , page13 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 13>
+Package pdftex.def Info: scode.pdf , page13 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[51
+
+ <./scode.pdf>]
+<scode.pdf, id=576, page=14, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 14>
+Package pdftex.def Info: scode.pdf , page14 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 14>
+Package pdftex.def Info: scode.pdf , page14 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 14>
+Package pdftex.def Info: scode.pdf , page14 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[52
+
+ <./scode.pdf>]
+<scode.pdf, id=585, page=15, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 15>
+Package pdftex.def Info: scode.pdf , page15 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 15>
+Package pdftex.def Info: scode.pdf , page15 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 15>
+Package pdftex.def Info: scode.pdf , page15 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[53
+
+ <./scode.pdf>]
+<scode.pdf, id=594, page=16, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 16>
+Package pdftex.def Info: scode.pdf , page16 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 16>
+Package pdftex.def Info: scode.pdf , page16 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 16>
+Package pdftex.def Info: scode.pdf , page16 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[54
+
+ <./scode.pdf>]
+<scode.pdf, id=603, page=17, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 17>
+Package pdftex.def Info: scode.pdf , page17 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 17>
+Package pdftex.def Info: scode.pdf , page17 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 17>
+Package pdftex.def Info: scode.pdf , page17 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[55
+
+ <./scode.pdf>]
+<scode.pdf, id=612, page=18, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 18>
+Package pdftex.def Info: scode.pdf , page18 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 18>
+Package pdftex.def Info: scode.pdf , page18 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 18>
+Package pdftex.def Info: scode.pdf , page18 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[56
+
+ <./scode.pdf>]
+<scode.pdf, id=622, page=19, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 19>
+Package pdftex.def Info: scode.pdf , page19 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 19>
+Package pdftex.def Info: scode.pdf , page19 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 19>
+Package pdftex.def Info: scode.pdf , page19 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[57
+
+ <./scode.pdf>]
+<scode.pdf, id=631, page=20, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 20>
+Package pdftex.def Info: scode.pdf , page20 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 20>
+Package pdftex.def Info: scode.pdf , page20 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 20>
+Package pdftex.def Info: scode.pdf , page20 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[58
+
+ <./scode.pdf>]
+<scode.pdf, id=640, page=21, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 21>
+Package pdftex.def Info: scode.pdf , page21 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 21>
+Package pdftex.def Info: scode.pdf , page21 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 21>
+Package pdftex.def Info: scode.pdf , page21 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[59
+
+ <./scode.pdf>]
+<scode.pdf, id=649, page=22, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 22>
+Package pdftex.def Info: scode.pdf , page22 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 22>
+Package pdftex.def Info: scode.pdf , page22 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 22>
+Package pdftex.def Info: scode.pdf , page22 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[60
+
+ <./scode.pdf>]
+<scode.pdf, id=658, page=23, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 23>
+Package pdftex.def Info: scode.pdf , page23 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 23>
+Package pdftex.def Info: scode.pdf , page23 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 23>
+Package pdftex.def Info: scode.pdf , page23 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[61
+
+ <./scode.pdf>]
+<scode.pdf, id=667, page=24, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 24>
+Package pdftex.def Info: scode.pdf , page24 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 24>
+Package pdftex.def Info: scode.pdf , page24 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 24>
+Package pdftex.def Info: scode.pdf , page24 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[62
+
+ <./scode.pdf>]
+<scode.pdf, id=677, page=25, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 25>
+Package pdftex.def Info: scode.pdf , page25 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 25>
+Package pdftex.def Info: scode.pdf , page25 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 25>
+Package pdftex.def Info: scode.pdf , page25 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[63
+
+ <./scode.pdf>]
+<scode.pdf, id=686, page=26, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 26>
+Package pdftex.def Info: scode.pdf , page26 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 26>
+Package pdftex.def Info: scode.pdf , page26 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 26>
+Package pdftex.def Info: scode.pdf , page26 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[64
+
+ <./scode.pdf>]
+<scode.pdf, id=695, page=27, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 27>
+Package pdftex.def Info: scode.pdf , page27 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 27>
+Package pdftex.def Info: scode.pdf , page27 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 27>
+Package pdftex.def Info: scode.pdf , page27 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[65
+
+ <./scode.pdf>]
+<scode.pdf, id=704, page=28, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 28>
+Package pdftex.def Info: scode.pdf , page28 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 28>
+Package pdftex.def Info: scode.pdf , page28 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 28>
+Package pdftex.def Info: scode.pdf , page28 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[66
+
+ <./scode.pdf>]
+<scode.pdf, id=713, page=29, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 29>
+Package pdftex.def Info: scode.pdf , page29 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 29>
+Package pdftex.def Info: scode.pdf , page29 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 29>
+Package pdftex.def Info: scode.pdf , page29 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[67
+
+ <./scode.pdf>]
+<scode.pdf, id=722, page=30, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 30>
+Package pdftex.def Info: scode.pdf , page30 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 30>
+Package pdftex.def Info: scode.pdf , page30 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 30>
+Package pdftex.def Info: scode.pdf , page30 used on input line 167.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[68
+
+ <./scode.pdf>]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=733, page=32, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 32>
+Package pdftex.def Info: scode.pdf , page32 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 32>
+Package pdftex.def Info: scode.pdf , page32 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 32>
+Package pdftex.def Info: scode.pdf , page32 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 32>
+Package pdftex.def Info: scode.pdf , page32 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 32>
+Package pdftex.def Info: scode.pdf , page32 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[69
+
+ <./scode.pdf>]
+<scode.pdf, id=744, page=33, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 33>
+Package pdftex.def Info: scode.pdf , page33 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 33>
+Package pdftex.def Info: scode.pdf , page33 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 33>
+Package pdftex.def Info: scode.pdf , page33 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[70
+
+ <./scode.pdf>]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=754, page=35, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 35>
+Package pdftex.def Info: scode.pdf , page35 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 35>
+Package pdftex.def Info: scode.pdf , page35 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 35>
+Package pdftex.def Info: scode.pdf , page35 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 35>
+Package pdftex.def Info: scode.pdf , page35 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 35>
+Package pdftex.def Info: scode.pdf , page35 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[71
+
+ <./scode.pdf>]
+<scode.pdf, id=765, page=36, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 36>
+Package pdftex.def Info: scode.pdf , page36 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 36>
+Package pdftex.def Info: scode.pdf , page36 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 36>
+Package pdftex.def Info: scode.pdf , page36 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[72
+
+ <./scode.pdf>]
+<scode.pdf, id=774, page=37, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 37>
+Package pdftex.def Info: scode.pdf , page37 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 37>
+Package pdftex.def Info: scode.pdf , page37 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 37>
+Package pdftex.def Info: scode.pdf , page37 used on input line 186.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[73
+
+ <./scode.pdf>]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=784, page=39, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 39>
+Package pdftex.def Info: scode.pdf , page39 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 39>
+Package pdftex.def Info: scode.pdf , page39 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 39>
+Package pdftex.def Info: scode.pdf , page39 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 39>
+Package pdftex.def Info: scode.pdf , page39 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 39>
+Package pdftex.def Info: scode.pdf , page39 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[74
+
+ <./scode.pdf>]
+<scode.pdf, id=796, page=40, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 40>
+Package pdftex.def Info: scode.pdf , page40 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 40>
+Package pdftex.def Info: scode.pdf , page40 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 40>
+Package pdftex.def Info: scode.pdf , page40 used on input line 195.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[75
+
+ <./scode.pdf>]
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf>
+Package pdftex.def Info: scode.pdf  used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<scode.pdf, id=806, page=42, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 42>
+Package pdftex.def Info: scode.pdf , page42 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 42>
+Package pdftex.def Info: scode.pdf , page42 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 42>
+Package pdftex.def Info: scode.pdf , page42 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 42>
+Package pdftex.def Info: scode.pdf , page42 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 42>
+Package pdftex.def Info: scode.pdf , page42 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[76
+
+ <./scode.pdf>]
+<scode.pdf, id=817, page=43, 598.235pt x 845.1575pt>
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 43>
+Package pdftex.def Info: scode.pdf , page43 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 43>
+Package pdftex.def Info: scode.pdf , page43 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+File: scode.pdf Graphic file (type pdf)
+<use scode.pdf, page 43>
+Package pdftex.def Info: scode.pdf , page43 used on input line 205.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+[77
+
+ <./scode.pdf>]) (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1656,17 +2513,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53297 strings out of 468081
- 1237201 string characters out of 5425788
- 2344398 words of memory out of 5000000
- 80953 multiletter control sequences out of 15000+600000
+ 57157 strings out of 468081
+ 1301860 string characters out of 5425788
+ 2408186 words of memory out of 5000000
+ 84699 multiletter control sequences out of 15000+600000
  638390 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,12n,149p,2291b,4391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,18n,149p,2291b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (44 pages, 860905 bytes).
+Output written on main.pdf (82 pages, 1056081 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 160 named destinations out of 1000 (max. 500000)
- 20793 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 1010 PDF objects out of 1200 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
+ 21759 words of extra memory for PDF output out of 24883 (max. 10000000)
 
