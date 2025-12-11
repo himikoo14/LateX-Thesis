@@ -1,6 +1,6 @@
-PWD c:\Users\ADMIN\Desktop\LateX - Copy\LateX-Thesis\Thesis
+PWD c:\Users\ADMIN\Desktop\LateX\LateX-Thesis\Thesis
 INPUT C:\Users\ADMIN\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ADMIN\Desktop\LateX - Copy\LateX-Thesis\Thesis\main.tex
+INPUT c:\Users\ADMIN\Desktop\LateX\LateX-Thesis\Thesis\main.tex
 OUTPUT main.log
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
@@ -22,6 +22,20 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
@@ -31,9 +45,8 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
@@ -56,6 +69,10 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.s
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\tabularray\tabularray.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\tabularray\tabularray.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
@@ -170,18 +187,6 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\p
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
@@ -343,8 +348,6 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
@@ -391,8 +394,6 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
@@ -576,8 +577,6 @@ OUTPUT appendix.aux
 INPUT .\appendix.tex
 INPUT .\appendix.tex
 INPUT appendix.tex
-INPUT .\scode.pdf
-INPUT .\scode.pdf
 INPUT .\scode.pdf
 INPUT .\scode.pdf
 INPUT .\scode.pdf
