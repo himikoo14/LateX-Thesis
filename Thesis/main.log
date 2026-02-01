@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  11 DEC 2025 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  1 FEB 2026 14:02
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
 (c:/Users/ADMIN/Desktop/LateX/LateX-Thesis/Thesis/main.tex
@@ -1632,16 +1631,21 @@ Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 43.
 
 
 [25 <./assets/SystemFlow.jpg>]
-<assets/finalchart.png, id=337, 1311.90125pt x 1045.9075pt>
-File: assets/finalchart.png Graphic file (type png)
-<use assets/finalchart.png>
-Package pdftex.def Info: assets/finalchart.png  used on input line 56.
-(pdftex.def)             Requested size: 416.83289pt x 332.3193pt.
+<assets/concon.png, id=337, 2055.68pt x 1595.9625pt>
+File: assets/concon.png Graphic file (type png)
+<use assets/concon.png>
+Package pdftex.def Info: assets/concon.png  used on input line 56.
+(pdftex.def)             Requested size: 458.5187pt x 355.95897pt.
+
+Overfull \hbox (41.68582pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
 
 
 [26]
 
-[27 <./assets/finalchart.png>]
+[27 <./assets/concon.png>]
 
 [28]
 
@@ -2511,14 +2515,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  57154 strings out of 468081
- 1301501 string characters out of 5425788
- 2408251 words of memory out of 5000000
+ 1301473 string characters out of 5425788
+ 2408264 words of memory out of 5000000
  84694 multiletter control sequences out of 15000+600000
  638390 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,18n,104p,2282b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (82 pages, 1065149 bytes).
+Output written on main.pdf (82 pages, 1299325 bytes).
 PDF statistics:
  1016 PDF objects out of 1200 (max. 8388607)
  200 named destinations out of 1000 (max. 500000)
