@@ -18,13 +18,14 @@
 \usepackage{ifthen}
 
 % Add background ONLY on LaTeX page 41
-\AddToShipoutPictureBG{%
-  \AtPageLowerLeft{%  <-- anchors the image at the absolute lower-left
-    \ifthenelse{\value{page}=41}{%
-      \includegraphics[page=2,width=\paperwidth,height=\paperheight]{scode.pdf}%
-    }{}%
-  }%
-}
+
+%\AddToShipoutPictureBG{%
+%  \AtPageLowerLeft{%  <-- anchors the image at the absolute lower-left
+%    \ifthenelse{\value{page}=41}{%
+%      \includegraphics[page=2,width=\paperwidth,height=\paperheight]{scode.pdf}%
+ %   }{}%
+%  }%
+%}
 
 
 

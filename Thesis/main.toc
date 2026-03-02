@@ -22,7 +22,7 @@
 \contentsline {section}{\numberline {2.9}Digital Learning Tools and Student Engagement}{17}{section.2.9}%
 \contentsline {section}{\numberline {2.10}Web-Based Learning in Engineering Education}{18}{section.2.10}%
 \contentsline {section}{\numberline {2.11}Related Systems and Existing Educational Tools}{20}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Summary of Literature}{21}{section.2.12}%
+\contentsline {section}{\numberline {2.12}Summary of Literature}{22}{section.2.12}%
 \contentsline {chapter}{\numberline {3}Methodology}{23}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Research Method}{23}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Research Respondents}{24}{section.3.2}%
@@ -33,11 +33,7 @@
 \contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{29}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}Statistical Tools}{30}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Statistical Treatment}{31}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Results and Discussions}{33}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Summary, Conclusion, and Recommendations}{34}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary of Findings}{34}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Conclusions}{34}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Recommendations}{34}{section.5.3}%
-\contentsline {chapter}{References}{38}{chapter*.8}%
-\contentsline {chapter}{Curriculum Vitae}{39}{chapter*.9}%
-\contentsline {chapter}{Curriculum Vitae}{40}{chapter*.10}%
+\contentsline {chapter}{References}{35}{chapter*.8}%
+\contentsline {chapter}{Appendix A}{36}{appendix*.9}%
+\contentsline {chapter}{Curriculum Vitae}{41}{appendix*.11}%
+\contentsline {chapter}{Curriculum Vitae}{42}{appendix*.12}%
