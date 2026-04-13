@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  3 MAR 2026 02:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  11 APR 2026 14:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1510,7 +1510,7 @@ Overfull \hbox (7.51436pt too wide) in paragraph at lines 80--81
 
 
 [5]
-<assets/finalconcept.png, id=162, 1507.6325pt x 474.77374pt>
+<assets/finalconcept.png, id=164, 1507.6325pt x 474.77374pt>
 File: assets/finalconcept.png Graphic file (type png)
 <use assets/finalconcept.png>
 Package pdftex.def Info: assets/finalconcept.png  used on input line 105.
@@ -1617,60 +1617,67 @@ Chapter 3.
 
 
 ]
+Overfull \hbox (1.46251pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/10.95 (-20) The stu-dent re-spon-dents were se-lected from second-year to fourth-year civil en-gi-neer-ing
+ []
+
+
 
 [24]
-Overfull \hbox (0.74318pt too wide) in paragraph at lines 39--40
+
+[25]
+Overfull \hbox (0.74318pt too wide) in paragraph at lines 74--75
 \OT1/cmr/m/n/10.95 (-20) sub-mit-ted to the Dean of the Col-lege of En-gi-neer-ing at Min-danao State University--General
  []
 
-<assets/SystemFlow.jpg, id=301, 129.1224pt x 254.8722pt>
+<assets/SystemFlow.jpg, id=309, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
-Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 49.
+Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 84.
 (pdftex.def)             Requested size: 125.05113pt x 246.8446pt.
 
 
-[25]
-<assets/concon.png, id=306, 2055.68pt x 1595.9625pt>
+[26 <./assets/SystemFlow.jpg>]
+<assets/concon.png, id=315, 2055.68pt x 1595.9625pt>
 File: assets/concon.png Graphic file (type png)
 <use assets/concon.png>
-Package pdftex.def Info: assets/concon.png  used on input line 62.
+Package pdftex.def Info: assets/concon.png  used on input line 97.
 (pdftex.def)             Requested size: 458.5187pt x 355.95897pt.
 
-Overfull \hbox (41.68582pt too wide) in paragraph at lines 62--63
+Overfull \hbox (41.68582pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
 
 
-[26 <./assets/SystemFlow.jpg>]
+[27]
 
-[27 <./assets/concon.png>]
-
-[28]
+[28 <./assets/concon.png>]
 
 [29]
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent nei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 )
 
-[31]
-
 [32]
+
+[33]
 Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 (-20) Self-Explanation Strat-egy in a Re-mote Learn-ing Con-text." \OT1/cmr/m/it/10.95 (-20) 9th Re-search in En-gi-neer-ing
  []
@@ -1687,7 +1694,7 @@ Overfull \hbox (21.2103pt too wide) in paragraph at lines 85--85
 
 
 
-[33
+[34
 
 
 
@@ -1701,9 +1708,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
 
 
-[34]
-
 [35]
+
+[36]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
@@ -1722,83 +1729,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
  []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 68--68
-[]|\OT1/cmr/m/n/10.95 (+20) The fea-tures and tools of Stat-i-Calcs
- []
 
-
-
-[36
+[37
 
 
 ]
 
-[37]
-Underfull \hbox (badness 4819) in paragraph at lines 93--93
-[]|\OT1/cmr/m/n/10.95 (+20) The but-tons, links, and in-ter-ac-tive
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 96--96
-[]|\OT1/cmr/m/n/10.95 (+20) The vi-sual de-sign makes the con-tent
- []
-
-
-
 [38]
 
 [39]
-Overfull \hbox (9.95845pt too wide) in paragraph at lines 134--140
+Underfull \hbox (badness 2005) in paragraph at lines 126--126
+[]|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent strongly prefers
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 128--128
+[]|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent has no strong
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 130--130
+[]|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent strongly prefers
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 141--141
+[]|\OT1/cmr/m/n/10.95 (+20) Textbooks (e.g., Hi-bbeler, Beer and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/cmr/m/n/10.95 (+20) Modules (e.g., instructor-provided
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\OT1/cmr/m/n/10.95 (+20) YouTube Videos (e.g., ed-u-ca-tional
+ []
+
+
+
+[40]
+Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 $[]$ 
  []
 
 
-Overfull \hbox (9.95845pt too wide) in paragraph at lines 134--140
+Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 []$ 
  []
 
 
-Overfull \hbox (9.95845pt too wide) in paragraph at lines 134--140
+Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 []$ 
  []
 
 
-Overfull \hbox (9.95845pt too wide) in paragraph at lines 134--140
+Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 []$ 
  []
 
 )
 
-[40]
+[41]
 \openout2 = `curriculum-vitae.aux'.
 
  (curriculum-vitae.tex
-<./assets/logo.png, id=400, 722.7pt x 722.7pt>
+<./assets/logo.png, id=409, 722.7pt x 722.7pt>
 File: ./assets/logo.png Graphic file (type png)
 <use ./assets/logo.png>
 Package pdftex.def Info: ./assets/logo.png  used on input line 5.
 (pdftex.def)             Requested size: 56.90189pt x 56.9055pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 17--29
 
-[41
+ []
+
+
+
+[42
 
 
 
 
  <./assets/logo.png>]
-<./assets/pia.jpg, id=406, 1370.11874pt x 2055.68pt>
+<./assets/pia.jpg, id=415, 1370.11874pt x 2055.68pt>
 File: ./assets/pia.jpg Graphic file (type jpg)
 <use ./assets/pia.jpg>
-Package pdftex.def Info: ./assets/pia.jpg  used on input line 60.
+Package pdftex.def Info: ./assets/pia.jpg  used on input line 72.
 (pdftex.def)             Requested size: 37.92403pt x 56.9055pt.
 
-Overfull \hbox (1.1983pt too wide) in paragraph at lines 75--83
+Overfull \hbox (1.1983pt too wide) in paragraph at lines 87--95
 \OT1/cmr/bx/n/10.95 (-20) Mindanao State Uni-ver-sity -- Gen-san Se-nior High School 
  []
 
 )
 
-[42
+[43
 
  <./assets/pia.jpg>] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux) (curriculum-vitae.aux))
  ***********
@@ -1812,19 +1839,23 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 3 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 56996 strings out of 468081
- 1297138 string characters out of 5425788
- 2410262 words of memory out of 5000000
- 84568 multiletter control sequences out of 15000+600000
+ 57005 strings out of 468081
+ 1297359 string characters out of 5425788
+ 2410264 words of memory out of 5000000
+ 84574 multiletter control sequences out of 15000+600000
  639421 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,12n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (47 pages, 1993522 bytes).
+ <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (48 pages, 2012169 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 147 named destinations out of 1000 (max. 500000)
+ 607 PDF objects out of 1000 (max. 8388607)
+ 150 named destinations out of 1000 (max. 500000)
  26971 words of extra memory for PDF output out of 29859 (max. 10000000)
 
