@@ -28,7 +28,7 @@
 \contentsline {section}{\numberline {3.2}Research Respondents}{24}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Research Locale}{25}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Research Procedure}{25}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Website Development Process}{26}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.1}Website Development Process}{27}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{28}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{30}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}Statistical Tools}{31}{section.3.5}%

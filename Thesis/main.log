@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  11 APR 2026 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  12 MAY 2026 00:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1624,33 +1624,34 @@ Overfull \hbox (1.46251pt too wide) in paragraph at lines 20--21
 
 
 [24]
-
-[25]
-Overfull \hbox (0.74318pt too wide) in paragraph at lines 74--75
-\OT1/cmr/m/n/10.95 (-20) sub-mit-ted to the Dean of the Col-lege of En-gi-neer-ing at Min-danao State University--General
+Overfull \hbox (14.10834pt too wide) in paragraph at lines 62--63
+\OT1/cmr/m/n/10.95 (-20) Elec-tri-cal En-gi-neer-ing, Elec-tron-ics and Com-mu-ni-ca-tion En-gi-neer-ing, En-gi-neer-ing Tech-nol-ogy,
  []
 
+
+
+[25]
 <assets/SystemFlow.jpg, id=309, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
-Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 84.
+Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 85.
 (pdftex.def)             Requested size: 125.05113pt x 246.8446pt.
 
 
-[26 <./assets/SystemFlow.jpg>]
+[26]
 <assets/concon.png, id=315, 2055.68pt x 1595.9625pt>
 File: assets/concon.png Graphic file (type png)
 <use assets/concon.png>
-Package pdftex.def Info: assets/concon.png  used on input line 97.
+Package pdftex.def Info: assets/concon.png  used on input line 98.
 (pdftex.def)             Requested size: 458.5187pt x 355.95897pt.
 
-Overfull \hbox (41.68582pt too wide) in paragraph at lines 97--98
+Overfull \hbox (41.68582pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
 
 
-[27]
+[27 <./assets/SystemFlow.jpg>]
 
 [28 <./assets/concon.png>]
 
@@ -1659,23 +1660,23 @@ Overfull \hbox (41.68582pt too wide) in paragraph at lines 97--98
 [30]
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent nei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
-)
 
-[32]
+
+[32])
 
 [33]
 Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
@@ -1847,13 +1848,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  57005 strings out of 468081
  1297359 string characters out of 5425788
- 2410264 words of memory out of 5000000
+ 2410261 words of memory out of 5000000
  84574 multiletter control sequences out of 15000+600000
  639421 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,12n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (48 pages, 2012169 bytes).
+Output written on main.pdf (48 pages, 2012720 bytes).
 PDF statistics:
  607 PDF objects out of 1000 (max. 8388607)
  150 named destinations out of 1000 (max. 500000)
