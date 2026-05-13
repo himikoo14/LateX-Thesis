@@ -31,9 +31,11 @@
 \contentsline {subsection}{\numberline {3.4.1}Website Development Process}{27}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{28}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{30}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Statistical Tools}{31}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Statistical Treatment}{32}{section.3.6}%
-\contentsline {chapter}{References}{36}{chapter*.9}%
-\contentsline {chapter}{Appendix A}{37}{appendix*.10}%
-\contentsline {chapter}{Curriculum Vitae}{42}{appendix*.13}%
-\contentsline {chapter}{Curriculum Vitae}{43}{appendix*.14}%
+\contentsline {section}{\numberline {3.5}Research Instrument}{31}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Statistical Tools}{32}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Statistical Treatment}{35}{section.3.7}%
+\contentsline {chapter}{References}{39}{chapter*.11}%
+\contentsline {chapter}{Appendix A}{40}{appendix*.12}%
+\contentsline {chapter}{Appendix C}{45}{appendix*.15}%
+\contentsline {chapter}{Curriculum Vitae}{77}{appendix*.16}%
+\contentsline {chapter}{Curriculum Vitae}{78}{appendix*.17}%

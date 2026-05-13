@@ -144,11 +144,11 @@ The \textit{App} folder contained all the front-end code for all website pages, 
 
 %---------------------------------------------------------------------
 
-\section{Statistical Tools}\label{sec:3-stat}
+\section{Research Instrument}\label{sec:3-stat}
 
 This study utilized a researcher-made questionnaire to evaluate the respondents' perceptions of the developed web-based learning tool, \textit{StatiCalcs}. The questionnaire focused on three areas: usability, accessibility, and satisfaction. Each area contained five (5) questions, resulting in a total of fifteen (15) statements. Responses were measured using a five-point Likert scale ranging from 1 (Strongly Disagree) to 5 (Strongly Agree). The responses gathered provided quantitative data regarding the respondents’ perceptions of the platform.  
 
-In addition, the questionnaire included a section that determined the respondents’ level of preference for different learning resources when studying Statics. This section contained five (5) statements measured using a five-point preference scale ranging from 1 (Least Preferred) to 5 (Most Preferred). The learning resources included textbooks, modules, YouTube videos, lecture notes, online engineering tools, and \textit{StatiCalcs}.  
+In addition, the questionnaire included a section that determined the respondents’ level of preference for different learning resources when studying Statics. This section contained six (6) statements measured using a five-point preference scale ranging from 1 (Least Preferred) to 5 (Most Preferred). The learning resources included textbooks, modules, YouTube videos, lecture notes, online engineering tools, and \textit{StatiCalcs}.  
 
 The questionnaire also included one (1) open-ended question that allowed respondents to provide comments, suggestions, or feedback that may help improve the \textit{StatiCalcs} platform.  
 
@@ -171,11 +171,115 @@ To ensure the validity and reliability of the instrument, the questionnaire was 
 \renewcommand{\arraystretch}{1} % reset spacing
 \end{table}
 
+%------------------------------------------
+
+\section{Statistical Tools}\label{sec:3-stat}
+
+\subsubsection*{Weighted Mean}
+
+The weighted mean was used to determine the respondents’ level of perception of the \textit{StatiCalcs} platform in terms of usability, accessibility, and satisfaction. It was also used to determine the respondents’ level of preference for different learning resources in studying Statics.  
+
+The following formula was used to compute the weighted mean:
+
+\[
+\bar{X} = \frac{\sum f x}{N}
+\]
+
+where:  
+
+\begin{itemize}
+    \item $\bar{X}$ = weighted mean
+    \item $f$ = frequency of responses
+    \item $x$ = weight assigned to each response
+    \item $N$ = total number of responses
+\end{itemize}
+
+\subsubsection*{Cronbach’s Alpha}
+
+Cronbach’s alpha was used to determine the internal consistency and reliability of the questionnaire. Separate reliability tests were conducted for usability, accessibility, satisfaction, and preference for learning resources.  
+
+The following formula was used to compute Cronbach’s alpha:
+
+\[
+\alpha = \frac{k}{k-1}\left(1-\frac{\sum \sigma_i^2}{\sigma_t^2}\right)
+\]
+
+where:  
+
+\begin{itemize}
+    \item $k$ = number of items
+    \item $\sigma_i^2$ = variance of each item
+    \item $\sigma_t^2$ = total variance
+\end{itemize}
+
+The interpretation of Cronbach’s alpha is presented in Table X.
+
+\begin{table}[H]
+\centering
+\caption{Interpretation of Cronbach’s Alpha}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Cronbach’s Alpha} & \textbf{Interpretation} \\
+\hline
+0.90 -- 1.00 & Excellent \\
+0.80 -- 0.89 & Good \\
+0.70 -- 0.79 & Acceptable \\
+0.60 -- 0.69 & Questionable \\
+Below 0.60 & Poor \\
+\hline
+\end{tabular}
+\end{table}
+
+The computed Cronbach’s alpha values are presented in Table X.
+
+\begin{table}[H]
+\centering
+\caption{Computed Cronbach’s Alpha Values}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Variable} & \textbf{No. of Items} & \textbf{Cronbach’s Alpha} & \textbf{Interpretation} \\
+\hline
+Usability & 5 & 0.88 & Good \\
+Accessibility & 5 & 0.94 & Excellent \\
+Satisfaction & 5 & 0.94 & Excellent \\
+Preference for Learning Resources & 6 & 0.86 & Good \\
+\hline
+\end{tabular}
+\end{table}
+
+The computed Cronbach’s alpha values indicated that the questionnaire demonstrated acceptable internal consistency and reliability for use in the study.
+
+\subsubsection*{Independent Samples t-test}
+
+An independent samples t-test was used to determine whether there was a significant difference between the perceptions of Civil Engineering students and instructors regarding the usability, accessibility, and satisfaction of the \textit{StatiCalcs} platform.  
+
+The following formula was used to compute the independent samples t-test:
+
+\[
+t = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}}
+\]
+
+where:  
+
+\begin{itemize}
+    \item $t$ = computed t-value
+    \item $\bar{X}_1$ = mean of the first group
+    \item $\bar{X}_2$ = mean of the second group
+    \item $s_1^2$ = variance of the first group
+    \item $s_2^2$ = variance of the second group
+    \item $n_1$ = number of respondents in the first group
+    \item $n_2$ = number of respondents in the second group
+\end{itemize}
+
+The independent samples t-test was conducted at a 0.05 level of significance.
+
+
+
 
 %---------------------------------------------------------------------
 
 \section{Statistical Treatment}\label{sec:3-stat}
 
-This research utilized weighted mean and frequency distribution to determine the level of perception of the respondents toward the developed web-based learning tool, \textit{StatiCalcs}, in terms of usability, accessibility, and user satisfaction. Each item in the questionnaire was measured using a five-point Likert scale, where respondents indicated their level of agreement or perception. The weighted mean was computed to quantify the overall perception of students and instructors, providing a clear and interpretable measure of how the tool was perceived across its different aspects. Frequency distribution was also used to show how many respondents selected each response, offering a detailed view of the spread of opinions and highlighting areas of agreement or disagreement.
+This study utilized weighted mean and frequency distribution to analyze the respondents’ perceptions of the developed web-based learning tool, \textit{StatiCalcs}, in terms of usability, accessibility, and satisfaction, as well as their level of preference for different learning resources in studying Statics. Each item in the questionnaire was measured using a five-point scale. The weighted mean was used to determine the overall responses of the respondents for each evaluated area, while frequency distribution was used to summarize and present the number of responses gathered for each scale category.  
 
-In addition, an independent samples t-test was conducted to determine whether there was a significant difference between the perceptions of students and instructors regarding the usability, accessibility, and satisfaction of the developed learning tool. By combining these statistical treatments, the study provided both a summarized and comprehensive understanding of respondents’ perceptions.
+In addition, an independent samples t-test was conducted to determine whether there was a significant difference between the perceptions of Civil Engineering students and instructors regarding the usability, accessibility, and satisfaction of the \textit{StatiCalcs} platform. The test was conducted using a 0.05 level of significance.

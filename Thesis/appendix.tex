@@ -42,17 +42,17 @@ This section evaluates how easy and efficient the StatiCalcs platform is to use.
 
 \begin{table}[h!]
 \centering
-\renewcommand{\arraystretch}{1.5} % 1.5 spacing for entire table
-\begin{tabular}{|c|c|c|p{5cm}|}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|p{6cm}|}
 \hline
-\textbf{Scale} & \textbf{Range} & \textbf{Description} & \textbf{Interpretation} \\ \hline
-5 & 4.21 -- 5.00 & Strongly Agree & The respondent fully agrees with the statement. \\ \hline
-4 & 3.41 -- 4.20 & Agree & The respondent generally agrees with the statement. \\ \hline
-3 & 2.61 -- 3.40 & Neutral & The respondent neither agrees nor disagrees with the statement. \\ \hline
-2 & 1.81 -- 2.60 & Disagree & The respondent generally disagrees with the statement. \\ \hline
-1 & 1.00 -- 1.80 & Strongly Disagree & The respondent fully disagrees with the statement. \\ \hline
+\textbf{Range} & \textbf{Description} & \textbf{Interpretation} \\ \hline
+4.21 -- 5.00 & Strongly Agree & I fully agree with the statement. \\ \hline
+3.41 -- 4.20 & Agree & I generally agree with the statement. \\ \hline
+2.61 -- 3.40 & Neutral & I neither agree nor disagree with the statement. \\ \hline
+1.81 -- 2.60 & Disagree & I generally disagree with the statement. \\ \hline
+1.00 -- 1.80 & Strongly Disagree & I fully disagree with the statement. \\ \hline
 \end{tabular}
-\renewcommand{\arraystretch}{1} % reset spacing
+\renewcommand{\arraystretch}{1}
 \end{table}
 
 \vspace{0.3cm}
@@ -120,14 +120,14 @@ This section determines the respondents’ level of preference for different lea
 \begin{table}[h!]
 \centering
 \renewcommand{\arraystretch}{1.5}
-\begin{tabular}{|c|c|c|p{6cm}|}
+\begin{tabular}{|c|c|p{6cm}|}
 \hline
-\textbf{Scale} & \textbf{Range} & \textbf{Description} & \textbf{Interpretation} \\ \hline
-5 & 4.21--5.00 & Most Preferred & The respondent strongly prefers using the learning resource. \\ \hline
-4 & 3.41--4.20 & Preferred & The respondent generally prefers using the learning resource. \\ \hline
-3 & 2.61--3.40 & Neutral & The respondent has no strong preference for the learning resource. \\ \hline
-2 & 1.81--2.60 & Less Preferred & The respondent generally prefers other learning resources over this. \\ \hline
-1 & 1.00--1.80 & Least Preferred & The respondent strongly prefers other learning resources over this. \\ \hline
+\textbf{Scale} & \textbf{Description} & \textbf{Interpretation} \\ \hline
+5 & Most Preferred & I strongly prefer using the learning resource. \\ \hline
+4 & Preferred & I generally prefer using the learning resource. \\ \hline
+3 & Neutral & I have no strong preference for the learning resource. \\ \hline
+2 & Less Preferred & I generally prefer other learning resources over this. \\ \hline
+1 & Least Preferred & I strongly prefer other learning resources over this. \\ \hline
 \end{tabular}
 \renewcommand{\arraystretch}{1}
 \end{table}
@@ -166,6 +166,1056 @@ Please share any comments, suggestions, or feedback that may help improve the St
 \underline{\hspace{15cm}}\\[0.5cm]
 \underline{\hspace{15cm}}
 %-----------------------------------------------------------------------
+
+%CODE CODE CODE
+
+
+\chapter{Appendix C}\label{appendix:C}
+\thispagestyle{backmatter}
+
+\begin{center}
+\textbf{Source Code}
+\end{center}
+
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  breaklines=true,
+  breakatwhitespace=false,
+  columns=fullflexible,
+  keepspaces=true,
+  showstringspaces=false,
+  tabsize=2,
+  frame=single,
+  numbers=left,
+  numberstyle=\tiny,
+  numbersep=5pt,
+  xleftmargin=15pt,
+  captionpos=b,
+}
+
+% ------------------- Homepage -------------------
+\subsection*{Homepage}
+
+\begin{lstlisting}[language=Java, caption={Homepage (page.tsx)}]
+import Link from "next/link";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+
+export default function HomePage() {
+  return (
+    <main className="bg-gray-50 min-h-screen flex flex-col relative">
+      <div/>
+      <Header/>
+      <section className="flex flex-col items-center text-center py-12 bg-gray-50 flex-grow">
+        <h1 className="text-[20px] md:text-[80px] font-bold mb-2 text-black">
+          Stati<span className="text-[#1848a0]">Calcs</span>
+        </h1>
+        <p className="text-gray-600 mb-12 text-[18px]">
+          Interactive calculators for learning and solving Statics of Rigid Bodies.
+        </p>
+        <div className="w-full max-w-2xl">
+          <div className="grid grid-cols-2 gap-4 items-center">
+            <p className="text-left text-black text-[18px] font-bold">
+              Chapter 1: Modules to Statics
+            </p>
+            <Link href="/Introduction"
+              className="bg-[#1848a0] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#163d8a] transition text-[18px]">
+              Statics Modules
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Chapter 2: Force Systems
+            </p>
+            <Link href="/2D-solver"
+              className="bg-[#1848a0] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#163d8a] transition text-[18px]">
+              Resultant Force Calculator
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Chapter 3: Equilibrium
+            </p>
+            <Link href="/Equilibrium"
+              className="bg-[#1848a0] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#163d8a] transition text-[18px]">
+              Equilibrium Calculator
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Chapter 4: Structures
+            </p>
+            <Link href="/Structures"
+              className="bg-[#1848a0] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#163d8a] transition text-[18px]">
+              Truss Calculator
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Chapter 5: Distributed Loads
+            </p>
+            <Link href="/Distributed-Loads"
+              className="bg-[#1848a0] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#163d8a] transition text-[18px]">
+              Structures Calculator
+            </Link>
+          </div>
+        </div>
+      </section>
+      <Footer/>
+    </main>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Introduction -------------------
+\subsection*{Introduction}
+
+\begin{lstlisting}[language=Java, caption={Introduction Page (page.tsx)}]
+import Link from "next/link";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+export default function HomePage() {
+  return (
+    <main className="bg-gray-50 min-h-screen flex flex-col">
+      <Header/>
+      <section className="flex flex-col items-center text-center py-12 bg-gray-50 flex-grow">
+        <h1 className="text-[20px] md:text-[80px] font-bold mb-2 text-black">
+          Stati<span className="text-[#008409]">Calcs</span>
+        </h1>
+        <p className="text-gray-600 mb-12 text-[18px]">
+          Modules for learning and solving Statics of Rigid Bodies.
+        </p>
+        <div className="w-full max-w-2xl">
+          <div className="grid grid-cols-2 gap-4 items-center">
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 1: Free Body Diagram
+            </p>
+            <Link href="/modules/FBD"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 1
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 2: 2D Resultant
+            </p>
+            <Link href="/modules/2D-Resultant"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 2
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 3: 3D Resultant
+            </p>
+            <Link href="/modules/3D-Resultant"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 3
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 4: 2D Equilibrium
+            </p>
+            <Link href="/modules/2D-Equilibrium"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 4
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 5: 3D Equilibrium
+            </p>
+            <Link href="/modules/3D-Equilibrium"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 5
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 6: Truss Joint Method
+            </p>
+            <Link href="/modules/Truss"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 6
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 7: Moment of Inertia about Centroidal Axes
+            </p>
+            <Link href="/modules/MOIcentroidal"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 7
+            </Link>
+            <p className="text-left text-black text-[18px] font-bold">
+              Module 8: Moment of Inertia about Custom Axes
+            </p>
+            <Link href="/modules/MOIcustom"
+              className="bg-[#008409] text-white px-6 py-3 rounded-md shadow
+                         hover:bg-[#15711b] transition text-[18px]">
+              Module 8
+            </Link>
+          </div>
+        </div>
+      </section>
+      <Footer/>
+    </main>
+  );
+}
+\end{lstlisting}
+
+% ------------------- 2D Calculator -------------------
+\subsection*{2D Resultant Force Calculator}
+
+\begin{lstlisting}[language=Java, caption={2D Calculator (page.tsx)}]
+"use client";
+import { useRef, useState } from "react";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import "katex/dist/katex.min.css";
+
+const fmt2 = (v: number): string => {
+  if (Math.abs(v - Math.round(v)) < 1e-9) return Math.round(v).toString();
+  return v.toFixed(2).replace(/\.?0+$/, "");
+};
+
+class ForceSystem2D {
+  vectors: { fx: number; fy: number; magnitude: number; angleDeg: number }[];
+  constructor() { this.vectors = []; }
+  addForce(magnitude: number, angleDeg: number) {
+    const angleRad = angleDeg * Math.PI / 180;
+    const fx = magnitude * Math.cos(angleRad);
+    const fy = magnitude * Math.sin(angleRad);
+    this.vectors.push({ fx, fy, magnitude, angleDeg });
+  }
+  stepByStepSolution() {
+    const steps: string[] = [];
+    steps.push("Step 1: Resolve each force into components:");
+    let sumFx = 0, sumFy = 0;
+    this.vectors.forEach((v, i) => {
+      steps.push(`Force ${i + 1}: |F|=${v.magnitude}, theta=${v.angleDeg}`);
+      steps.push(`Fx${i+1} = ${fmt2(v.fx)}, Fy${i+1} = ${fmt2(v.fy)}`);
+      sumFx += v.fx; sumFy += v.fy;
+    });
+    steps.push("Step 2: Sum of components:");
+    steps.push(`SumFx = ${fmt2(sumFx)}, SumFy = ${fmt2(sumFy)}`);
+    const R = Math.hypot(sumFx, sumFy);
+    const theta = Math.atan2(sumFy, sumFx) * 180 / Math.PI;
+    steps.push("Step 3: Resultant force:");
+    steps.push(`R = ${R.toFixed(3)} kN, theta = ${theta.toFixed(2)} deg`);
+    return { steps, sumFx, sumFy, R, theta };
+  }
+}
+
+type ForceInput = { magnitude: string; angle: string };
+type ForceResult = { steps: string[]; sumFx: number; sumFy: number; R: number; theta: number };
+
+function ResultantFBD({ forces, result, svgRef }: {
+  forces: ForceInput[]; result: ForceResult; svgRef?: React.RefObject<SVGSVGElement>
+}) {
+  const vectors = forces.map((f) => {
+    const m = parseFloat(f.magnitude), a = parseFloat(f.angle);
+    if (isNaN(m) || isNaN(a)) return null;
+    const rad = a * Math.PI / 180;
+    return { x: m * Math.cos(rad), y: m * Math.sin(rad) };
+  }).filter(Boolean) as { x: number; y: number }[];
+  const R = { x: result.sumFx, y: result.sumFy };
+  const maxMag = Math.max(1, ...vectors.map(v => Math.hypot(v.x, v.y)),
+    Math.hypot(R.x, R.y));
+  const scale = 90 / maxMag;
+  return (
+    <svg ref={svgRef} width="300" height="300"
+      className="border rounded-lg bg-white shadow mx-auto">
+      <g transform="translate(150,150)">
+        <line x1={-140} y1={0} x2={140} y2={0} stroke="gray"/>
+        <line x1={0} y1={-140} x2={0} y2={140} stroke="gray"/>
+        {vectors.map((v, i) => {
+          const x = v.x * scale, y = -v.y * scale;
+          return (
+            <g key={i}>
+              <line x1={0} y1={0} x2={x} y2={y}
+                stroke="#1848a0" strokeWidth="3" markerEnd="url(#arrowF)"/>
+              <text x={x+6} y={y-6} fontSize="14" fill="#1848a0">F{i+1}</text>
+            </g>
+          );
+        })}
+        <line x1={0} y1={0} x2={R.x*scale} y2={-R.y*scale}
+          stroke="#009900" strokeWidth="4" markerEnd="url(#arrowR)"/>
+        <text x={R.x*scale+8} y={-R.y*scale-8} fontSize="16" fill="#009900">R</text>
+      </g>
+    </svg>
+  );
+}
+
+export default function Solver2D() {
+  const [forces, setForces] = useState([{ magnitude: "", angle: "" }]);
+  const [result, setResult] = useState(null);
+  const handleInputChange = (i, f, v) => {
+    const newForces = [...forces];
+    newForces[i][f] = v;
+    setForces(newForces);
+  };
+  const calculateResultant = () => {
+    const system = new ForceSystem2D();
+    forces.forEach((f) => {
+      const m = parseFloat(f.magnitude), a = parseFloat(f.angle);
+      if (!isNaN(m) && !isNaN(a)) system.addForce(m, a);
+    });
+    setResult(system.stepByStepSolution());
+  };
+  return (
+    <div>
+      <Header/>
+      <main>
+        <button onClick={calculateResultant}>Calculate</button>
+      </main>
+      <Footer/>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- 3D Azimuth Calculator -------------------
+\subsection*{3D Azimuth Calculator}
+
+\begin{lstlisting}[language=Java, caption={3D Azimuth Calculator (page.tsx)}]
+"use client";
+import { useRef, useEffect, useState } from "react";
+import * as THREE from "three";
+
+class ForceSystem3D {
+  vectors: any[] = [];
+  addForce(magnitude: number, azimuthDeg: number, elevationDeg: number) {
+    const az = azimuthDeg * Math.PI / 180;
+    const el = elevationDeg * Math.PI / 180;
+    this.vectors.push({
+      fx: magnitude * Math.cos(el) * Math.cos(az),
+      fy: magnitude * Math.cos(el) * Math.sin(az),
+      fz: magnitude * Math.sin(el),
+      magnitude, azimuthDeg, elevationDeg
+    });
+  }
+  solve() {
+    const steps: string[] = [];
+    steps.push("Step 1: Resolve each force into 3D components:");
+    let sumFx = 0, sumFy = 0, sumFz = 0;
+    this.vectors.forEach((v, i) => {
+      steps.push(`Force ${i+1}: |F|=${v.magnitude}, phi=${v.azimuthDeg}, alpha=${v.elevationDeg}`);
+      steps.push(`Fx=${v.fx.toFixed(3)}, Fy=${v.fy.toFixed(3)}, Fz=${v.fz.toFixed(3)}`);
+      sumFx += v.fx; sumFy += v.fy; sumFz += v.fz;
+    });
+    steps.push("Step 2: Sum of components:");
+    steps.push(`SumFx=${sumFx.toFixed(3)}, SumFy=${sumFy.toFixed(3)}, SumFz=${sumFz.toFixed(3)}`);
+    const R = Math.sqrt(sumFx**2 + sumFy**2 + sumFz**2);
+    const azimuth = Math.atan2(sumFy, sumFx) * 180 / Math.PI;
+    const elevation = Math.asin(sumFz / (R || 1)) * 180 / Math.PI;
+    steps.push("Step 3: Resultant force:");
+    steps.push(`R=${R.toFixed(3)} kN, phi=${azimuth.toFixed(2)}, alpha=${elevation.toFixed(2)}`);
+    if (R > 0.0001) {
+      const alpha = Math.acos(sumFx / R) * 180 / Math.PI;
+      const beta  = Math.acos(sumFy / R) * 180 / Math.PI;
+      const gamma = Math.acos(sumFz / R) * 180 / Math.PI;
+      steps.push("Step 4: Direction angles:");
+      steps.push(`alpha=${alpha.toFixed(2)}, beta=${beta.toFixed(2)}, gamma=${gamma.toFixed(2)}`);
+    }
+    return { steps, sumFx, sumFy, sumFz, R, azimuth, elevation };
+  }
+}
+
+const FORCE_COLORS = [0x1848a0, 0xd63031, 0xe17055, 0x6c5ce7, 0x00b894, 0xfdcb6e];
+
+function FBD3D({ forces }: { forces: any[] }) {
+  const mountRef = useRef(null);
+  const sceneRef = useRef(null);
+  const arrowsRef = useRef([]);
+  const orbitRef = useRef({
+    theta: -0.6, phi: 0.85, radius: 7,
+    isDragging: false, prevMouse: { x: 0, y: 0 }
+  });
+  useEffect(() => {
+    const el = mountRef.current;
+    const W = el.clientWidth, H = el.clientHeight;
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    renderer.setSize(W, H);
+    el.appendChild(renderer.domElement);
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xffffff);
+    scene.add(new THREE.GridHelper(6, 12));
+    sceneRef.current = scene;
+    const camera = new THREE.PerspectiveCamera(45, W / H, 0.1, 100);
+    const orbit = orbitRef.current;
+    let raf;
+    const animate = () => {
+      raf = requestAnimationFrame(animate);
+      camera.position.set(
+        orbit.radius * Math.sin(orbit.phi) * Math.cos(orbit.theta),
+        orbit.radius * Math.cos(orbit.phi),
+        orbit.radius * Math.sin(orbit.phi) * Math.sin(orbit.theta)
+      );
+      camera.lookAt(0, 0, 0);
+      renderer.render(scene, camera);
+    };
+    animate();
+    return () => { cancelAnimationFrame(raf); renderer.dispose(); el.removeChild(renderer.domElement); };
+  }, []);
+  useEffect(() => {
+    const scene = sceneRef.current;
+    if (!scene) return;
+    arrowsRef.current.forEach(a => scene.remove(a));
+    arrowsRef.current = [];
+    forces.forEach((f, i) => {
+      const m = parseFloat(f.magnitude), az = parseFloat(f.azimuth), el = parseFloat(f.elevation);
+      if (isNaN(m) || isNaN(az) || isNaN(el)) return;
+      const vec = new THREE.Vector3(
+        m * Math.cos(el * Math.PI/180) * Math.cos(az * Math.PI/180),
+        m * Math.sin(el * Math.PI/180),
+        m * Math.cos(el * Math.PI/180) * Math.sin(az * Math.PI/180)
+      );
+      const arr = new THREE.ArrowHelper(
+        vec.clone().normalize(), new THREE.Vector3(0,0,0), 2, FORCE_COLORS[i % FORCE_COLORS.length]
+      );
+      scene.add(arr);
+      arrowsRef.current.push(arr);
+    });
+  }, [forces]);
+  return (
+    <div style={{ width: "100%", height: 300 }}>
+      <div ref={mountRef} style={{ width: "100%", height: "100%" }}/>
+    </div>
+  );
+}
+
+export default function AnglesTab() {
+  const [forces, setForces] = useState([{ magnitude: "", azimuth: "", elevation: "" }]);
+  const [result, setResult] = useState(null);
+  const calculate = () => {
+    const sys = new ForceSystem3D();
+    forces.forEach(f => {
+      const m = parseFloat(f.magnitude), az = parseFloat(f.azimuth), el = parseFloat(f.elevation);
+      if (!isNaN(m) && !isNaN(az) && !isNaN(el)) sys.addForce(m, az, el);
+    });
+    setResult(sys.solve());
+  };
+  return (
+    <div>
+      <FBD3D forces={forces}/>
+      <button onClick={calculate}>Calculate</button>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- 3D Coordinates Calculator -------------------
+\subsection*{3D Coordinates Calculator}
+
+\begin{lstlisting}[language=Java, caption={3D Coordinates Calculator (page.tsx)}]
+"use client";
+import { useRef, useEffect, useState, useCallback, ReactNode } from "react";
+import * as THREE from "three";
+
+function CoordThreeCanvas({ points, forces }: { points: any[]; forces: any[] }) {
+  const mountRef = useRef(null);
+  const dynamicGroupRef = useRef(null);
+  const orbitRef = useRef({
+    theta: Math.PI * 1.25, phi: 0.65, r: 6,
+    isDragging: false, prev: { x: 0, y: 0 }
+  });
+  const rafRef = useRef(0);
+  useEffect(() => {
+    const el = mountRef.current;
+    if (!el) return;
+    const W = el.clientWidth || 500, H = el.clientHeight || 320;
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(W, H);
+    renderer.setPixelRatio(window.devicePixelRatio);
+    el.appendChild(renderer.domElement);
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xffffff);
+    scene.add(new THREE.GridHelper(6, 12));
+    scene.add(new THREE.HemisphereLight(0xffffff, 0xe0e0e0, 1.2));
+    const dynGroup = new THREE.Group();
+    scene.add(dynGroup);
+    dynamicGroupRef.current = dynGroup;
+    const camera = new THREE.PerspectiveCamera(42, W / H, 0.1, 100);
+    const orbit = orbitRef.current;
+    const animate = () => {
+      rafRef.current = requestAnimationFrame(animate);
+      camera.position.set(
+        orbit.r * Math.sin(orbit.phi) * Math.cos(orbit.theta),
+        orbit.r * Math.cos(orbit.phi),
+        orbit.r * Math.sin(orbit.phi) * Math.sin(orbit.theta)
+      );
+      camera.lookAt(0, 0, 0);
+      renderer.render(scene, camera);
+    };
+    animate();
+    return () => {
+      cancelAnimationFrame(rafRef.current);
+      renderer.dispose();
+      if (el.contains(renderer.domElement)) el.removeChild(renderer.domElement);
+    };
+  }, []);
+  useEffect(() => {
+    const group = dynamicGroupRef.current;
+    if (!group) return;
+    while (group.children.length) group.remove(group.children[0]);
+    const COLORS = [0xe63946, 0x2a9d8f, 0x4361ee, 0xf4a261, 0xa8dadc, 0x9b5de5];
+    points.forEach((p, i) => {
+      const mesh = new THREE.Mesh(
+        new THREE.SphereGeometry(0.1, 16, 16),
+        new THREE.MeshStandardMaterial({ color: COLORS[i % COLORS.length] })
+      );
+      mesh.position.set(parseFloat(p.y) || 0, parseFloat(p.z) || 0, parseFloat(p.x) || 0);
+      group.add(mesh);
+    });
+    forces.forEach(f => {
+      const mag = parseFloat(f.mag);
+      if (!mag) return;
+      const a = points[f.from], b = points[f.to];
+      if (!a || !b) return;
+      const from = new THREE.Vector3(parseFloat(a.y)||0, parseFloat(a.z)||0, parseFloat(a.x)||0);
+      const to   = new THREE.Vector3(parseFloat(b.y)||0, parseFloat(b.z)||0, parseFloat(b.x)||0);
+      const len = from.distanceTo(to);
+      if (len < 0.001) return;
+      group.add(new THREE.ArrowHelper(
+        new THREE.Vector3().subVectors(to, from).normalize(), from, len, 0xf4a261, 0.25, 0.14
+      ));
+    });
+  }, [points, forces]);
+  return <div><div ref={mountRef} style={{ width: "100%", height: 320 }}/></div>;
+}
+
+function buildSolution(details: any[], Rx: number, Ry: number, Rz: number, R: number) {
+  const steps = [];
+  steps.push("Step 1: Determine position vectors");
+  details.forEach(d =>
+    steps.push(`r_${d.from}${d.to} = (${d.dx})i + (${d.dy})j + (${d.dz})k`));
+  steps.push("Step 2: Magnitudes");
+  details.forEach(d =>
+    steps.push(`|r| = sqrt(${d.dx}^2+${d.dy}^2+${d.dz}^2) = ${d.len.toFixed(2)}`));
+  steps.push("Step 3: Unit vectors");
+  details.forEach(d =>
+    steps.push(`u = (${d.dx}i+${d.dy}j+${d.dz}k) / ${d.len.toFixed(2)}`));
+  steps.push("Step 4: Force vectors");
+  details.forEach(d =>
+    steps.push(`F_${d.to} = ${d.Fx.toFixed(2)}i + ${d.Fy.toFixed(2)}j + ${d.Fz.toFixed(2)}k`));
+  steps.push("Step 5: Resultant");
+  steps.push(`R = ${Rx.toFixed(2)}i + ${Ry.toFixed(2)}j + ${Rz.toFixed(2)}k`);
+  steps.push(`|R| = ${R.toFixed(2)} kN`);
+  return steps;
+}
+
+export default function CoordinateTab() {
+  const [points, setPoints] = useState([
+    { label: "A", x: "", y: "", z: "" },
+    { label: "B", x: "", y: "", z: "" }
+  ]);
+  const [forces, setForces] = useState([{ mag: "", from: 0, to: 1 }]);
+  const [result, setResult] = useState(null);
+  const calculate = () => {
+    let Rx = 0, Ry = 0, Rz = 0;
+    const details = [];
+    forces.forEach(f => {
+      const mag = parseFloat(f.mag);
+      if (!mag) return;
+      const a = points[f.from], b = points[f.to];
+      if (!a || !b) return;
+      const dx = (parseFloat(b.x)||0) - (parseFloat(a.x)||0);
+      const dy = (parseFloat(b.y)||0) - (parseFloat(a.y)||0);
+      const dz = (parseFloat(b.z)||0) - (parseFloat(a.z)||0);
+      const len = Math.sqrt(dx*dx + dy*dy + dz*dz);
+      if (!len) return;
+      const Fx = mag*dx/len, Fy = mag*dy/len, Fz = mag*dz/len;
+      Rx += Fx; Ry += Fy; Rz += Fz;
+      details.push({ mag, from: a.label, to: b.label, dx, dy, dz, Fx, Fy, Fz, len });
+    });
+    const R = Math.sqrt(Rx*Rx + Ry*Ry + Rz*Rz);
+    setResult({ steps: buildSolution(details, Rx, Ry, Rz, R), Rx, Ry, Rz, R });
+  };
+  return (
+    <div>
+      <CoordThreeCanvas points={points} forces={forces}/>
+      <button onClick={calculate}>Calculate</button>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Equilibrium Calculator (Concurrent) -------------------
+\subsection*{Equilibrium Calculator}
+
+\begin{lstlisting}[language=Java, caption={Equilibrium Calculator (page.tsx)}]
+"use client";
+import { useRef, useState, useCallback, useEffect, ReactNode } from "react";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import "katex/dist/katex.min.css";
+import { solveEquilibrium2D } from "../../lib/Equilibriumconc";
+
+type ForceInput = { magnitude: string; angle: string; magnitudeUnknown?: boolean; angleUnknown?: boolean };
+
+function fmtNum(n: number): string { return parseFloat(n.toFixed(2)).toString(); }
+
+const FORCE_COLORS = ["#1848a0","#c0392b","#16a34a","#9333ea","#d97706","#0891b2"];
+const UNKNOWN_LENGTH = 75;
+
+function FBD({ forces, setForces }: { forces: ForceInput[]; setForces: (f: ForceInput[]) => void }) {
+  const svgRef = useRef(null);
+  const [dragIndex, setDragIndex] = useState(null);
+  const vectors = forces.map((f, i) => {
+    const angle = isNaN(parseFloat(f.angle)) ? 0 : parseFloat(f.angle);
+    return { angle, magUnknown: !!f.magnitudeUnknown, index: i };
+  });
+  const handleMouseMove = e => {
+    if (dragIndex === null || !svgRef.current) return;
+    const svg = svgRef.current;
+    const pt = svg.createSVGPoint();
+    pt.x = e.clientX; pt.y = e.clientY;
+    const cursor = pt.matrixTransform(svg.getScreenCTM()?.inverse());
+    const newAngle = Math.atan2(-(cursor.y - 150), cursor.x - 150) * 180 / Math.PI;
+    const newForces = [...forces];
+    newForces[dragIndex] = { ...newForces[dragIndex], angle: fmtNum(newAngle) };
+    setForces(newForces);
+  };
+  return (
+    <svg ref={svgRef} width="300" height="300"
+      onMouseMove={handleMouseMove}
+      onMouseUp={() => setDragIndex(null)}
+      onMouseLeave={() => setDragIndex(null)}>
+      <g transform="translate(150,150)">
+        {vectors.map((v, i) => {
+          const rad = v.angle * Math.PI / 180;
+          const len = v.magUnknown ? UNKNOWN_LENGTH : 80;
+          return (
+            <line key={i} x1={0} y1={0}
+              x2={Math.cos(rad) * len} y2={-Math.sin(rad) * len}
+              stroke={FORCE_COLORS[i % FORCE_COLORS.length]}
+              onMouseDown={() => setDragIndex(i)}/>
+          );
+        })}
+      </g>
+    </svg>
+  );
+}
+
+function calculate(forces: ForceInput[]) {
+  const magUnknownIndices = forces.map((f, i) => f.magnitudeUnknown ? i : -1).filter(i => i !== -1);
+  const totalUnknowns = magUnknownIndices.length;
+  if (totalUnknowns > 2) return { error: "Too many unknowns" };
+  const knownForces = forces
+    .map((f, i) => ({ f, i }))
+    .filter(({ f, i }) => !magUnknownIndices.includes(i))
+    .map(({ f, i }) => {
+      const magnitude = parseFloat(f.magnitude);
+      const angle = parseFloat(f.angle);
+      if (isNaN(magnitude) || isNaN(angle)) return null;
+      return { magnitude, angle, label: `F_${i+1}` };
+    }).filter(Boolean);
+  try {
+    const resultX = solveEquilibrium2D(knownForces,
+      [{ angle: 0, label: "R_x" }, { angle: 90, label: "R_y" }]);
+    const Rx = -resultX.unknowns[0].value;
+    const Ry = -resultX.unknowns[1].value;
+    const R = Math.hypot(Rx, Ry);
+    const angle = Math.atan2(Ry, Rx) * 180 / Math.PI;
+    return { steps: resultX.steps, resultRows: [
+      { label: "Resultant Magnitude", value: `${fmtNum(R)} kN` },
+      { label: "Resultant Angle",     value: `${fmtNum(angle)} deg` }
+    ]};
+  } catch(e) { return { error: e.message }; }
+}
+
+export default function Equilibrium() {
+  const [forces, setForces] = useState([{ magnitude: "", angle: "" }]);
+  const [solution, setSolution] = useState(null);
+  const [error, setError] = useState(null);
+  const handleCalculate = () => {
+    const result = calculate(forces);
+    if ("error" in result) { setError(result.error); return; }
+    setSolution(result);
+  };
+  return (
+    <div>
+      <Header/>
+      <main>
+        <FBD forces={forces} setForces={setForces}/>
+        <button onClick={handleCalculate}>Calculate</button>
+      </main>
+      <Footer/>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Beam Solver -------------------
+\subsection*{Beam Solver (Equilibrium)}
+
+\begin{lstlisting}[language=Java, caption={Beam Solver (page.tsx)}]
+"use client";
+import { useState, useRef, useEffect, ReactNode } from "react";
+import { solveBeam, BeamResult } from "../../lib/beamEngine";
+
+type Support        = { type: "Pinned" | "Roller"; location: string };
+type PointLoad      = { magnitude: string; location: string };
+type DistributedLoad = { start: string; end: string; startMag: string; endMag: string };
+
+function BeamFBD({ beamLength, supports, pointLoads, distributedLoads, result }: {
+  beamLength: string; supports: Support[]; pointLoads: PointLoad[];
+  distributedLoads: DistributedLoad[]; result: BeamResult | null;
+}) {
+  const L = parseFloat(beamLength);
+  if (!L || L <= 0) return <div>Enter beam length</div>;
+  const W = 680, H = 260, padL = 60, padR = 60, beamY = 160, beamH = 14;
+  const drawW = W - padL - padR;
+  const scale = drawW / L;
+  const toX = (m: number) => padL + m * scale;
+  return (
+    <svg width="100%" viewBox={`0 0 ${W} ${H}`}>
+      <rect x={padL} y={beamY} width={drawW} height={beamH} fill="#d1d5db"/>
+    </svg>
+  );
+}
+
+export default function BeamSolverUI() {
+  const [beamLength,        setBeamLength]        = useState("");
+  const [supports,          setSupports]          = useState([{ type: "Pinned",  location: "" }]);
+  const [pointLoads,        setPointLoads]        = useState([{ magnitude: "",   location: "" }]);
+  const [distributedLoads,  setDistributedLoads]  = useState([{
+    start: "", end: "", startMag: "", endMag: ""
+  }]);
+  const [result, setResult] = useState<BeamResult | null>(null);
+  const [error,  setError]  = useState<string | null>(null);
+
+  const calculate = () => {
+    setError(null);
+    try {
+      const res = solveBeam({
+        beamLength:        parseFloat(beamLength),
+        supports:          supports.map(s  => ({ type: s.type,  location: parseFloat(s.location)  })),
+        pointLoads:        pointLoads.map(p => ({ magnitude: parseFloat(p.magnitude), location: parseFloat(p.location) })),
+        distributedLoads:  distributedLoads.map(d => ({
+          start:    parseFloat(d.start),
+          end:      parseFloat(d.end),
+          startMag: parseFloat(d.startMag),
+          endMag:   parseFloat(d.endMag)
+        }))
+      });
+      setResult(res);
+    } catch(e: any) { setError(e.message); }
+  };
+
+  return (
+    <div>
+      <h1>Beam Solver</h1>
+      <BeamFBD beamLength={beamLength} supports={supports}
+        pointLoads={pointLoads} distributedLoads={distributedLoads} result={result}/>
+      <button onClick={calculate}>Calculate</button>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Truss Calculator -------------------
+\subsection*{Truss Calculator}
+
+\begin{lstlisting}[language=Java, caption={Truss Calculator (page.tsx)}]
+"use client";
+import { useState, useEffect, useCallback } from "react";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import {
+  solveTruss, fmt, nodeLabel,
+  type Support, type Joint, type Member, type Force, type Solution, type StepLine
+} from "../../lib/truss";
+
+function useKatexScript() {
+  const [ok, setOk] = useState(false);
+  useEffect(() => {
+    if (window.katex) { setOk(true); return; }
+    if (!document.getElementById("katex-css")) {
+      const l = document.createElement("link");
+      l.id = "katex-css"; l.rel = "stylesheet";
+      l.href = "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css";
+      document.head.appendChild(l);
+    }
+    if (!document.getElementById("katex-js")) {
+      const s = document.createElement("script");
+      s.id = "katex-js";
+      s.src = "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js";
+      s.async = true; s.onload = () => setOk(true);
+      document.head.appendChild(s);
+    }
+  }, []);
+  return ok;
+}
+
+function KTX({ tex }: { tex: string }) {
+  const ref = useCallback((el: HTMLDivElement | null) => {
+    if (!el || !window.katex) return;
+    try { window.katex.render(tex, el, { displayMode: true, throwOnError: false }); }
+    catch { el.innerText = tex; }
+  }, [tex]);
+  const ready = useKatexScript();
+  if (!ready) return null;
+  return <div ref={ref}/>;
+}
+
+function TrussStepRenderer({ lines }: { lines: StepLine[] }) {
+  return (
+    <div>
+      {lines.map((l, i) =>
+        l.kind === "heading" ? <p key={i}>{l.text}</p> :
+        l.kind === "eq"      ? <KTX key={i} tex={l.tex}/> :
+                               <p key={i}>{l.text}</p>
+      )}
+    </div>
+  );
+}
+
+function MainFBD({ numericNodes, members, supports, forces, solution }: {
+  numericNodes: { x: number; y: number }[];
+  members: Member[]; supports: Support[]; forces: Force[]; solution: Solution | null;
+}) {
+  return (
+    <svg>
+      <g>{members.map((m, i) => <line key={i}/>)}</g>
+    </svg>
+  );
+}
+
+export default function TrussSolverUI() {
+  const [supports, setSupports] = useState([
+    { x: "", y: "", type: "Pinned" },
+    { x: "", y: "", type: "Roller" }
+  ]);
+  const [nodes,   setNodes]   = useState([{ x: "", y: "" }]);
+  const [members, setMembers] = useState([{ start: 0, end: 1 }]);
+  const [forces,  setForces]  = useState([{ Joint: 0, magnitude: "", angle: "" }]);
+  const [solution, setSolution] = useState<Solution | null>(null);
+
+  const handleSolve = () => {
+    setSolution(solveTruss(supports, nodes, members, forces));
+  };
+
+  return (
+    <div>
+      <Header/>
+      <main>
+        <MainFBD numericNodes={[]} members={members} supports={supports}
+          forces={forces} solution={solution}/>
+        <button onClick={handleSolve}>Calculate</button>
+        {solution && <TrussStepRenderer lines={solution.lines}/>}
+      </main>
+      <Footer/>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Moment of Inertia Calculator -------------------
+\subsection*{Moment of Inertia Calculator}
+
+\begin{lstlisting}[language=Java, caption={Moment of Inertia Calculator (page.tsx)}]
+"use client";
+import { useState, useEffect, useCallback } from "react";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import ShapeCanvas from "../../components/ShapeCanvas";
+import { computeMOI } from "../../lib/MOIEngine";
+import { computeCustomAxis } from "../../lib/MOIcustom";
+import ShapeSelectDropdown from "../../components/ShapeSelectDropdown";
+import type { ShapeType } from "../../types/shapes";
+
+function useKatexScript() {
+  const [ok, setOk] = useState(false);
+  useEffect(() => {
+    if (window.katex) { setOk(true); return; }
+    if (!document.getElementById("katex-css")) {
+      const l = document.createElement("link");
+      l.id = "katex-css"; l.rel = "stylesheet";
+      l.href = "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css";
+      document.head.appendChild(l);
+    }
+    if (!document.getElementById("katex-js")) {
+      const s = document.createElement("script");
+      s.id = "katex-js";
+      s.src = "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js";
+      s.async = true; s.onload = () => setOk(true);
+      document.head.appendChild(s);
+    }
+  }, []);
+  return ok;
+}
+
+function KTX({ tex }: { tex: string }) {
+  const ref = useCallback((el: HTMLDivElement | null) => {
+    if (!el || !window.katex) return;
+    try { window.katex.render(tex, el, { displayMode: true, throwOnError: false }); }
+    catch { el.innerText = tex; }
+  }, [tex]);
+  const ready = useKatexScript();
+  if (!ready) return null;
+  return <div ref={ref}/>;
+}
+
+type XY = { x: string; y: string };
+type ShapeData = {
+  type: ShapeType; hollow: "Hollow" | "Solid"; isOpen: boolean;
+  nodes: XY[]; sides: { a: number; b: number }[]; radius: string; x: string; y: string;
+};
+
+function MOIStepRenderer({ lines }: { lines: any[] }) {
+  return (
+    <div>
+      {lines.map((l, i) =>
+        l.kind === "heading" ? <p key={i}>{l.text}</p> :
+        l.kind === "eq"      ? <KTX key={i} tex={l.tex}/> :
+                               <p key={i}>{l.text}</p>
+      )}
+    </div>
+  );
+}
+
+export default function DistributedLoadPage() {
+  const [axisType, setAxisType] = useState("Centroidal");
+  const [axisX,    setAxisX]    = useState("");
+  const [axisY,    setAxisY]    = useState("");
+  const [shapes, setShapes] = useState([{
+    type: "Polygon", hollow: "Solid", isOpen: true,
+    nodes: [{ x: "", y: "" }, { x: "", y: "" }],
+    sides: [{ a: 0, b: 1 }], radius: "", x: "", y: ""
+  }]);
+  const [result,    setResult]    = useState(null);
+  const [stepLines, setStepLines] = useState([]);
+
+  const calculateResultant = () => {
+    const centroidal = computeMOI(shapes);
+    let customMOI;
+    if (axisType === "Custom") {
+      customMOI = computeCustomAxis([], Number(axisX), Number(axisY));
+    }
+    setResult({ centroid: centroidal.centroid, centroidMOI: centroidal.final, customMOI });
+    setStepLines([]);
+  };
+
+  return (
+    <div>
+      <Header/>
+      <main>
+        <ShapeCanvas shapes={shapes} axisType={axisType}
+          axisX={Number(axisX)} axisY={Number(axisY)}/>
+        <button onClick={calculateResultant}>Calculate</button>
+        {result && <MOIStepRenderer lines={stepLines}/>}
+      </main>
+      <Footer/>
+    </div>
+  );
+}
+\end{lstlisting}
+
+% ------------------- Module Page (2D Equilibrium) -------------------
+\subsection*{Module Page (2D Equilibrium)}
+
+\begin{lstlisting}[language=Java, caption={Module -- 2D Equilibrium (page.tsx)}]
+"use client";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+function ArrowItem({ label }: { label: string }) {
+  return (
+    <li className="flex items-center gap-2">
+      <span className="text-[#1848a0] font-bold">-&gt;</span>{label}
+    </li>
+  );
+}
+
+function Step({ number, title, children }: {
+  number: number; title: string; children: React.ReactNode;
+}) {
+  return (
+    <div className="mb-6">
+      <div className="flex items-center gap-3 mb-3">
+        <div className="flex-shrink-0 w-9 h-9 rounded-full bg-[#1848a0] text-white
+                        flex items-center justify-center font-bold text-[16px]">
+          {number}
+        </div>
+        <h2 className="text-[20px] font-semibold">{title}</h2>
+      </div>
+      <div className="ml-12 bg-white border border-gray-200 rounded-2xl shadow
+                      p-5 text-[18px] space-y-3">
+        {children}
+      </div>
+    </div>
+  );
+}
+
+export default function Equilibrium2D() {
+  return (
+    <div className="relative flex flex-col min-h-screen bg-gray-50 text-gray-900 text-[18px]">
+      <Header/>
+      <main className="flex-grow flex flex-col items-center px-4 py-10">
+        <h1 className="text-[32px] font-bold mb-2 text-center">
+          2D Equilibrium Problems
+        </h1>
+        <p className="text-gray-500 mb-8 text-center">
+          Procedure for Solving 2D Equilibrium Problems
+        </p>
+        <div className="w-full max-w-xl bg-white rounded-2xl shadow p-6 mb-8
+                        border-l-4 border-[#1848a0]">
+          <p className="mb-3">
+            A body is in <span className="font-semibold text-[#1848a0]">equilibrium</span>
+            when the resultant of all external forces and moments is zero.
+          </p>
+          <p className="mb-3">
+            For a <span className="font-semibold text-[#1848a0]">Two-Dimensional System</span>,
+            three equations must be satisfied:
+          </p>
+          <div className="bg-gray-50 border border-gray-200 rounded-xl p-3
+                          text-[15px] text-gray-600 italic mt-3">
+            SFx = 0 &nbsp;&nbsp; SFy = 0 &nbsp;&nbsp; SM = 0
+          </div>
+        </div>
+        <div className="w-full max-w-xl">
+          <Step number={1} title="Draw the Free Body Diagram (FBD)">
+            <p>Isolate the body and represent all external forces and moments.</p>
+            <ul className="list-none space-y-1 mt-1">
+              {["Sketch the body detached","Show all applied loads","Include moments"]
+                .map(i => <ArrowItem key={i} label={i}/>)}
+            </ul>
+          </Step>
+          <Step number={2} title="Choose Coordinate System">
+            <p>Define x- and y-axes.</p>
+            <ul className="list-none space-y-1 mt-1">
+              {["Align with forces","Use tilted axes if needed","Maintain sign consistency"]
+                .map(i => <ArrowItem key={i} label={i}/>)}
+            </ul>
+          </Step>
+          <Step number={3} title="Resolve Forces into Components">
+            <p>Decompose forces into components.</p>
+            <div className="bg-gray-50 border border-gray-200 rounded-xl p-3 text-[15px] italic">
+              Fx = F cos(theta) &nbsp;&nbsp; Fy = F sin(theta)
+            </div>
+          </Step>
+          <Step number={4} title="Apply Equilibrium Equations">
+            <ul className="list-none space-y-1 mt-1">
+              {["SFx = 0","SFy = 0","SM = 0"].map(i => <ArrowItem key={i} label={i}/>)}
+            </ul>
+          </Step>
+          <Step number={5} title="Solve for Unknowns">
+            <ul className="list-none space-y-1 mt-1">
+              {["Solve equations","Use substitution/elimination","Negative = opposite direction"]
+                .map(i => <ArrowItem key={i} label={i}/>)}
+            </ul>
+          </Step>
+          <Step number={6} title="Check Results">
+            <ul className="list-none space-y-1 mt-1">
+              {["Check units","Verify signs","Re-check equations"]
+                .map(i => <ArrowItem key={i} label={i}/>)}
+            </ul>
+          </Step>
+        </div>
+      </main>
+      <Footer/>
+    </div>
+  );
+}
+\end{lstlisting}
+
+
 
 %\begin{table}[h!]
 %\centering
@@ -250,3 +1300,4 @@ Please share any comments, suggestions, or feedback that may help improve the St
 %    trim=0 0 0 0in, 
 %    clip
 %]{scode.pdf}
+
