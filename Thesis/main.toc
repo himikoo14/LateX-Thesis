@@ -1,7 +1,7 @@
 \babel@toc {american}{}\relax 
 \contentsline {chapter}{Title Page}{i}{Doc-Start}%
-\contentsline {chapter}{List of Figures}{iv}{chapter*.2}%
-\contentsline {chapter}{List of Tables}{v}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{v}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{vi}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background of the Study}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Statement of the Problem}{2}{section.1.2}%
@@ -34,8 +34,19 @@
 \contentsline {section}{\numberline {3.5}Research Instrument}{31}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Statistical Tools}{32}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Statistical Treatment}{35}{section.3.7}%
-\contentsline {chapter}{References}{39}{chapter*.11}%
-\contentsline {chapter}{Appendix A}{40}{appendix*.12}%
-\contentsline {chapter}{Appendix C}{45}{appendix*.15}%
-\contentsline {chapter}{Curriculum Vitae}{77}{appendix*.16}%
-\contentsline {chapter}{Curriculum Vitae}{78}{appendix*.17}%
+\contentsline {chapter}{\numberline {4}Results and Discussions}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Students’ Perception of StatiCalcs}{37}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Usability}{37}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Accessibility}{38}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Satisfaction}{39}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Preference for Learning Resources}{39}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Instructors’ Perception of StatiCalcs}{40}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Usability}{40}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Accessibility}{41}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Satisfaction}{41}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Preference for Learning Resources}{42}{subsection.4.2.4}%
+\contentsline {chapter}{References}{45}{chapter*.19}%
+\contentsline {chapter}{Appendix A}{46}{appendix*.20}%
+\contentsline {chapter}{Appendix C}{51}{appendix*.23}%
+\contentsline {chapter}{Curriculum Vitae}{83}{appendix*.24}%
+\contentsline {chapter}{Curriculum Vitae}{84}{appendix*.25}%

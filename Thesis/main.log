@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  13 MAY 2026 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  17 MAY 2026 05:24
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1289,7 +1289,7 @@ LaTeX Warning: Label `sec:3-stat' multiply defined.
 
 LaTeX Warning: Label `sec:3-stat' multiply defined.
 
-) (appendix.aux) (curriculum-vitae.aux))
+) (ch-4.aux) (appendix.aux) (curriculum-vitae.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1456,19 +1456,21 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 
 [2
 
-])
+]
+
+[3])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 
 
-[3] (main.lof)
+[4] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
 
 
-[4
+[5
 
 ] (main.lot)
 \tf@lot=\write8
@@ -1476,7 +1478,7 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 
 
 
-[5
+[6
 
 ]
 \openout2 = `ch-1.aux'.
@@ -1506,32 +1508,32 @@ Overfull \hbox (17.57155pt too wide) in paragraph at lines 14--15
 [3]
 
 [4]
-Overfull \hbox (7.51436pt too wide) in paragraph at lines 80--81
+Overfull \hbox (7.51436pt too wide) in paragraph at lines 84--85
 \OT1/cmr/m/n/10.95 (-20) ed-u-ca-tion, \OT1/cmr/m/it/10.95 (-20) Stat-i-Calcs \OT1/cmr/m/n/10.95 (-20) may pro-vide an ac-ces-si-ble and en-gag-ing way to en-hance un-der-stand-ing
  []
 
 
 
 [5]
-<assets/finalconcept.png, id=172, 1507.6325pt x 474.77374pt>
-File: assets/finalconcept.png Graphic file (type png)
-<use assets/finalconcept.png>
-Package pdftex.def Info: assets/finalconcept.png  used on input line 105.
-(pdftex.def)             Requested size: 375.14705pt x 118.13531pt.
-
 
 [6]
-Underfull \hbox (badness 1910) in paragraph at lines 161--161
+<assets/finalconcept.png, id=219, 1507.6325pt x 474.77374pt>
+File: assets/finalconcept.png Graphic file (type png)
+<use assets/finalconcept.png>
+Package pdftex.def Info: assets/finalconcept.png  used on input line 109.
+(pdftex.def)             Requested size: 375.14705pt x 118.13531pt.
+
+Underfull \hbox (badness 1910) in paragraph at lines 165--165
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 161--161
+Underfull \hbox (badness 1596) in paragraph at lines 165--165
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 161--161
+Underfull \hbox (badness 1596) in paragraph at lines 165--165
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
@@ -1540,19 +1542,19 @@ Underfull \hbox (badness 1596) in paragraph at lines 161--161
 [7 <./assets/finalconcept.png>]
 
 [8]
-Underfull \hbox (badness 1910) in paragraph at lines 161--161
+Underfull \hbox (badness 1910) in paragraph at lines 165--165
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
 
 
 [9]
-Underfull \hbox (badness 1596) in paragraph at lines 161--161
+Underfull \hbox (badness 1596) in paragraph at lines 165--165
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 161--161
+Underfull \hbox (badness 1596) in paragraph at lines 165--165
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
@@ -1634,7 +1636,7 @@ Overfull \hbox (14.10834pt too wide) in paragraph at lines 62--63
 
 
 [25]
-<assets/SystemFlow.jpg, id=317, 129.1224pt x 254.8722pt>
+<assets/SystemFlow.jpg, id=361, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
 Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 85.
@@ -1642,7 +1644,7 @@ Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 85.
 
 
 [26]
-<assets/concon.png, id=323, 2055.68pt x 1595.9625pt>
+<assets/concon.png, id=366, 2055.68pt x 1595.9625pt>
 File: assets/concon.png Graphic file (type png)
 <use assets/concon.png>
 Package pdftex.def Info: assets/concon.png  used on input line 98.
@@ -1698,6 +1700,66 @@ Overfull \hbox (7.92181pt too wide) in paragraph at lines 283--284
 [35]
 
 [36]
+\openout2 = `ch-4.aux'.
+
+ (ch-4.tex
+Chapter 4.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+ []
+
+
+
+[37
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+ []
+
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\OT1/cmr/m/n/10.95 (+20) Online En-gi-neer-ing
+ []
+
+
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+ []
+
+
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--223
+[]|\OT1/cmr/m/n/10.95 (+20) Online En-gi-neer-ing
+ []
+
+
+
+[41])
+
+[42]
 Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 (-20) Self-Explanation Strat-egy in a Re-mote Learn-ing Con-text." \OT1/cmr/m/it/10.95 (-20) 9th Re-search in En-gi-neer-ing
  []
@@ -1714,7 +1776,7 @@ Overfull \hbox (21.2103pt too wide) in paragraph at lines 85--85
 
 
 
-[37
+[43
 
 
 
@@ -1728,9 +1790,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
 
 
-[38]
+[44]
 
-[39]
+[45]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
@@ -1740,14 +1802,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
 
 
-[40
+[46
 
 
 ]
 
-[41]
+[47]
 
-[42]
+[48]
 Underfull \hbox (badness 1960) in paragraph at lines 130--130
 []|\OT1/cmr/m/n/10.95 (+20) I strongly pre-fer other learn-ing
  []
@@ -1769,7 +1831,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--145
 
 
 
-[43]
+[49]
 Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 $[]$ 
  []
@@ -1791,7 +1853,7 @@ Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 
 
 
-[44] (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+[50] (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 199.
@@ -1804,40 +1866,40 @@ Overfull \hbox (37.587pt too wide) in paragraph at lines 209--210
 
 
 
-[45
+[51
 
 ]
 
-[46]
+[52]
 Overfull \hbox (37.587pt too wide) in paragraph at lines 279--280
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[47]
+[53]
 
-[48]
+[54]
 
-[49]
+[55]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 
-[50]
+[56]
 Overfull \hbox (47.0369pt too wide) in paragraph at lines 405--407
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[51]
+[57]
 
-[52]
+[58]
 
-[53]
+[59]
 Overfull \hbox (65.93228pt too wide) in paragraph at lines 497--498
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1864,9 +1926,9 @@ Overfull \hbox (61.20844pt too wide) in paragraph at lines 513--514
 
 
 
-[54]
+[60]
 
-[55]
+[61]
 Overfull \hbox (94.28635pt too wide) in paragraph at lines 553--554
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1883,7 +1945,7 @@ Overfull \hbox (65.93668pt too wide) in paragraph at lines 569--570
 
 
 
-[56]
+[62]
 Overfull \hbox (13.96228pt too wide) in paragraph at lines 583--584
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1895,9 +1957,9 @@ Overfull \hbox (61.21173pt too wide) in paragraph at lines 588--589
 
 
 
-[57]
+[63]
 
-[58]
+[64]
 Overfull \hbox (23.41217pt too wide) in paragraph at lines 662--663
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1919,7 +1981,7 @@ Overfull \hbox (37.587pt too wide) in paragraph at lines 675--676
 
 
 
-[59]
+[65]
 Overfull \hbox (9.23734pt too wide) in paragraph at lines 682--683
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1931,9 +1993,9 @@ Overfull \hbox (47.0325pt too wide) in paragraph at lines 695--696
 
 
 
-[60]
+[66]
 
-[61]
+[67]
 Overfull \hbox (103.73624pt too wide) in paragraph at lines 749--751
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1945,23 +2007,23 @@ Overfull \hbox (75.38657pt too wide) in paragraph at lines 756--757
 
 
 
-[62]
+[68]
 Overfull \hbox (70.66162pt too wide) in paragraph at lines 796--797
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[63]
+[69]
 
-[64]
+[70]
 Overfull \hbox (13.96228pt too wide) in paragraph at lines 854--856
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[65]
+[71]
 Overfull \hbox (61.21173pt too wide) in paragraph at lines 875--876
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1983,31 +2045,31 @@ Overfull \hbox (179.33536pt too wide) in paragraph at lines 889--890
 
 
 
-[66]
+[72]
 
-[67]
+[73]
 
-[68]
+[74]
 
-[69]
+[75]
 
-[70]
+[76]
 Overfull \hbox (9.23734pt too wide) in paragraph at lines 1058--1059
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[71]
+[77]
 Overfull \hbox (28.13712pt too wide) in paragraph at lines 1091--1092
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[72]
+[78]
 
-[73]
+[79]
 Overfull \hbox (42.31195pt too wide) in paragraph at lines 1148--1149
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2024,7 +2086,7 @@ Overfull \hbox (47.0369pt too wide) in paragraph at lines 1164--1165
 
 
 
-[74]
+[80]
 Overfull \hbox (4.51239pt too wide) in paragraph at lines 1176--1177
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2046,18 +2108,18 @@ Overfull \hbox (9.23734pt too wide) in paragraph at lines 1195--1196
 
 
 
-[75]
+[81]
 Overfull \hbox (56.48679pt too wide) in paragraph at lines 1200--1201
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 )
 
-[76]
+[82]
 \openout2 = `curriculum-vitae.aux'.
 
  (curriculum-vitae.tex
-<./assets/logo.png, id=1540, 722.7pt x 722.7pt>
+<./assets/logo.png, id=1608, 722.7pt x 722.7pt>
 File: ./assets/logo.png Graphic file (type png)
 <use ./assets/logo.png>
 Package pdftex.def Info: ./assets/logo.png  used on input line 5.
@@ -2069,13 +2131,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--29
 
 
 
-[77
+[83
 
 
 
 
  <./assets/logo.png>]
-<./assets/pia.jpg, id=1546, 1370.11874pt x 2055.68pt>
+<./assets/pia.jpg, id=1614, 1370.11874pt x 2055.68pt>
 File: ./assets/pia.jpg Graphic file (type jpg)
 <use ./assets/pia.jpg>
 Package pdftex.def Info: ./assets/pia.jpg  used on input line 72.
@@ -2087,9 +2149,9 @@ Overfull \hbox (1.1983pt too wide) in paragraph at lines 87--95
 
 )
 
-[78
+[84
 
- <./assets/pia.jpg>] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (appendix.aux) (curriculum-vitae.aux))
+ <./assets/pia.jpg>] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (appendix.aux) (curriculum-vitae.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -2107,17 +2169,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### simple group (level 1) entered at line 3 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 58862 strings out of 468081
- 1326378 string characters out of 5425788
- 2946309 words of memory out of 5000000
- 85405 multiletter control sequences out of 15000+600000
- 640670 words of font info for 151 fonts, out of 8000000 for 9000
+ 58928 strings out of 468081
+ 1327424 string characters out of 5425788
+ 2948994 words of memory out of 5000000
+ 85435 multiletter control sequences out of 15000+600000
+ 640730 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,12n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt0900.pk> <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (83 pages, 2274285 bytes).
+Output written on main.pdf (90 pages, 2301235 bytes).
 PDF statistics:
- 1968 PDF objects out of 2073 (max. 8388607)
- 1161 named destinations out of 1200 (max. 500000)
- 30571 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 2073 PDF objects out of 2073 (max. 8388607)
+ 1188 named destinations out of 1200 (max. 500000)
+ 30659 words of extra memory for PDF output out of 35830 (max. 10000000)
 
