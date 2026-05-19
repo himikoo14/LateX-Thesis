@@ -18,14 +18,13 @@
 \usepackage{ifthen}
 
 % Add background ONLY on LaTeX page 41
-
-%\AddToShipoutPictureBG{%
-%  \AtPageLowerLeft{%  <-- anchors the image at the absolute lower-left
-%    \ifthenelse{\value{page}=41}{%
-%      \includegraphics[page=2,width=\paperwidth,height=\paperheight]{scode.pdf}%
- %   }{}%
-%  }%
-%}
+\AddToShipoutPictureBG{%
+  \AtPageLowerLeft{%  <-- anchors the image at the absolute lower-left
+    \ifthenelse{\value{page}=41}{%
+      \includegraphics[page=2,width=\paperwidth,height=\paperheight]{scode.pdf}%
+    }{}%
+  }%
+}
 
 
 
@@ -62,26 +61,58 @@
 \usepackage{ragged2e} % for \justifying
 \usepackage[none]{hyphenat} % disable hyphenation completely
 \usepackage{microtype} % improves justification spacing
-
 \usepackage{makecell}
-
 %------------------ for codes------------------------
 \usepackage{pdfpages}
 \usepackage{embedfile}
 \usepackage{graphicx}
-\usepackage{geometry} % in preamble
+\usepackage{geometry}
 \usepackage{fancyvrb}
-\usepackage[export]{adjustbox}  % in preamble, allows center alignment with scaling
+\usepackage{fvextra}
+\usepackage[export]{adjustbox}
 % --------------------------------------------------------------------
 \usepackage{listings}
+\usepackage{xcolor}
+
+\lstset{
+    basicstyle=\ttfamily,
+    breaklines=true,
+    breakatwhitespace=false,
+    columns=fullflexible,
+    frame=none,
+    backgroundcolor={},
+    numbers=none,
+    tabsize=2,
+}
+
+\makeatletter
+\def\lst@lettertrue{\let\lst@ifletter\iftrue}
+\makeatother
 
 \lstdefinestyle{plainstyle}{
-    basicstyle=\ttfamily\small, % monospaced font
-    numbers=left,               % line numbers (optional)
-    numberstyle=\tiny,          % line number font size
-    frame=single,               % box around the code
-    breaklines=true,            % wrap long lines
-    showstringspaces=false      % show spaces normally
+    basicstyle=\ttfamily\small,
+    numbers=left,
+    numberstyle=\tiny,
+    frame=single,
+    breaklines=true,
+    showstringspaces=false
+}
+% ADD IT HERE ↓
+\lstdefinelanguage{JavaScript}{
+  keywords={break, case, catch, continue, debugger, default, delete,
+    do, else, finally, for, function, if, in, instanceof, new, return,
+    switch, this, throw, try, typeof, var, void, while, with, let,
+    const, class, import, export, from, async, await, type, null,
+    undefined, true, false, extends, implements, interface, of},
+  keywordstyle=\color{blue!70!black}\bfseries,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  commentstyle=\color{gray}\itshape,
+  stringstyle=\color{orange!80!black},
+  morestring=[b]',
+  morestring=[b]",
+  morestring=[b]`,
+  sensitive=true,
 }
 % --------------------------------------------------------------------
 
