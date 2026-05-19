@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  17 MAY 2026 05:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  19 MAY 2026 18:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1163,41 +1163,46 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen396
+\c@nlinenum=\count564
+\TeXr@lab=\toks53
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
-\AM@pagewidth=\dimen396
-\AM@pageheight=\dimen397
-\AM@fboxrule=\dimen398
+\AM@pagewidth=\dimen397
+\AM@pageheight=\dimen398
+\AM@fboxrule=\dimen399
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count564
+\pdfpages@includegraphics@status=\count565
 \AM@pagebox=\box158
-\AM@global@opts=\toks53
-\AM@pagecnt=\count565
-\AM@toc@title=\toks54
-\AM@lof@heading=\toks55
-\c@AM@survey=\count566
+\AM@global@opts=\toks54
+\AM@pagecnt=\count566
+\AM@toc@title=\toks55
+\AM@lof@heading=\toks56
+\c@AM@survey=\count567
 \AM@templatesizebox=\box159
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/embedfile\embedfile.sty
 Package: embedfile 2025-10-27 v2.13 Embed files into PDF (HO)
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
 Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count567
+\FV@CodeLineNo=\count568
 \FV@InFile=\read5
 \FV@TabBox=\box160
-\c@FancyVerbLine=\count568
-\FV@StepNumber=\count569
+\c@FancyVerbLine=\count569
+\FV@StepNumber=\count570
 \FV@OutFile=\write5
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks56
-\XKV@tempa@toks=\toks57
+\XKV@toks=\toks57
+\XKV@tempa@toks=\toks58
 )
-\XKV@depth=\count570
+\XKV@depth=\count571
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -1207,52 +1212,52 @@ Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box161
 )
-\tc@llx=\dimen399
-\tc@lly=\dimen400
-\tc@urx=\dimen401
-\tc@ury=\dimen402
+\tc@llx=\dimen400
+\tc@lly=\dimen401
+\tc@urx=\dimen402
+\tc@ury=\dimen403
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen403
-\adjbox@Height=\dimen404
-\adjbox@Depth=\dimen405
-\adjbox@Totalheight=\dimen406
-\adjbox@pwidth=\dimen407
-\adjbox@pheight=\dimen408
-\adjbox@pdepth=\dimen409
-\adjbox@ptotalheight=\dimen410
+\adjbox@Width=\dimen404
+\adjbox@Height=\dimen405
+\adjbox@Depth=\dimen406
+\adjbox@Totalheight=\dimen407
+\adjbox@pwidth=\dimen408
+\adjbox@pheight=\dimen409
+\adjbox@pdepth=\dimen410
+\adjbox@ptotalheight=\dimen411
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count571
+\c@checkoddpage=\count572
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box162
-\sift@deathcycles=\count572
-\@vwid@loff=\dimen411
-\@vwid@roff=\dimen412
+\sift@deathcycles=\count573
+\@vwid@loff=\dimen412
+\@vwid@roff=\dimen413
 )
 ==> First Aid for varwidth.sty applied!
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count573
+\lst@mode=\count574
 \lst@gtempboxa=\box163
-\lst@token=\toks58
-\lst@length=\count574
-\lst@currlwidth=\dimen413
-\lst@column=\count575
-\lst@pos=\count576
-\lst@lostspace=\dimen414
-\lst@width=\dimen415
-\lst@newlines=\count577
-\lst@lineno=\count578
-\lst@maxwidth=\dimen416
+\lst@token=\toks59
+\lst@length=\count575
+\lst@currlwidth=\dimen414
+\lst@column=\count576
+\lst@pos=\count577
+\lst@lostspace=\dimen415
+\lst@width=\dimen416
+\lst@newlines=\count578
+\lst@lineno=\count579
+\lst@maxwidth=\dimen417
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count579
-\lst@skipnumbers=\count580
+\c@lstnumber=\count580
+\lst@skipnumbers=\count581
 \lst@framebox=\box164
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2024/09/23 1.10c listings configuration
@@ -1260,23 +1265,23 @@ File: listings.cfg 2024/09/23 1.10c listings configuration
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen417
-\lightrulewidth=\dimen418
-\cmidrulewidth=\dimen419
-\belowrulesep=\dimen420
-\belowbottomsep=\dimen421
-\aboverulesep=\dimen422
-\abovetopsep=\dimen423
-\cmidrulesep=\dimen424
-\cmidrulekern=\dimen425
-\defaultaddspace=\dimen426
-\@cmidla=\count581
-\@cmidlb=\count582
-\@aboverulesep=\dimen427
-\@belowrulesep=\dimen428
-\@thisruleclass=\count583
-\@lastruleclass=\count584
-\@thisrulewidth=\dimen429
+\heavyrulewidth=\dimen418
+\lightrulewidth=\dimen419
+\cmidrulewidth=\dimen420
+\belowrulesep=\dimen421
+\belowbottomsep=\dimen422
+\aboverulesep=\dimen423
+\abovetopsep=\dimen424
+\cmidrulesep=\dimen425
+\cmidrulekern=\dimen426
+\defaultaddspace=\dimen427
+\@cmidla=\count582
+\@cmidlb=\count583
+\@aboverulesep=\dimen428
+\@belowrulesep=\dimen429
+\@thisruleclass=\count584
+\@lastruleclass=\count585
+\@thisrulewidth=\dimen430
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1347,17 +1352,17 @@ LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count585
-\scratchdimen=\dimen430
+\scratchcounter=\count586
+\scratchdimen=\dimen431
 \scratchbox=\box165
-\nofMPsegments=\count586
-\nofMParguments=\count587
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count588
-\MPscratchDim=\dimen431
-\MPnumerator=\count589
-\makeMPintoPDFobject=\count590
-\everyMPtoPDFconversion=\toks60
+\nofMPsegments=\count587
+\nofMParguments=\count588
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count589
+\MPscratchDim=\dimen432
+\MPnumerator=\count590
+\makeMPintoPDFobject=\count591
+\everyMPtoPDFconversion=\toks61
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1411,8 +1416,8 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen432
-\MT@vwid@rightmargin=\dimen433
+\MT@vwid@leftmargin=\dimen433
+\MT@vwid@rightmargin=\dimen434
 LaTeX Info: Redefining \microtypecontext on input line 22.
 Package microtype Info: Applying patch `item' on input line 22.
 Package microtype Info: Applying patch `toc' on input line 22.
@@ -1441,7 +1446,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\c@lstlisting=\count591
+\c@lstlisting=\count592
 <./assets/logo2.jpg, id=6, 481.8pt x 481.8pt>
 File: ./assets/logo2.jpg Graphic file (type jpg)
 <use ./assets/logo2.jpg>
@@ -1457,6 +1462,11 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 [2
 
 ]
+Overfull \hbox (0.94247pt too wide) in paragraph at lines 49--49
+ [][] [][]\OT1/cmr/m/n/10.95 (-20) Level of Pref-er-ence of Stu-dents for Dif-fer-ent Learn-ing Re-sources in Study-ing 
+ []
+
+
 
 [3])
 \tf@toc=\write6
@@ -1508,115 +1518,121 @@ Overfull \hbox (17.57155pt too wide) in paragraph at lines 14--15
 [3]
 
 [4]
-Overfull \hbox (7.51436pt too wide) in paragraph at lines 84--85
+
+[5]
+
+[6]
+
+[7]
+Overfull \hbox (7.51436pt too wide) in paragraph at lines 187--188
 \OT1/cmr/m/n/10.95 (-20) ed-u-ca-tion, \OT1/cmr/m/it/10.95 (-20) Stat-i-Calcs \OT1/cmr/m/n/10.95 (-20) may pro-vide an ac-ces-si-ble and en-gag-ing way to en-hance un-der-stand-ing
  []
 
 
 
-[5]
-
-[6]
-<assets/finalconcept.png, id=219, 1507.6325pt x 474.77374pt>
+[8]
+<assets/finalconcept.png, id=268, 1507.6325pt x 474.77374pt>
 File: assets/finalconcept.png Graphic file (type png)
 <use assets/finalconcept.png>
-Package pdftex.def Info: assets/finalconcept.png  used on input line 109.
+Package pdftex.def Info: assets/finalconcept.png  used on input line 212.
 (pdftex.def)             Requested size: 375.14705pt x 118.13531pt.
 
-Underfull \hbox (badness 1910) in paragraph at lines 165--165
+
+[9 <./assets/finalconcept.png>]
+Underfull \hbox (badness 1910) in paragraph at lines 268--268
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 165--165
+Underfull \hbox (badness 1596) in paragraph at lines 268--268
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 165--165
+Underfull \hbox (badness 1596) in paragraph at lines 268--268
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
 
-[7 <./assets/finalconcept.png>]
-
-[8]
-Underfull \hbox (badness 1910) in paragraph at lines 165--165
+[10]
+Underfull \hbox (badness 1910) in paragraph at lines 268--268
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
 
 
-[9]
-Underfull \hbox (badness 1596) in paragraph at lines 165--165
+[11]
+
+[12]
+Underfull \hbox (badness 1596) in paragraph at lines 268--268
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 165--165
+Underfull \hbox (badness 1596) in paragraph at lines 268--268
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 )
 
-[10]
+[13]
 \openout2 = `ch-2.aux'.
 
  (ch-2.tex
 Chapter 2.
 
 
-[11
+[14
 
 
 
 
 ]
 
-[12]
+[15]
 
-[13]
+[16]
 
-[14]
+[17]
 Overfull \hbox (3.00598pt too wide) in paragraph at lines 65--66
 []\OT1/cmr/m/n/10.95 (-20) They fur-ther noted that self-explanation prac-tices sig-nif-i-cantly con-tribute to con-cep-tual
  []
 
 
 
-[15]
-
-[16]
-
-[17]
-
 [18]
+
+[19]
+
+[20]
+
+[21]
 Overfull \hbox (12.38715pt too wide) in paragraph at lines 105--106
 \OT1/cmr/m/n/10.95 (-20) adapt-ing to dig-i-tal learn-ing en-vi-ron-ments. The re-searcher fur-ther pro-posed rec-om-men-da-tions
  []
 
 
 
-[19]
+[22]
 Overfull \hbox (3.6889pt too wide) in paragraph at lines 111--112
 \OT1/cmr/m/n/10.95 (-20) im-prove ef-fi-ciency in me-chan-ics ed-u-ca-tion by re-duc-ing in-struc-tor work-load while sup-port-ing
  []
 
 
 
-[20]
+[23]
 
-[21])
+[24])
 
-[22]
+[25]
 \openout2 = `ch-3.aux'.
 
  (ch-3.tex
 Chapter 3.
 
 
-[23
+[26
 
 
 
@@ -1628,138 +1644,285 @@ Overfull \hbox (1.46251pt too wide) in paragraph at lines 20--21
 
 
 
-[24]
+[27]
 Overfull \hbox (14.10834pt too wide) in paragraph at lines 62--63
 \OT1/cmr/m/n/10.95 (-20) Elec-tri-cal En-gi-neer-ing, Elec-tron-ics and Com-mu-ni-ca-tion En-gi-neer-ing, En-gi-neer-ing Tech-nol-ogy,
  []
 
 
 
-[25]
-<assets/SystemFlow.jpg, id=361, 129.1224pt x 254.8722pt>
+[28]
+<assets/SystemFlow.jpg, id=413, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
 Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 85.
 (pdftex.def)             Requested size: 125.05113pt x 246.8446pt.
 
 
-[26]
-<assets/concon.png, id=366, 2055.68pt x 1595.9625pt>
-File: assets/concon.png Graphic file (type png)
-<use assets/concon.png>
-Package pdftex.def Info: assets/concon.png  used on input line 98.
-(pdftex.def)             Requested size: 458.5187pt x 355.95897pt.
+[29]
+<assets/finalchart.png, id=418, 1311.90125pt x 1045.9075pt>
+File: assets/finalchart.png Graphic file (type png)
+<use assets/finalchart.png>
+Package pdftex.def Info: assets/finalchart.png  used on input line 111.
+(pdftex.def)             Requested size: 416.83289pt x 332.3193pt.
 
-Overfull \hbox (41.68582pt too wide) in paragraph at lines 98--99
- [][] 
+
+[30 <./assets/SystemFlow.jpg>]
+
+[31 <./assets/finalchart.png>]
+
+[32]
+<assets/2D.png, id=438, 808.52063pt x 863.47594pt>
+File: assets/2D.png Graphic file (type png)
+<use assets/2D.png>
+Package pdftex.def Info: assets/2D.png  used on input line 185.
+(pdftex.def)             Requested size: 416.83289pt x 445.16281pt.
+
+
+[33]
+
+[34 <./assets/2D.png>]
+Overfull \hbox (19.05408pt too wide) in paragraph at lines 206--219
+[]\OT1/cmr/m/n/10.95 (-20) Once the user clicks Cal-cu-late, the sys-tem pro-cesses each force through the \OT1/cmtt/m/n/10.95 ForceSystem2D
+ []
+
+<assets/Angles Tab.png, id=450, 818.30719pt x 1135.24126pt>
+File: assets/Angles Tab.png Graphic file (type png)
+<use assets/Angles Tab.png>
+Package pdftex.def Info: assets/Angles Tab.png  used on input line 224.
+(pdftex.def)             Requested size: 416.83289pt x 578.28981pt.
+
+
+[35]
+
+[36 <./assets/Angles Tab.png>]
+<assets/Corrdinates Tab.png, id=462, 1032.10594pt x 1027.58907pt>
+File: assets/Corrdinates Tab.png Graphic file (type png)
+<use assets/Corrdinates Tab.png>
+Package pdftex.def Info: assets/Corrdinates Tab.png  used on input line 265.
+(pdftex.def)             Requested size: 416.83289pt x 415.011pt.
+
+
+[37]
+
+[38 <./assets/Corrdinates Tab.png>]
+<assets/Concurent.png, id=474, 1218.05063pt x 1206.00563pt>
+File: assets/Concurent.png Graphic file (type png)
+<use assets/Concurent.png>
+Package pdftex.def Info: assets/Concurent.png  used on input line 302.
+(pdftex.def)             Requested size: 416.83289pt x 412.7048pt.
+
+
+[39]
+
+[40 <./assets/Concurent.png>]
+Overfull \hbox (12.94969pt too wide) in paragraph at lines 342--351
+[]\OT1/cmr/m/n/10.95 (-20) All valid cases are routed through \OT1/cmtt/m/n/10.95 solveEquilibrium2D \OT1/cmr/m/n/10.95 (-20) from the \OT1/cmtt/m/n/10.95 lib/Equilibriumconc
+ []
+
+<assets/non-concurent.png, id=486, 1644.89531pt x 792.71156pt>
+File: assets/non-concurent.png Graphic file (type png)
+<use assets/non-concurent.png>
+Package pdftex.def Info: assets/non-concurent.png  used on input line 357.
+(pdftex.def)             Requested size: 416.83289pt x 200.87476pt.
+
+
+[41]
+
+[42 <./assets/non-concurent.png>]
+<assets/Truss.png, id=497, 1778.89594pt x 2329.20187pt>
+File: assets/Truss.png Graphic file (type png)
+<use assets/Truss.png>
+Package pdftex.def Info: assets/Truss.png  used on input line 390.
+(pdftex.def)             Requested size: 416.83289pt x 545.7632pt.
+
+
+[43 <./assets/Truss.png>]
+
+[44]
+<assets/moi.drawio.png, id=509, 1674.255pt x 2448.89906pt>
+File: assets/moi.drawio.png Graphic file (type png)
+<use assets/moi.drawio.png>
+Package pdftex.def Info: assets/moi.drawio.png  used on input line 446.
+(pdftex.def)             Requested size: 416.83289pt x 609.68231pt.
+
+
+[45]
+
+[46 <./assets/moi.drawio.png>]
+Overfull \hbox (40.20079pt too wide) in paragraph at lines 466--478
+[]\OT1/cmr/m/n/10.95 (-20) Once the user clicks Cal-cu-late, the sys-tem calls \OT1/cmtt/m/n/10.95 calculateResultant \OT1/cmr/m/n/10.95 (-20) from \OT1/cmtt/m/n/10.95 lib/MOIEngine.ts\OT1/cmr/m/n/10.95 (-20) .
+ []
+
+
+Overfull \hbox (25.0546pt too wide) in paragraph at lines 488--495
+[]\OT1/cmr/m/n/10.95 (-20) The sys-tem then checks whether the axis type is Cus-tom. If yes, it calls \OT1/cmtt/m/n/10.95 computeCustomAxis
  []
 
 
 
-[27 <./assets/SystemFlow.jpg>]
+[47]
 
-[28 <./assets/concon.png>]
+[48]
 
-[29]
-
-[30]
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent nei-ther
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 594--594
 []|\OT1/cmr/m/n/10.95 (+20) The re-spon-dent gen-er-ally
  []
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32]
 
-[33]
-Overfull \hbox (43.12457pt too wide) in paragraph at lines 238--248
+
+[50]
+
+[51]
+Overfull \hbox (43.12457pt too wide) in paragraph at lines 664--674
  [][] 
  []
 
 
 
-[34]
-Overfull \hbox (7.92181pt too wide) in paragraph at lines 283--284
+[52]
+Overfull \hbox (7.92181pt too wide) in paragraph at lines 709--710
 []\OT1/cmr/m/n/10.95 (-20) This study uti-lized weighted mean and fre-quency dis-tri-bu-tion to an-a-lyze the re-spon-dents'
  []
 
-)
 
-[35]
 
-[36]
+[53])
+
+[54]
 \openout2 = `ch-4.aux'.
 
  (ch-4.tex
 Chapter 4.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 2478) in paragraph at lines 17--17
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+Underfull \hbox (badness 2478) in paragraph at lines 34--34
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
+
+
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 28--40
+ [][] 
  []
 
 
 
-[37
+[55
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+
+[56]
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 67--79
+ [][] 
  []
 
 
 
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
-[]|\OT1/cmr/m/n/10.95 (+20) Online En-gi-neer-ing
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
  []
 
 
 
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
-[]|\OT1/cmr/bx/n/10.95 (+20) Overall
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
-[]|\OT1/cmr/bx/n/10.95 (+20) Overall
- []
-
-
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
-[]|\OT1/cmr/bx/n/10.95 (+20) Overall
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
-[]|\OT1/cmr/m/n/10.95 (+20) Online En-gi-neer-ing
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 106--118
+ [][] 
  []
 
 
 
-[41])
+[59]
 
-[42]
+[60]
+
+[61]
+Underfull \hbox (badness 2478) in paragraph at lines 174--174
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 191--191
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
+
+
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 185--197
+ [][] 
+ []
+
+
+
+[62]
+
+[63]
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 224--236
+ [][] 
+ []
+
+
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+ []
+
+
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+ []
+
+
+Overfull \hbox (17.22787pt too wide) in paragraph at lines 265--277
+ [][] 
+ []
+
+
+
+[66]
+
+[67]
+
+[68]
+Overfull \hbox (7.3604pt too wide) in paragraph at lines 321--321
+|[]\OT1/cmr/bx/n/10.95 (-20) Significant Dif-fer-ence Be-tween the Per-cep-tions of Stu-dents and In-struc-tors
+ []
+
+
+
+[69])
+
+[70]
+
+[71]
 Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 (-20) Self-Explanation Strat-egy in a Re-mote Learn-ing Con-text." \OT1/cmr/m/it/10.95 (-20) 9th Re-search in En-gi-neer-ing
  []
@@ -1776,7 +1939,7 @@ Overfull \hbox (21.2103pt too wide) in paragraph at lines 85--85
 
 
 
-[43
+[72
 
 
 
@@ -1790,9 +1953,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
 
 
-[44]
+[73]
 
-[45]
+[74]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
@@ -1802,14 +1965,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
 
 
-[46
+[75
 
 
 ]
 
-[47]
+[76]
 
-[48]
+[77]
 Underfull \hbox (badness 1960) in paragraph at lines 130--130
 []|\OT1/cmr/m/n/10.95 (+20) I strongly pre-fer other learn-ing
  []
@@ -1831,7 +1994,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--145
 
 
 
-[49]
+[78]
 Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 $[]$ 
  []
@@ -1853,7 +2016,7 @@ Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 
 
 
-[50] (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+[79] (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 199.
@@ -1866,40 +2029,40 @@ Overfull \hbox (37.587pt too wide) in paragraph at lines 209--210
 
 
 
-[51
+[80
 
 ]
 
-[52]
+[81]
 Overfull \hbox (37.587pt too wide) in paragraph at lines 279--280
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[53]
+[82]
 
-[54]
+[83]
 
-[55]
+[84]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 
-[56]
+[85]
 Overfull \hbox (47.0369pt too wide) in paragraph at lines 405--407
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[57]
+[86]
 
-[58]
+[87]
 
-[59]
+[88]
 Overfull \hbox (65.93228pt too wide) in paragraph at lines 497--498
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1926,9 +2089,9 @@ Overfull \hbox (61.20844pt too wide) in paragraph at lines 513--514
 
 
 
-[60]
+[89]
 
-[61]
+[90]
 Overfull \hbox (94.28635pt too wide) in paragraph at lines 553--554
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1945,7 +2108,7 @@ Overfull \hbox (65.93668pt too wide) in paragraph at lines 569--570
 
 
 
-[62]
+[91]
 Overfull \hbox (13.96228pt too wide) in paragraph at lines 583--584
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1957,9 +2120,9 @@ Overfull \hbox (61.21173pt too wide) in paragraph at lines 588--589
 
 
 
-[63]
+[92]
 
-[64]
+[93]
 Overfull \hbox (23.41217pt too wide) in paragraph at lines 662--663
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1981,7 +2144,7 @@ Overfull \hbox (37.587pt too wide) in paragraph at lines 675--676
 
 
 
-[65]
+[94]
 Overfull \hbox (9.23734pt too wide) in paragraph at lines 682--683
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -1993,9 +2156,9 @@ Overfull \hbox (47.0325pt too wide) in paragraph at lines 695--696
 
 
 
-[66]
+[95]
 
-[67]
+[96]
 Overfull \hbox (103.73624pt too wide) in paragraph at lines 749--751
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2007,23 +2170,23 @@ Overfull \hbox (75.38657pt too wide) in paragraph at lines 756--757
 
 
 
-[68]
+[97]
 Overfull \hbox (70.66162pt too wide) in paragraph at lines 796--797
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[69]
+[98]
 
-[70]
+[99]
 Overfull \hbox (13.96228pt too wide) in paragraph at lines 854--856
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[71]
+[100]
 Overfull \hbox (61.21173pt too wide) in paragraph at lines 875--876
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2045,31 +2208,31 @@ Overfull \hbox (179.33536pt too wide) in paragraph at lines 889--890
 
 
 
-[72]
+[101]
 
-[73]
+[102]
 
-[74]
+[103]
 
-[75]
+[104]
 
-[76]
+[105]
 Overfull \hbox (9.23734pt too wide) in paragraph at lines 1058--1059
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[77]
+[106]
 Overfull \hbox (28.13712pt too wide) in paragraph at lines 1091--1092
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
 
-[78]
+[107]
 
-[79]
+[108]
 Overfull \hbox (42.31195pt too wide) in paragraph at lines 1148--1149
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2086,7 +2249,7 @@ Overfull \hbox (47.0369pt too wide) in paragraph at lines 1164--1165
 
 
 
-[80]
+[109]
 Overfull \hbox (4.51239pt too wide) in paragraph at lines 1176--1177
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
@@ -2108,18 +2271,18 @@ Overfull \hbox (9.23734pt too wide) in paragraph at lines 1195--1196
 
 
 
-[81]
+[110]
 Overfull \hbox (56.48679pt too wide) in paragraph at lines 1200--1201
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 )
 
-[82]
+[111]
 \openout2 = `curriculum-vitae.aux'.
 
  (curriculum-vitae.tex
-<./assets/logo.png, id=1608, 722.7pt x 722.7pt>
+<./assets/logo.png, id=1791, 722.7pt x 722.7pt>
 File: ./assets/logo.png Graphic file (type png)
 <use ./assets/logo.png>
 Package pdftex.def Info: ./assets/logo.png  used on input line 5.
@@ -2131,13 +2294,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--29
 
 
 
-[83
+[112
 
 
 
 
  <./assets/logo.png>]
-<./assets/pia.jpg, id=1614, 1370.11874pt x 2055.68pt>
+<./assets/pia.jpg, id=1797, 1370.11874pt x 2055.68pt>
 File: ./assets/pia.jpg Graphic file (type jpg)
 <use ./assets/pia.jpg>
 Package pdftex.def Info: ./assets/pia.jpg  used on input line 72.
@@ -2149,7 +2312,7 @@ Overfull \hbox (1.1983pt too wide) in paragraph at lines 87--95
 
 )
 
-[84
+[113
 
  <./assets/pia.jpg>] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (appendix.aux) (curriculum-vitae.aux))
  ***********
@@ -2169,17 +2332,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### simple group (level 1) entered at line 3 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 58928 strings out of 468081
- 1327424 string characters out of 5425788
- 2948994 words of memory out of 5000000
- 85435 multiletter control sequences out of 15000+600000
- 640730 words of font info for 152 fonts, out of 8000000 for 9000
+ 59266 strings out of 468081
+ 1332313 string characters out of 5425788
+ 2952543 words of memory out of 5000000
+ 85674 multiletter control sequences out of 15000+600000
+ 644044 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,12n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt0900.pk> <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (90 pages, 2301235 bytes).
+ 104i,15n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt0900.pk> <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on main.pdf (119 pages, 2785332 bytes).
 PDF statistics:
- 2073 PDF objects out of 2073 (max. 8388607)
- 1188 named destinations out of 1200 (max. 500000)
- 30659 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 2275 PDF objects out of 2487 (max. 8388607)
+ 1241 named destinations out of 1440 (max. 500000)
+ 45038 words of extra memory for PDF output out of 51595 (max. 10000000)
 

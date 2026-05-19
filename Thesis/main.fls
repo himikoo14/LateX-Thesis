@@ -392,6 +392,8 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
@@ -567,19 +569,76 @@ INPUT .\assets\SystemFlow.jpg
 INPUT .\assets\SystemFlow.jpg
 INPUT .\assets\SystemFlow.jpg
 INPUT .\assets\SystemFlow.jpg
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
-INPUT .\assets\concon.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
+INPUT .\assets\finalchart.png
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT .\assets\2D.png
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Angles Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT .\assets\Corrdinates Tab.png
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\Concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\non-concurent.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\Truss.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
+INPUT .\assets\moi.drawio.png
 INPUT .\ch-4.tex
 OUTPUT ch-4.aux
 INPUT .\ch-4.tex
 INPUT .\ch-4.tex
 INPUT ch-4.tex
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
@@ -591,7 +650,6 @@ INPUT appendix.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt9.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tctt0900.tfm
@@ -663,5 +721,7 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt9.pfb
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt9.pfb

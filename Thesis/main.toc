@@ -6,47 +6,55 @@
 \contentsline {section}{\numberline {1.1}Background of the Study}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Statement of the Problem}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Scope and Limitations}{3}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Significance of the Study}{5}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Theoretical Framework}{6}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Conceptual Framework}{7}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Definition of Terms}{8}{section.1.7}%
-\contentsline {chapter}{\numberline {2}Review of Related Literature}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Statics of Rigid Bodies in Engineering Education}{11}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Conceptual Difficulties in Learning Statics}{12}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Procedural and Analytical Challenges}{12}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Mathematical Readiness in Statics}{13}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Math Anxiety and Its Impact on Engineering Students}{14}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Visualization and Spatial Ability in Engineering}{14}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Importance of Free Body Diagram Construction}{16}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Technology-Based Learning for Engineering Student}{16}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Digital Learning Tools and Student Engagement}{17}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Web-Based Learning in Engineering Education}{18}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Related Systems and Existing Educational Tools}{20}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Summary of Literature}{22}{section.2.12}%
-\contentsline {chapter}{\numberline {3}Methodology}{23}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Method}{23}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Research Respondents}{24}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Research Locale}{25}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Research Procedure}{25}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Website Development Process}{27}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{28}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Website System Architecture}{30}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Research Instrument}{31}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Statistical Tools}{32}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Statistical Treatment}{35}{section.3.7}%
-\contentsline {chapter}{\numberline {4}Results and Discussions}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Students’ Perception of StatiCalcs}{37}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Usability}{37}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Accessibility}{38}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Satisfaction}{39}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Preference for Learning Resources}{39}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}Instructors’ Perception of StatiCalcs}{40}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Usability}{40}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Accessibility}{41}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Satisfaction}{41}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Preference for Learning Resources}{42}{subsection.4.2.4}%
-\contentsline {chapter}{References}{45}{chapter*.19}%
-\contentsline {chapter}{Appendix A}{46}{appendix*.20}%
-\contentsline {chapter}{Appendix C}{51}{appendix*.23}%
-\contentsline {chapter}{Curriculum Vitae}{83}{appendix*.24}%
-\contentsline {chapter}{Curriculum Vitae}{84}{appendix*.25}%
+\contentsline {section}{\numberline {1.4}Significance of the Study}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Theoretical Framework}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Conceptual Framework}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Definition of Terms}{10}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Review of Related Literature}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Statics of Rigid Bodies in Engineering Education}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Conceptual Difficulties in Learning Statics}{15}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Procedural and Analytical Challenges}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Mathematical Readiness in Statics}{16}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Math Anxiety and Its Impact on Engineering Students}{17}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Visualization and Spatial Ability in Engineering}{17}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Importance of Free Body Diagram Construction}{19}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Technology-Based Learning for Engineering Student}{19}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Digital Learning Tools and Student Engagement}{20}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Web-Based Learning in Engineering Education}{21}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Related Systems and Existing Educational Tools}{23}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Summary of Literature}{25}{section.2.12}%
+\contentsline {chapter}{\numberline {3}Methodology}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Method}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Respondents}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Research Locale}{28}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Research Procedure}{28}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Website Development Process}{30}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Website Navigation and Functional Flow}{31}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Calculator System Flowcharts}{33}{subsection.3.4.3}%
+\contentsline {subsubsection}{2D/3D Resultant Force Calculator}{34}{subsubsection*.8}%
+\contentsline {subsubsection}{3D Resultant Force Calculator -- Angles Tab}{36}{subsubsection*.10}%
+\contentsline {subsubsection}{3D Resultant Force Calculator -- Coordinates Tab}{38}{subsubsection*.12}%
+\contentsline {subsubsection}{Equilibrium of Concurrent Force System}{40}{subsubsection*.14}%
+\contentsline {subsubsection}{Equilibrium of Non-Concurrent Force System -- Beam Solver}{42}{subsubsection*.16}%
+\contentsline {subsubsection}{Truss Solver}{43}{subsubsection*.18}%
+\contentsline {subsubsection}{Moment of Inertia Calculator}{46}{subsubsection*.20}%
+\contentsline {subsection}{\numberline {3.4.4}Website System Architecture}{48}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Research Instrument}{50}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Statistical Tools}{50}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Statistical Treatment}{53}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Results and Discussions}{55}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Level of Perception of Students Regarding StatiCalcs in Terms of Usability}{55}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Level of Perception of Students Regarding StatiCalcs in Terms of Accessibility}{57}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Level of Perception of Students Regarding StatiCalcs in Terms of Satisfaction}{59}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Level of Preference of Students for Different Learning Resources in Studying Statics of Rigid Bodies}{61}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Level of Perception of Instructors Regarding StatiCalcs in Terms of Usability}{62}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Level of Perception of Instructors Regarding StatiCalcs in Terms of Accessibility}{64}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Level of Perception of Instructors Regarding StatiCalcs in Terms of Satisfaction}{66}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Level of Preference of Instructors for Different Learning Resources in Studying Statics of Rigid Bodies}{68}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Significant Difference Between the Perceptions of Students and Instructors Regarding StatiCalcs}{69}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Respondents’ Comments and Suggestions Regarding StatiCalcs}{70}{section.4.10}%
+\contentsline {chapter}{References}{74}{chapter*.42}%
+\contentsline {chapter}{Appendix A}{75}{appendix*.43}%
+\contentsline {chapter}{Appendix C}{80}{appendix*.46}%
+\contentsline {chapter}{Curriculum Vitae}{112}{appendix*.47}%
+\contentsline {chapter}{Curriculum Vitae}{113}{appendix*.48}%

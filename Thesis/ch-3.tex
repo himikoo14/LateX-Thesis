@@ -87,59 +87,485 @@ Participation in the study was voluntary, and all responses were treated with st
     \label{fig:system_flow_chart}
 \end{figure}
 
-The website was developed using a modern workflow, beginning with the selection of Java as the backend language due to its reliability, security, and strong support for building large, complex web applications. GitHub was used as the code repository to manage versions, collaborate, and integrate with deployment tools. For the frontend, Tailwind CSS was chosen to create a clean, responsive, and consistent user interface using its utility-first styling approach. ChatGPT assisted throughout the development process by helping with code structuring, debugging, and design decisions, improving efficiency and workflow. Netlify was used as the hosting and deployment platform. By connecting the GitHub repository to Netlify, every update pushed to GitHub was automatically built and deployed online, ensuring continuous delivery and easy accessibility of the website to users.
+The website was developed using a modern workflow, beginning with the 
+selection of Java as the backend language due to its reliability, 
+security, and strong support for building large, complex web 
+applications. GitHub was used as the code repository to manage 
+versions, collaborate, and integrate with deployment tools. For the 
+frontend, Tailwind CSS was chosen to create a clean, responsive, and 
+consistent user interface using its utility-first styling approach. 
+ChatGPT assisted throughout the development process by helping with 
+code structuring, debugging, and design decisions, improving 
+efficiency and workflow. Netlify was used as the hosting and 
+deployment platform. By connecting the GitHub repository to Netlify, 
+every update pushed to GitHub was automatically built and deployed 
+online, ensuring continuous delivery and easy accessibility of the 
+website to users.
 
-
+%......
 
 \subsection{Website Navigation and Functional Flow}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1.1\textwidth]{assets/concon.png}
-    \caption{User journey flow chart}
+    \includegraphics[width=1\textwidth]{assets/finalchart.png}
+    \caption{User Journey Flow Chart}
     \label{fig:user_journey_flow}
 \end{figure}
 
+The website begins at the Landing Page, which serves as the main 
+entry point for all users. From this page, users can navigate to 
+introductory sections such as About / Project Story, Meet the 
+Developers, and Contact / Feedback, which provide background on the 
+project, information about its creators, and a channel for inquiries 
+or suggestions.
 
-The website began at the Landing Page, which acted as the main entry point for users. From this page, users were provided with navigational options to explore introductory sections such as About / Project Story, Meet the Developers, and Contact / Feedback. These sections helped users understand the objectives of the project, know the creators behind the system, and provide a communication channel for inquiries or suggestions. 
+From the Landing Page, users are presented with a decision point 
+labeled Choose Path, where they choose between proceeding to the 
+Learning Section or directly accessing the Solver Tools.
 
-From the Landing Page, users encountered a decision point labeled Choose Path, where they decided whether to proceed to the Learning Section or directly access the Solver Tools. 
+If the user selects the Learning Path, they are directed to the 
+Introduction / Theory page, which presents foundational concepts in 
+Statics. From there, users proceed to Topic Pages covering Chapter 1: 
+Modules to Statics, which include lessons on Equilibrium, Distributed 
+Loads, Structures, and 2D/3D Concepts. After engaging with the 
+theoretical content, users are guided to the Learn How to Use Solvers 
+section, which provides instructional guides on properly operating the 
+computational tools. A Reference Page containing formula compilations, 
+example problems, and supplementary materials is also available, 
+alongside an FAQ / Help section for common concerns. Users may also 
+reach the developers directly through the Contact Page.
 
-If the user selected the Learning Path, they were directed to the Introduction / Theory page, which presented foundational concepts in statics. Following this, users proceeded to Topic Pages (Chapter 1: Introduction to Statics), which included lessons on essential topics such as Equilibrium, Distributed Loads, Structures, and 2D/3D Concepts. After gaining theoretical knowledge, users moved to the Learn How to Use Solvers section, which offered instructional guides on how to properly use the computational tools for structural analysis.
-
-To further support learning, users visited the Reference Page, which contained formula compilations, example problems, and relevant learning materials. An FAQ / Help section was also available to address common issues and user concerns. If additional support was needed, users contacted the developers directly through the Contact Page.
-
-Alternatively, if the user chose the direct problem-solving pathway, they proceeded to a second decision point called Select Solver Type. The available solver tools were aligned with the chapters covered in the theoretical section, including:
+If the user instead chooses the direct problem-solving pathway, they 
+proceed to a second decision point labeled Select Solver Type. The 
+available solver tools correspond to the chapters covered in the 
+theoretical section:
 
 \begin{itemize}
-    \item Chapter 1: Introduction to Statics
-    \item Chapter 2: Force Systems --- 2D and 3D Resultant Force Calculator
-    \item Chapter 3: Equilibrium --- Equilibrium Calculator
+    \item Chapter 1: Modules to Statics
+    \item Chapter 2: Force Systems --- 2D and 3D Resultant Force 
+    Calculator
+    \item Chapter 3: Equilibrium --- Concurrent and Non-Concurrent 
+    Systems
     \item Chapter 4: Structures --- Truss Analysis Calculator
-    \item Chapter 5: Distributed Loads --- Structural Analysis Calculator for Distributed Load Effects
+    \item Chapter 5: Distributed Loads --- Moment of Inertia via 
+    Centroidal and Custom Axes
 \end{itemize}
 
-After selecting a specific solver, the user proceeded to Run Analysis and Get Results. After the computation, a View Results Summary page displayed the output in a clear, structured format.
-
-From this results page, users had three options:
+After selecting a solver, the user proceeds to Run Analysis \& Get 
+Results. The computed output is then displayed on the View Results 
+Summary page in a clear and structured format. From this page, users 
+have three options:
 
 \begin{enumerate}
-    \item Generate and view Force Diagrams / Deflection Plot
-    \item Download results as PDF or formatted report
-    \item Modify input parameters and Recalculate to explore different solutions or optimize results
+    \item Generate and view Force Diagrams or Deflection Plots
+    \item Download results as a PDF or formatted report
+    \item Modify input parameters and Recalculate to explore different 
+    solutions or optimize results
 \end{enumerate}
 
-This structured flow allows users to either learn fundamental engineering concepts before solving problems or directly perform structural analysis based on their needs. The design ensures flexibility, user engagement, and accessibility while supporting both educational and analytical purposes.
+This structured flow allows users to either build foundational 
+knowledge before solving problems or directly perform structural 
+analysis depending on their needs, ensuring flexibility, 
+accessibility, and engagement throughout the platform.
+
+%......
+
+\subsection{Calculator System Flowcharts}
+
+The following subsections present the detailed system flowcharts for 
+each calculator integrated into \textit{StatiCalcs}. Each flowchart 
+describes the logical flow of user interactions, input processing, 
+computation steps, and output rendering for its corresponding solver.
+
+\subsubsection{2D/3D Resultant Force Calculator}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/2D.png}
+    \caption{2D/3D Resultant Force Calculator System Flowchart}
+    \label{fig:2d_flowchart}
+\end{figure}
+
+When the application loads, it checks the URL parameter 
+(\texttt{?tab=}) to determine which solver to render. If the parameter 
+is set to \texttt{2d}, the 2D tab is rendered; if set to \texttt{3d}, 
+the 3D Solver is rendered instead.
+
+In the 2D tab, the user is presented with force input fields for 
+entering the magnitude and angle of each force. Forces can be added 
+by appending an empty entry to the forces array or removed by 
+filtering out by index. As inputs are modified, the 
+\texttt{handleInputChange} function updates the forces state in real 
+time. A live draggable Free Body Diagram (FBD) is also displayed, 
+where SVG arrows update dynamically as the user drags them. The angle 
+of each arrow is continuously recalculated using \texttt{Math.atan2} 
+based on the cursor position, triggered by \texttt{onMouseDown} and 
+\texttt{onMouseMove} events.
+
+Once the user clicks Calculate, the system processes each force 
+through the \texttt{ForceSystem2D} class using \texttt{addForce}.\@ A 
+\texttt{stepByStepSolution} is then executed, resolving the x and y 
+components ($F_x$ and $F_y$) for each force, summing them 
+($\Sigma F_x$ and $\Sigma F_y$), and computing the resultant force 
+($R$) and its direction angle ($\theta$). The computed results are 
+stored in the result state and simultaneously rendered as four 
+outputs: Result Cards displaying $F_x$, $F_y$, $R$, and $\theta$; 
+a Step-by-Step Solution formatted using KaTeX; a static Resultant FBD 
+SVG showing the resultant vector; and an Export PDF Button that 
+encodes the result as JSON, opens the \texttt{/print/resultant} route, 
+triggers \texttt{window.print}, and saves the output as a PDF for the 
+user.
+
+\subsubsection{3D Resultant Force Calculator -- Angles Tab}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/Angles Tab.png}
+    \caption{3D Resultant Force Calculator (Angles Tab) System 
+    Flowchart}
+    \label{fig:3d_angles_flowchart}
+\end{figure}
+
+When the application loads and the URL parameter is set to 
+\texttt{3d}, the 3D Solver is rendered. A second URL parameter 
+(\texttt{?subtab=}) is then checked to determine which method to use. 
+If the subtab is set to \texttt{angles}, the AnglesTab is rendered 
+using the Azimuth-Elevation method. If set to \texttt{coordinate}, 
+the CoordinateTab is rendered using the Cartesian Vector method 
+instead.
+
+In the Angles Tab, the user is presented with two main components. 
+On the left, a live 3D FBD canvas is rendered using a Three.js WebGL 
+scene, which the user can interact with by dragging to orbit and 
+scrolling to zoom. On the right, the user inputs each force's 
+magnitude, azimuth, and elevation angles. Forces can be added or 
+removed as needed.
+
+Once the user clicks Calculate, each force is processed through the 
+\texttt{ForceSystem3D} class using the \texttt{addForce} 
+azimuth-elevation method. The system resolves the x, y, and z 
+components ($F_x$, $F_y$, $F_z$) for each force, sums them 
+($\Sigma F_x$, $\Sigma F_y$, $\Sigma F_z$), and computes the 
+resultant force ($R$) along with its azimuth and elevation. Direction 
+angles $\alpha$, $\beta$, and $\gamma$ are then calculated using the 
+\texttt{acos} function. The computed results are stored in the result 
+state and simultaneously rendered as four outputs: Result Cards 
+displaying $F_x$, $F_y$, $F_z$, $R$, $\varphi$, $\alpha$, $\beta$, 
+and $\gamma$; a Step-by-Step Solution formatted using KaTeX MathBlock; 
+a static Resultant FBD 3D scene rendered using Three.js showing the 
+resultant vector; and an Export PDF Button that opens the 
+\texttt{/print/resultant-3dAzimuth} route and saves the output as a 
+PDF for the user.
+
+\subsubsection{3D Resultant Force Calculator -- Coordinates Tab}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/Corrdinates Tab.png}
+    \caption{3D Resultant Force Calculator (Coordinates Tab) System 
+    Flowchart}
+    \label{fig:3d_coords_flowchart}
+\end{figure}
+
+If the subtab parameter is set to \texttt{coordinate}, the 
+CoordinateTab is rendered using the Cartesian Vector method. The user 
+is presented with three main input areas. On the left, a live 3D 
+canvas is rendered using Three.js, displaying coordinate points and 
+force arrows that the user can interact with by dragging to orbit and 
+scrolling to zoom. In the center, the user manages the force inputs, 
+where each force requires a magnitude and the selection of a 
+\textit{From} and \textit{To} point. On the right, the user defines 
+the coordinates of points (A, B, C, etc.) by entering their x, y, 
+and z values. Forces and coordinate points can be added or removed 
+as needed.
+
+Once the user clicks Calculate, the system processes the inputs 
+through the following steps: position vectors are computed as 
+$\mathbf{r}_{AB} = B - A$; unit vectors are derived as 
+$\mathbf{u}_{AB} = \mathbf{r}_{AB} / |\mathbf{r}_{AB}|$; force 
+vectors are calculated as $\mathbf{F} = \text{magnitude} \times 
+\mathbf{u}_{AB}$; and the components are summed ($R_x$, $R_y$, $R_z$) 
+to compute the resultant force $R$ and the direction angles $\alpha$, 
+$\beta$, and $\gamma$. The computed results are stored in the result 
+state and simultaneously rendered as three outputs: Result Cards 
+displaying $R_x$, $R_y$, $R_z$, $R$, $\alpha$, $\beta$, and 
+$\gamma$; a Step-by-Step Solution formatted using KaTeX; and an 
+Export PDF Button that opens the 
+\texttt{/print/resultant-3dcoordinate} route and saves the output as 
+a PDF for the user.
+
+\subsubsection{Equilibrium of Concurrent Force System}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/Concurent.png}
+    \caption{Equilibrium of Concurrent Force System Flowchart}
+    \label{fig:concurrent_flowchart}
+\end{figure}
+
+When the Equilibrium module loads, it checks the URL parameter 
+(\texttt{?tab=}) to determine which solver to render. If set to 
+\texttt{concurrent}, the Concurrent Force System tab is rendered. If 
+set to \texttt{nonconcurrent}, the BeamPage with the BeamSolverUI 
+component is rendered instead.
+
+In the Concurrent Force System tab, the user is presented with force 
+input fields for magnitude and angle. Forces can be added by 
+appending an empty entry to the forces array or removed by filtering 
+out by index. As inputs are modified, the \texttt{handleInputChange} 
+function updates the forces state in real time. The user may also 
+click the \texttt{?} button to toggle a field as unknown, which marks 
+and disables that field while highlighting it in blue. A live 
+draggable FBD is displayed alongside the inputs, where SVG arrows 
+update dynamically per force as the user drags, with the angle 
+continuously recalculated using \texttt{Math.atan2} based on cursor 
+position via \texttt{onMouseDown} and \texttt{onMouseMove} events.
+
+Once the user clicks Calculate, the system counts the number of 
+unknowns and branches accordingly:
+
+\begin{itemize}
+    \item More than 2 unknowns $\rightarrow$ displays an error: too 
+    many unknowns
+    \item 0 unknowns $\rightarrow$ switches to Resultant mode, solving 
+    for $R$ and $\theta$
+    \item 1 magnitude unknown $\rightarrow$ solves for the unknown 
+    magnitude
+    \item 1 angle unknown $\rightarrow$ solves for the unknown angle
+    \item 1 magnitude + 1 angle (same force) $\rightarrow$ solves for 
+    both magnitude and angle of the same force
+    \item 1 magnitude + 1 angle (different forces) $\rightarrow$ 
+    cross-solves for magnitude and angle across different forces
+\end{itemize}
+
+All valid cases are routed through \texttt{solveEquilibrium2D} from 
+the \texttt{lib/Equilibriumconc} library. The system then checks 
+whether the solution is valid. If invalid, it sets an error state and 
+displays an error banner. If valid, it sets the solution state with 
+steps, result rows, and solved labels, and simultaneously renders four 
+outputs: a Solved Banner with solvedLabel highlight; a Result Cards 
+Grid; a Step-by-Step Solution formatted using KaTeX; and an Export 
+PDF Button that opens the \texttt{/print/equilibrium} route and saves 
+the output as a PDF for the user.
+
+\subsubsection{Equilibrium of Non-Concurrent Force System -- Beam 
+Solver}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/non-concurent.png}
+    \caption{Equilibrium of Non-Concurrent Force System (Beam Solver) 
+    Flowchart}
+    \label{fig:nonconcurrent_flowchart}
+\end{figure}
+
+If the URL parameter is set to \texttt{nonconcurrent}, the BeamPage 
+with the BeamSolverUI component is rendered. The user is presented 
+with several input areas that all reactively update a BeamFBD SVG 
+diagram in real time. These include the Beam Length Input, which 
+defines the total length of the beam; the Supports Setup, where the 
+user specifies whether each support is Pinned or Roller along with 
+its location; Point Loads, where the user enters the magnitude and 
+location of each concentrated load; and Distributed Loads, where the 
+user defines the start and end positions along with the start 
+magnitude and end magnitude of each distributed load. All inputs feed 
+into the BeamFBD SVG diagram, which updates reactively to reflect the 
+current beam configuration as the user makes changes.
+
+Once the user clicks Calculate, the system calls \texttt{solveBeam} 
+from the \texttt{lib/beamEngine} library and checks whether the inputs 
+are valid. If invalid, it sets an error state and displays an error 
+banner. If valid, it executes \texttt{solveBeam} to compute the 
+support reactions and simultaneously renders four outputs: Display 
+Reactions per support location; a Step-by-Step Solution formatted 
+using KaTeX; Result Tiles showing a label and value grid; and an 
+Export PDF Button that opens the \texttt{/print/beam} route and saves 
+the output as a PDF for the user.
+
+\subsubsection{Truss Solver}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/Truss.png}
+    \caption{Truss Solver System Flowchart}
+    \label{fig:truss_flowchart}
+\end{figure}
+
+When the TrussSolverUI mounts, the user is presented with four input 
+areas that all reactively update a MainFBD SVG canvas in real time. 
+These include the Supports Setup, where each support is defined by 
+its x, y coordinates and type (Pinned or Roller); Nodes Setup, where 
+joints are added or removed by specifying their x, y coordinates; 
+Members Setup, where each member is defined by selecting a start joint 
+and end joint; and Forces Setup, where external forces are assigned to 
+joints by specifying the joint, magnitude, and angle.
+
+Once the user clicks Calculate, the system calls \texttt{solveTruss} 
+from \texttt{lib/truss.ts} and proceeds through three major steps.
+
+\textbf{Step 1: Determinacy Check.} The system evaluates the 
+condition $m + r - 2j$. A result of zero indicates a statically 
+determinate truss and the solver proceeds. A result less than zero 
+triggers a warning for mechanism instability, while a result greater 
+than zero triggers a warning that the truss is indeterminate and the 
+solver is limited.
+
+\textbf{Step 2: Support Reactions.} The system checks for the 
+standard configuration of 1 pin and 1 roller. If present, it applies 
+the standard case: $\Sigma M$ about the pin equals zero for roller 
+$R_y$, $\Sigma F_y$ equals zero for pin $R_y$, and $\Sigma F_x$ 
+equals zero for pin $R_x$. Otherwise, it falls back to simultaneous 
+equilibrium equations solved via Gaussian elimination. Equilibrium is 
+then verified by confirming $\Sigma F_x = \Sigma F_y = \Sigma M = 0$.
+
+\textbf{Step 3: Method of Joints.} The system iterates over all 
+joints, checking the number of unknown members at each. Joints with 
+zero unknowns are skipped as already solved. Joints with one unknown 
+are solved using $\Sigma F_x = 0$ or $\Sigma F_y = 0$, selecting the 
+equation with the larger coefficient. Joints with two unknowns are 
+solved using Cramer's rule. Joints with three or more unknowns are 
+deferred to the next iteration. Each solved member is marked and its 
+force value stored, with a JointFBD SVG rendered per joint in the 
+solution steps. The iteration continues until all members are solved 
+and the solution is complete.
+
+The final solution state simultaneously renders five outputs: a 
+Member Forces Table displaying Tension, Compression, and Zero-force 
+badges; a Support Reactions Table showing Rx and Ry per joint; a 
+TrussStepRenderer with KaTeX step-by-step lines; the MainFBD redrawn 
+with color-coded members indicating Tension, Compression, or 
+Zero-force; and an Export PDF Button that encodes the payload as JSON, 
+opens the \texttt{/print/truss} route, and saves the output as a PDF 
+for the user.
+
+\subsubsection{Moment of Inertia Calculator}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/moi.drawio.png}
+    \caption{Moment of Inertia Calculator System Flowchart}
+    \label{fig:moi_flowchart}
+\end{figure}
+
+When the MOI Calculator mounts, the user is presented with shape 
+cards, one per composite shape. Shapes can be added or removed, and 
+each shape can be toggled as solid or hollow, where hollow shapes 
+contribute a negative area to the composite section. The user also 
+selects a reference axis, either Centroidal axis mode, which computes 
+the MOI about the composite centroid, or Custom axis mode, which 
+allows the user to enter custom x and y coordinates for the axis. 
+Each shape card requires the selection of a shape type, which 
+determines the required inputs: Polygon requires vertices (x, y) and 
+side connections; Circle requires radius and center (x, y); 
+Semi-circle requires radius, center (x, y), and orientation (1--4); 
+and Quarter-circle requires radius, center (x, y), and orientation 
+(1--4). All inputs feed into a ShapeCanvas, which provides a reactive 
+SVG preview that updates in real time.
+
+Once the user clicks Calculate, the system calls 
+\texttt{calculateResultant} from \texttt{lib/MOIEngine.ts}. Polygon 
+nodes are ordered by sides adjacency list, and \texttt{computeMOI} 
+is called per shape type using the appropriate formulas: Polygon uses 
+the Shoelace formula for area, Cx, Cy, Ix, and Iy with parallel axis 
+from origin; Circle uses $\pi r^{2}$ and $\pi r^{4}/4$; Semi-circle 
+uses $A = \pi r^{2}/2$ and $d = 4r/3\pi$ with $I_{parallel}$ and 
+$I_{perp}$ with centroid shifted by $d$; and Quarter-circle uses 
+$A = \pi r^{2}/4$ and $d = 4r/3\pi$ with $I_{centroidal}$ per axis 
+and centroid shifted by $d$ in both x and y. The results are 
+assembled into a step1 array containing per-shape area, Cx, Cy, 
+Ix\_own, and Iy\_own.
+
+The system then proceeds through the following computation steps. The 
+Composite Centroid is computed as $\sum A_{i} x_{i} / \sum A_{i}$ 
+and $\sum A_{i} y_{i} / \sum A_{i}$. The Parallel Axis Theorem is 
+then applied per shape, where $I_{x} = I_{x,own} + A \cdot dy^{2}$ 
+and $I_{y} = I_{y,own} + A \cdot dx^{2}$, transferring each shape's 
+MOI to the centroidal axis. The transferred values are stored in a 
+step3 array and summed to obtain $I_{x,centroid}$ and 
+$I_{y,centroid}$.
+
+The system then checks whether the axis type is Custom. If yes, it 
+calls \texttt{computeCustomAxis} from \texttt{lib/MOIcustom.ts}, 
+computing per shape $dx = axisX - centroidX$ and 
+$dy = axisY - centroidY$, then applying the Parallel Axis Theorem 
+again from the centroidal axis to the custom axis, and summing all 
+shapes to obtain $I_{x,custom}$ and $I_{y,custom}$. If no, the 
+system proceeds directly with the centroidal MOI results.
+
+The result state is then set, simultaneously rendering three outputs: 
+a Quick Results Panel showing Area, Cx, Cy, Ix, and Iy tiles; an 
+Export PDF Button that encodes stepLines and resultRows, opens the 
+\texttt{/print/moi} route, and saves the output as a PDF for the 
+user; and a MOIStepRenderer formatted using KaTeX. The step-by-step 
+solution is further branched by axis type. For the Centroidal axis, 
+it displays Step 1 covering individual shapes, Step 2 covering the 
+composite centroid, Step 3 covering the parallel axis per shape, and 
+Step 4 covering the composite centroidal MOI. For the Custom axis, it 
+displays Step 1 covering individual shapes, Step 2 covering the 
+parallel axis to the custom axis, and Step 3 covering the composite 
+custom MOI.
+
+%......
 
 \subsection{Website System Architecture}
 
-The \textit{Components} folder contained reusable elements of the website, specifically the Header and Footer, which helped maintain consistent navigation and accessibility across all pages. The \textit{Header} file inside this folder included the main navigation menu with the \textit{Home} button that redirected users to the homepage, along with a \textit{Topics} dropdown that provided quick access to various chapters and calculators such as: \\\textit{Chapter 1: Introduction to Statics}, \textit{Chapter 2: Force Systems with a 2D Resultant Solver}, \textit{Chapter 3: Equilibrium with an Equilibrium Solver}, \textit{Chapter 4: Structures with a Truss Calculator}, and \textit{Chapter 5: Distributed Loads}. This dropdown was designed to make browsing easier and more efficient for users.
+The \textit{Components} folder contains reusable elements of the 
+website, specifically the Header and Footer, which help maintain 
+consistent navigation and accessibility across all pages. The 
+\textit{Header} file inside this folder includes the main navigation 
+menu with a \textit{Home} button that redirects users to the 
+homepage, a \textit{Calculators} dropdown, a \textit{Modules} 
+dropdown, and a \textit{Take Our Survey} button that directs users to 
+the external survey form.
 
-The header also contained the About page that presented the purpose and background of the website. Meanwhile, the Footer file contained additional navigation links including \textit{About}, \textit{References}, \textit{Contact}, and \textit{Developers}. The About button directed users to the website's About page; the References page provided the sources used in developing the calculators and learning materials; the Contact page allowed users to reach the proponents of the thesis; and the Developers page displayed information about the creators of the website. These components together ensured that users could easily access important sections and navigate the site smoothly.
+The \textit{Calculators} dropdown provides quick access to all 
+integrated solver tools, including the 2D Resultant Force Calculator, 
+the 3D Resultant Force Calculator via Cartesian Vector method, the 3D 
+Resultant Force Calculator via Azimuth-Elevation method, the 
+Concurrent Unknown Forces and Angles Calculator, the Non-Concurrent 
+Beam Analysis solver, the Truss Analysis Calculator, and the Moment 
+of Inertia Calculator. The \textit{Modules} dropdown provides access 
+to eight learning modules, namely Module 1: Free Body Diagram, Module 
+2: 2D Resultant, Module 3: 3D Resultant, Module 4: 2D Equilibrium, 
+Module 5: 3D Equilibrium, Module 6: Truss Joint Method, Module 7: MOI 
+Centroidal Axis, and Module 8: MOI Custom Axis. These dropdowns are 
+designed to make browsing easier and more efficient for users.
 
-The \textit{Calcs} folder contained the core Java code files that powered the calculators integrated into the website. These files were responsible for performing the computational logic, processing user inputs, and generating the corresponding solutions based on engineering principles and formulas. Each calculator, such as those for force systems, equilibrium, truss analysis, and distributed loads, relied on the scripts stored in this folder to accurately compute results. This made the Calcs folder an essential component of the website's functionality, as it handled the main calculation processes that supported the learning and problem-solving features of the platform.
+Meanwhile, the Footer file contains 
+additional navigation links including \textit{About}, 
+\textit{References}, and \textit{Developers}. The 
+About button directs users to the website's About page; the 
+References page provides the sources used in developing the 
+calculators and learning materials; and the Developers page displays 
+information about the creators of the website. These components 
+together ensure that users can easily access important sections and 
+navigate the site smoothly.
 
-The \textit{App} folder contained all the front-end code for all website pages, styled using Tailwind CSS, which controlled their visual layout, responsiveness, and overall user interface. Each page inside the App folder was responsible for either displaying calculators, such as for 2D Resultant, 3D Solver, Equilibrium, Distributed Loads, and Structural Analysis, or for providing supporting information, such as Introduction, References, About, Contact, and Developer details. The Tailwind CSS classes ensured that all these pages were consistently designed, user-friendly, and visually appealing, making navigation smooth and calculator usage clear and efficient. In summary, the App folder managed the appearance, layout, and behavior of both the calculator and informational pages from the user's perspective.
+The \textit{Calcs} folder contains the core Java code files that 
+power the calculators integrated into the website. These files are 
+responsible for performing the computational logic, processing user 
+inputs, and generating the corresponding solutions based on 
+engineering principles and formulas. Each calculator, such as those 
+for force systems, equilibrium, truss analysis, and distributed 
+loads, relies on the scripts stored in this folder to accurately 
+compute results. This makes the Calcs folder an essential component 
+of the website's functionality, as it handles the main calculation 
+processes that support the learning and problem-solving features of 
+the platform.
+
+The \textit{App} folder contains all the front-end code for all 
+website pages, styled using Tailwind CSS, which controls their visual 
+layout, responsiveness, and overall user interface. Each page inside 
+the App folder is responsible for either displaying calculators, such 
+as for 2D Resultant, 3D Solver, Equilibrium, Distributed Loads, and 
+Structural Analysis, or for providing supporting information, such as 
+Introduction, References, About, Contact, and Developer details. The 
+Tailwind CSS classes ensure that all these pages are consistently 
+designed, user-friendly, and visually appealing, making navigation 
+smooth and calculator usage clear and efficient. In summary, the App 
+folder manages the appearance, layout, and behavior of both the 
+calculator and informational pages from the user's perspective.
 
 
 %---------------------------------------------------------------------
