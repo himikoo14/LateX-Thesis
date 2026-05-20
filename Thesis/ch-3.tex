@@ -298,10 +298,18 @@ a PDF for the user.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{assets/Concurent.png}
+    \makebox[\textwidth][c]{\includegraphics[width=1.2\textwidth]{assets/Concurent.png}}
     \caption{Equilibrium of Concurrent Force System Flowchart}
     \label{fig:concurrent_flowchart}
 \end{figure}
+
+\begin{figure}[H]
+    \centering
+    \makebox[\textwidth][c]{\includegraphics[width=1.2\textwidth]{assets/Concurent 2.png}}
+    \caption{Equilibrium of Concurrent Force System Flowchart (continued)}
+    \label{fig:concurrent_flowchart_2}
+\end{figure}
+
 
 When the Equilibrium module loads, it checks the URL parameter 
 (\texttt{?tab=}) to determine which solver to render. If set to 
@@ -353,11 +361,14 @@ Solver}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{assets/non-concurent.png}
+    \rotatebox{-90}{%
+        \includegraphics[height=0.89\textwidth, width=0.89\textheight, keepaspectratio]{assets/non-concurent.png}
+    }
     \caption{Equilibrium of Non-Concurrent Force System (Beam Solver) 
     Flowchart}
     \label{fig:nonconcurrent_flowchart}
 \end{figure}
+
 
 If the URL parameter is set to \texttt{nonconcurrent}, the BeamPage 
 with the BeamSolverUI component is rendered. The user is presented 
@@ -383,12 +394,21 @@ Export PDF Button that opens the \texttt{/print/beam} route and saves
 the output as a PDF for the user.
 
 \subsubsection{Truss Solver}
+\vspace{-1cm}
+\begin{figure}[H]
+    \centering
+    \rotatebox{-90}{%
+        \includegraphics[height=0.9\textwidth, width=0.9\textheight, keepaspectratio]{assets/Truss 1.png}
+    }
+    \caption{Truss Solver System Flowchart}
+    \label{fig:truss_flowchart}
+\end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{assets/Truss.png}
-    \caption{Truss Solver System Flowchart}
-    \label{fig:truss_flowchart}
+    \includegraphics[width=0.95\textwidth]{assets/Truss 2.png}
+    \caption{Truss Solver System Flowchart (continued)}
+    \label{fig:truss_flowchart_2}
 \end{figure}
 
 When the TrussSolverUI mounts, the user is presented with four input 

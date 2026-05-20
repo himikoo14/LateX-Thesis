@@ -1,7 +1,7 @@
 \babel@toc {american}{}\relax 
 \contentsline {chapter}{Title Page}{i}{Doc-Start}%
 \contentsline {chapter}{List of Figures}{viii}{chapter*.2}%
-\contentsline {chapter}{List of Tables}{ix}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{x}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background of the Study}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Statement of the Problem}{2}{section.1.2}%
@@ -34,33 +34,34 @@
 \contentsline {subsubsection}{2D/3D Resultant Force Calculator}{34}{subsubsection*.8}%
 \contentsline {subsubsection}{3D Resultant Force Calculator -- Angles Tab}{36}{subsubsection*.10}%
 \contentsline {subsubsection}{3D Resultant Force Calculator -- Coordinates Tab}{38}{subsubsection*.12}%
-\contentsline {subsubsection}{Equilibrium of Concurrent Force System}{40}{subsubsection*.14}%
-\contentsline {subsubsection}{Equilibrium of Non-Concurrent Force System -- Beam Solver}{42}{subsubsection*.16}%
-\contentsline {subsubsection}{Truss Solver}{43}{subsubsection*.18}%
-\contentsline {subsubsection}{Moment of Inertia Calculator}{46}{subsubsection*.20}%
-\contentsline {subsection}{\numberline {3.4.4}Website System Architecture}{48}{subsection.3.4.4}%
-\contentsline {section}{\numberline {3.5}Research Instrument}{50}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Statistical Tools}{51}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Statistical Treatment}{54}{section.3.7}%
-\contentsline {chapter}{\numberline {4}Results and Discussions}{55}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Level of Perception of Students Regarding StatiCalcs in Terms of Usability}{55}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Level of Perception of Students Regarding StatiCalcs in Terms of Accessibility}{57}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Level of Perception of Students Regarding StatiCalcs in Terms of Satisfaction}{59}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Level of Perception of Instructors Regarding StatiCalcs in Terms of Usability}{60}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Level of Perception of Instructors Regarding StatiCalcs in Terms of Accessibility}{62}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Level of Perception of Instructors Regarding StatiCalcs in Terms of Satisfaction}{63}{section.4.6}%
-\contentsline {section}{\numberline {4.7}The Preference of Students for Different Learning Resources in Studying Statics of Rigid Bodies}{65}{section.4.7}%
-\contentsline {section}{\numberline {4.8}The Preference of Instructors for Different Learning Resources in Studying Statics of Rigid Bodies}{66}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Significant Difference Between the Perceptions of Students and Instructors Regarding StatiCalcs}{67}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Respondents’ Comments and Suggestions Regarding StatiCalcs}{68}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Summary, Conclusion, and Recommendations}{70}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary of Findings}{70}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Conclusions}{72}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Recommendations}{73}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Recommendations}{73}{section.5.4}%
-\contentsline {chapter}{References}{79}{chapter*.34}%
-\contentsline {chapter}{Appendix A}{80}{appendix*.35}%
-\contentsline {chapter}{Appendix B}{85}{appendix*.38}%
-\contentsline {chapter}{Appendix C}{105}{appendix*.89}%
-\contentsline {chapter}{Curriculum Vitae}{117}{appendix*.90}%
-\contentsline {chapter}{Curriculum Vitae}{118}{appendix*.91}%
+\contentsline {subsubsection}{Equilibrium of Concurrent Force System}{39}{subsubsection*.14}%
+\contentsline {subsubsection}{Equilibrium of Non-Concurrent Force System -- Beam Solver}{42}{subsubsection*.17}%
+\contentsline {subsubsection}{Truss Solver}{44}{subsubsection*.19}%
+\contentsline {subsubsection}{Moment of Inertia Calculator}{48}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {3.4.4}Website System Architecture}{50}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Research Instrument}{52}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Statistical Tools}{53}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Statistical Treatment}{56}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Results and Discussions}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Level of Perception of Students Regarding StatiCalcs in Terms of Usability}{57}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Level of Perception of Students Regarding StatiCalcs in Terms of Accessibility}{59}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Level of Perception of Students Regarding StatiCalcs in Terms of Satisfaction}{61}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Level of Perception of Instructors Regarding StatiCalcs in Terms of Usability}{62}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Level of Perception of Instructors Regarding StatiCalcs in Terms of Accessibility}{64}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Level of Perception of Instructors Regarding StatiCalcs in Terms of Satisfaction}{65}{section.4.6}%
+\contentsline {section}{\numberline {4.7}The Preference of Students for Different Learning Resources in Studying Statics of Rigid Bodies}{67}{section.4.7}%
+\contentsline {section}{\numberline {4.8}The Preference of Instructors for Different Learning Resources in Studying Statics of Rigid Bodies}{68}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Significant Difference Between the Perceptions of Students and Instructors Regarding StatiCalcs}{69}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Respondents’ Comments and Suggestions Regarding StatiCalcs}{70}{section.4.10}%
+\contentsline {section}{\numberline {4.11}User Testing Period Overview}{71}{section.4.11}%
+\contentsline {chapter}{\numberline {5}Summary, Conclusion, and Recommendations}{74}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Findings}{74}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Conclusions}{76}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Recommendations}{77}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Recommendations}{77}{section.5.4}%
+\contentsline {chapter}{References}{83}{chapter*.38}%
+\contentsline {chapter}{Appendix A}{84}{appendix*.39}%
+\contentsline {chapter}{Appendix B}{89}{appendix*.42}%
+\contentsline {chapter}{Appendix C}{109}{appendix*.93}%
+\contentsline {chapter}{Curriculum Vitae}{121}{appendix*.94}%
+\contentsline {chapter}{Curriculum Vitae}{122}{appendix*.95}%

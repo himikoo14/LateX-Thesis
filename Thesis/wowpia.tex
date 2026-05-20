@@ -1,0 +1,90 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{datetime}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{User Testing Period Report}
+\lhead{May 2 -- May 15, 2026}
+\rfoot{\thepage}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+\begin{document}
+
+%---------------------------------------------------------------------
+% Title Page
+%---------------------------------------------------------------------
+
+
+
+\vspace{1em}
+\hrule
+\vspace{2em}
+
+%---------------------------------------------------------------------
+% Section 1: Executive Summary
+%---------------------------------------------------------------------
+
+\section{User Testing Period Overview}
+
+Over the 15-day testing period from May 1 to May 15, 2026, all system
+activity was monitored and recorded on a daily basis. The system
+processed a total of \textbf{16,756 requests} with a \textbf{0\% error
+rate}, reflecting consistent and reliable performance throughout.
+
+\vspace{1em}
+
+\begin{table}[H]
+\centering
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|X|}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Testing Period & May 1 -- May 15, 2026 \\
+\hline
+Total Requests & \textbf{16,756} \\
+\hline
+Total Errors & 0 (0\%) \\
+\hline
+Peak Single-Day Requests & $\sim$2,740 --- May 11, 7:00 PM \\
+\hline
+Average Daily Requests & $\sim$1,197 \\
+\hline
+Blocked Requests & Not Available (Log Drains not connected) \\
+\hline
+\end{tabularx}
+\caption{Summary of Key Metrics}
+\end{table}
+
+
+Over the 15-day testing period, the system processed a total of 16,756 requests with a 0\% error rate. A request refers to any single interaction sent to the system, such as a user submitting a form, loading a page, or triggering a feature, that the system must receive and respond to.
+
+Usage was not uniform throughout the period. Most days recorded low activity ranging between 60 and 200 requests, averaging around 1,197 requests per day. May 9 stood out with 1,000 requests, roughly five times the typical daily volume, while May 11 represented the clear peak of the entire period at 2,700 requests. Despite this surge, the system absorbed the load without any slowdowns or reported failures, proving it can handle sudden heavy usage reliably.
+
+Activity dropped sharply on May 12 and 13 to just 150 and 100 requests respectively, consistent with a weekend pattern and suggesting the traffic was driven by real users rather than automated processes. Usage recovered toward the end of the period, with May 14 recording 400 requests and May 15 closing at 250.
+
+Overall, the system demonstrated strong stability and reliability throughout the entire testing window.
+
+
+
+\vspace{2em}
+\begin{center}
+\textit{End of Report \quad | \quad Prepared: May 20, 2026}
+\end{center}
+
+\end{document}

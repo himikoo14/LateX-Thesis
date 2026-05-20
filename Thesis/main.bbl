@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global/global}
-    \entry{abumandour_applying_2021}{article}{}{}
+  \datalist[entry]{nty/global//global/global}
+    \entry{abumandour_applying_2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1432e031f149f4b23cc36505e5800562}{%
            family={Abumandour},
@@ -30,12 +30,10 @@
       }
       \strng{namehash}{1432e031f149f4b23cc36505e5800562}
       \strng{fullhash}{1432e031f149f4b23cc36505e5800562}
-      \strng{fullhashraw}{1432e031f149f4b23cc36505e5800562}
       \strng{bibnamehash}{1432e031f149f4b23cc36505e5800562}
       \strng{authorbibnamehash}{1432e031f149f4b23cc36505e5800562}
       \strng{authornamehash}{1432e031f149f4b23cc36505e5800562}
       \strng{authorfullhash}{1432e031f149f4b23cc36505e5800562}
-      \strng{authorfullhashraw}{1432e031f149f4b23cc36505e5800562}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \true{singletitle}
@@ -61,7 +59,7 @@
       \verb Full Text PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\XY5N7D6Q\\Abumandour - 2021 - Applying e-learning system for engineering education – challenges and obstacles.pdf:application/pdf
       \endverb
     \endentry
-    \entry{apuke_quantitative_2017}{article}{}{}
+    \entry{apuke_quantitative_2017}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1fdeefbf5ac1ab037dc11ac034d31ca8}{%
            family={Apuke},
@@ -72,12 +70,10 @@
       }
       \strng{namehash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \strng{fullhash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
-      \strng{fullhashraw}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \strng{bibnamehash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \strng{authorbibnamehash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \strng{authornamehash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \strng{authorfullhash}{1fdeefbf5ac1ab037dc11ac034d31ca8}
-      \strng{authorfullhashraw}{1fdeefbf5ac1ab037dc11ac034d31ca8}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \true{singletitle}
@@ -102,7 +98,7 @@
       \verb Full Text PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\83RSUVEF\\Apuke - 2017 - Quantitative Research Methods A Synopsis Approach.pdf:application/pdf
       \endverb
     \endentry
-    \entry{de_la_hoz_promoting_2022}{inproceedings}{}{}
+    \entry{de_la_hoz_promoting_2022}{inproceedings}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=119ea6ef608551d9c6dc183fb58bf66e}{%
            family={De\bibnamedelima La\bibnamedelima Hoz},
@@ -137,12 +133,10 @@
       }
       \strng{namehash}{ad84c174166ad185dbe6e3406b9de17d}
       \strng{fullhash}{15a422f8951ade03dc939e798e4eae8d}
-      \strng{fullhashraw}{15a422f8951ade03dc939e798e4eae8d}
       \strng{bibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
       \strng{authorbibnamehash}{ad84c174166ad185dbe6e3406b9de17d}
       \strng{authornamehash}{ad84c174166ad185dbe6e3406b9de17d}
       \strng{authorfullhash}{15a422f8951ade03dc939e798e4eae8d}
-      \strng{authorfullhashraw}{15a422f8951ade03dc939e798e4eae8d}
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
@@ -165,7 +159,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\X2RT3VTY\\De La Hoz et al. - 2022 - Promoting Students' Conceptual Change in Statics through Self-Explanation Strategy in a Remote Learn.pdf:application/pdf
       \endverb
     \endentry
-    \entry{de_la_hoz_self-explanation_2023}{article}{}{}
+    \entry{de_la_hoz_self-explanation_2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e499c52438f2b0c56fd36bde70946f51}{%
            family={De\bibnamedelima La\bibnamedelima Hoz},
@@ -188,12 +182,10 @@
       }
       \strng{namehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{fullhash}{21d6ec195b432d76949f74b4af849ddb}
-      \strng{fullhashraw}{21d6ec195b432d76949f74b4af849ddb}
       \strng{bibnamehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{authorbibnamehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{authornamehash}{521343eb702f8e625ec32d21fe901b48}
       \strng{authorfullhash}{21d6ec195b432d76949f74b4af849ddb}
-      \strng{authorfullhashraw}{21d6ec195b432d76949f74b4af849ddb}
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
@@ -221,7 +213,7 @@
       \endverb
       \keyw{conceptual change,incomplete worked examples,incorrect worked examples,problem solving,self-explanation,statics}
     \endentry
-    \entry{felix_analyzing_2023}{article}{}{}
+    \entry{felix_analyzing_2023}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=29451e38499a98be8665c67f023b1491}{%
            family={Felix},
@@ -232,12 +224,10 @@
       }
       \strng{namehash}{29451e38499a98be8665c67f023b1491}
       \strng{fullhash}{29451e38499a98be8665c67f023b1491}
-      \strng{fullhashraw}{29451e38499a98be8665c67f023b1491}
       \strng{bibnamehash}{29451e38499a98be8665c67f023b1491}
       \strng{authorbibnamehash}{29451e38499a98be8665c67f023b1491}
       \strng{authornamehash}{29451e38499a98be8665c67f023b1491}
       \strng{authorfullhash}{29451e38499a98be8665c67f023b1491}
-      \strng{authorfullhashraw}{29451e38499a98be8665c67f023b1491}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \true{singletitle}
@@ -254,7 +244,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\78558BM7\\Felix - 2023 - Analyzing the Impact of Declining Math Skills on College Readiness for Incoming Freshmen.pdf:application/pdf
       \endverb
     \endentry
-    \entry{fontaine_correlating_2024}{inproceedings}{}{}
+    \entry{fontaine_correlating_2024}{inproceedings}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fb135c5db356733ebf3fb47dc68dbd29}{%
            family={Fontaine},
@@ -277,12 +267,10 @@
       }
       \strng{namehash}{6587c7523bcef93611904dd44f4f5907}
       \strng{fullhash}{6587c7523bcef93611904dd44f4f5907}
-      \strng{fullhashraw}{6587c7523bcef93611904dd44f4f5907}
       \strng{bibnamehash}{6587c7523bcef93611904dd44f4f5907}
       \strng{authorbibnamehash}{6587c7523bcef93611904dd44f4f5907}
       \strng{authornamehash}{6587c7523bcef93611904dd44f4f5907}
       \strng{authorfullhash}{6587c7523bcef93611904dd44f4f5907}
-      \strng{authorfullhashraw}{6587c7523bcef93611904dd44f4f5907}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \true{singletitle}
@@ -305,7 +293,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\ZAH5C8CP\\Fontaine and Vallabh - 2024 - Correlating Common Errors in Statics Problem Solving with Spatial Ability.pdf:application/pdf
       \endverb
     \endentry
-    \entry{gfrerer_teaching_2023}{article}{}{}
+    \entry{gfrerer_teaching_2023}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=1173c89e05a701bda2b106d55245da9a}{%
            family={Gfrerer},
@@ -334,12 +322,10 @@
       }
       \strng{namehash}{ad10a172f12fc4b99b7dbf170771b68d}
       \strng{fullhash}{815e87b4f78488d2c24c89402ab32c1d}
-      \strng{fullhashraw}{815e87b4f78488d2c24c89402ab32c1d}
       \strng{bibnamehash}{ad10a172f12fc4b99b7dbf170771b68d}
       \strng{authorbibnamehash}{ad10a172f12fc4b99b7dbf170771b68d}
       \strng{authornamehash}{ad10a172f12fc4b99b7dbf170771b68d}
       \strng{authorfullhash}{815e87b4f78488d2c24c89402ab32c1d}
-      \strng{authorfullhashraw}{815e87b4f78488d2c24c89402ab32c1d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \true{singletitle}
@@ -369,7 +355,7 @@
       \endverb
       \keyw{Physics - Physics Education}
     \endentry
-    \entry{hassan_usability_2022}{article}{}{}
+    \entry{hassan_usability_2022}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=9d1a0305bba75c18c13ca4d5094a3ad7}{%
            family={Hassan},
@@ -410,12 +396,10 @@
       }
       \strng{namehash}{b3f9965a65e9dba24023c03d142c6bf3}
       \strng{fullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
-      \strng{fullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
       \strng{bibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
       \strng{authorbibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
       \strng{authornamehash}{b3f9965a65e9dba24023c03d142c6bf3}
       \strng{authorfullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
-      \strng{authorfullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \true{singletitle}
@@ -439,7 +423,7 @@
       \verb tianjindaxuexuebao.com/details.php?id=DOI:10.17605/OSF.IO/URSNJ
       \endverb
     \endentry
-    \entry{incierto_mathematics_nodate}{thesis}{}{}
+    \entry{incierto_mathematics_nodate}{thesis}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=77f2ef920bf1521ace8ed73b8b97de5a}{%
            family={Incierto},
@@ -462,12 +446,10 @@
       }
       \strng{namehash}{401bd6459c30f440387cfad72c78cac0}
       \strng{fullhash}{8fb354e0c85ca65edeccc87bfcd91426}
-      \strng{fullhashraw}{8fb354e0c85ca65edeccc87bfcd91426}
       \strng{bibnamehash}{401bd6459c30f440387cfad72c78cac0}
       \strng{authorbibnamehash}{401bd6459c30f440387cfad72c78cac0}
       \strng{authornamehash}{401bd6459c30f440387cfad72c78cac0}
       \strng{authorfullhash}{8fb354e0c85ca65edeccc87bfcd91426}
-      \strng{authorfullhashraw}{8fb354e0c85ca65edeccc87bfcd91426}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \true{singletitle}
@@ -487,7 +469,7 @@
       \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
       \endverb
     \endentry
-    \entry{johnson_customer_2001}{article}{}{}
+    \entry{johnson_customer_2001}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=041d9d4248f654c0e34e66212b3c0310}{%
            family={Johnson},
@@ -498,12 +480,10 @@
       }
       \strng{namehash}{041d9d4248f654c0e34e66212b3c0310}
       \strng{fullhash}{041d9d4248f654c0e34e66212b3c0310}
-      \strng{fullhashraw}{041d9d4248f654c0e34e66212b3c0310}
       \strng{bibnamehash}{041d9d4248f654c0e34e66212b3c0310}
       \strng{authorbibnamehash}{041d9d4248f654c0e34e66212b3c0310}
       \strng{authornamehash}{041d9d4248f654c0e34e66212b3c0310}
       \strng{authorfullhash}{041d9d4248f654c0e34e66212b3c0310}
-      \strng{authorfullhashraw}{041d9d4248f654c0e34e66212b3c0310}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \true{singletitle}
@@ -526,7 +506,7 @@
       \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\AFR3VCIQ\\B008043076704273X.html:text/html
       \endverb
     \endentry
-    \entry{nielsen_10_1994}{online}{}{}
+    \entry{nielsen_10_1994}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
            family={Nielsen},
@@ -537,12 +517,10 @@
       }
       \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
-      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
       \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
-      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \true{singletitle}
@@ -570,7 +548,7 @@
       \verb www.nngroup.com/articles/ten-usability-heuristics/
       \endverb
     \endentry
-    \entry{paulin_effectiveness_2024}{article}{}{}
+    \entry{paulin_effectiveness_2024}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0c362d5f31eec14e7dda7519b2d90dc9}{%
            family={Paulin},
@@ -587,12 +565,10 @@
       }
       \strng{namehash}{e208260abbf351c575b0c5b614f86987}
       \strng{fullhash}{e208260abbf351c575b0c5b614f86987}
-      \strng{fullhashraw}{e208260abbf351c575b0c5b614f86987}
       \strng{bibnamehash}{e208260abbf351c575b0c5b614f86987}
       \strng{authorbibnamehash}{e208260abbf351c575b0c5b614f86987}
       \strng{authornamehash}{e208260abbf351c575b0c5b614f86987}
       \strng{authorfullhash}{e208260abbf351c575b0c5b614f86987}
-      \strng{authorfullhashraw}{e208260abbf351c575b0c5b614f86987}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \true{singletitle}
@@ -619,7 +595,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\YHN968WM\\Paulin and Jean Baptiste - 2024 - Effectiveness of the Symbolab Calculator in Improving Second Year Science and Mathematics Students A.pdf:application/pdf
       \endverb
     \endentry
-    \entry{pedraza_assessing_2025}{article}{}{}
+    \entry{pedraza_assessing_2025}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ccdfeabe49c684b1d3dc775d64762e18}{%
            family={Pedraza},
@@ -636,12 +612,10 @@
       }
       \strng{namehash}{3da716dbe67869efe223fba61acfbdc6}
       \strng{fullhash}{3da716dbe67869efe223fba61acfbdc6}
-      \strng{fullhashraw}{3da716dbe67869efe223fba61acfbdc6}
       \strng{bibnamehash}{3da716dbe67869efe223fba61acfbdc6}
       \strng{authorbibnamehash}{3da716dbe67869efe223fba61acfbdc6}
       \strng{authornamehash}{3da716dbe67869efe223fba61acfbdc6}
       \strng{authorfullhash}{3da716dbe67869efe223fba61acfbdc6}
-      \strng{authorfullhashraw}{3da716dbe67869efe223fba61acfbdc6}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \true{singletitle}
@@ -662,7 +636,7 @@
       \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\VYWQRP2D\\6254.html:text/html
       \endverb
     \endentry
-    \entry{salami_challenges_2025}{inproceedings}{}{}
+    \entry{salami_challenges_2025}{inproceedings}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3a157315beb004bcf5388aded4be8da8}{%
            family={Salami},
@@ -685,12 +659,10 @@
       }
       \strng{namehash}{81732821ad00c4a1a5416da82bdec3a3}
       \strng{fullhash}{81732821ad00c4a1a5416da82bdec3a3}
-      \strng{fullhashraw}{81732821ad00c4a1a5416da82bdec3a3}
       \strng{bibnamehash}{81732821ad00c4a1a5416da82bdec3a3}
       \strng{authorbibnamehash}{81732821ad00c4a1a5416da82bdec3a3}
       \strng{authornamehash}{81732821ad00c4a1a5416da82bdec3a3}
       \strng{authorfullhash}{81732821ad00c4a1a5416da82bdec3a3}
-      \strng{authorfullhashraw}{81732821ad00c4a1a5416da82bdec3a3}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \true{singletitle}
@@ -714,7 +686,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\H68WD3B8\\Salami and Perry - 2025 - Challenges in Engineering Statics Students' Perceptions of Their Difficulties.pdf:application/pdf
       \endverb
     \endentry
-    \entry{salami_exploring_2024}{inproceedings}{}{}
+    \entry{salami_exploring_2024}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=1,uniquepart=given,hash=b51db44d11ff57360f4b352b509f980b}{%
            family={Salami},
@@ -743,12 +715,10 @@
       }
       \strng{namehash}{ec99efcf3f4260bde340deb7a81db949}
       \strng{fullhash}{a7c16298789b396f1a31704adf6a2c3d}
-      \strng{fullhashraw}{a7c16298789b396f1a31704adf6a2c3d}
       \strng{bibnamehash}{ec99efcf3f4260bde340deb7a81db949}
       \strng{authorbibnamehash}{ec99efcf3f4260bde340deb7a81db949}
       \strng{authornamehash}{ec99efcf3f4260bde340deb7a81db949}
       \strng{authorfullhash}{a7c16298789b396f1a31704adf6a2c3d}
-      \strng{authorfullhashraw}{a7c16298789b396f1a31704adf6a2c3d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \true{singletitle}
@@ -772,7 +742,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\W39N9LUF\\Salami et al. - 2024 - Exploring High DFW Rates in an Engineering Statics Course Insights from Faculty and Teaching Assist.pdf:application/pdf
       \endverb
     \endentry
-    \entry{segarra_does_2024}{article}{}{}
+    \entry{segarra_does_2024}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=24d86343fb56585102b75edf6531e047}{%
            family={Segarra},
@@ -789,12 +759,10 @@
       }
       \strng{namehash}{a6b8e3d7847d9c5d660ccc860953f26d}
       \strng{fullhash}{a6b8e3d7847d9c5d660ccc860953f26d}
-      \strng{fullhashraw}{a6b8e3d7847d9c5d660ccc860953f26d}
       \strng{bibnamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
       \strng{authorbibnamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
       \strng{authornamehash}{a6b8e3d7847d9c5d660ccc860953f26d}
       \strng{authorfullhash}{a6b8e3d7847d9c5d660ccc860953f26d}
-      \strng{authorfullhashraw}{a6b8e3d7847d9c5d660ccc860953f26d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \true{singletitle}
@@ -821,7 +789,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\X2VDIIHZ\\Segarra and Cabrera-Martínez - 2024 - Does the use of the calculator reduce anxiety in the study of differential and integral calculus.pdf:application/pdf
       \endverb
     \endentry
-    \entry{sollradl_symbolic_nodate}{article}{}{}
+    \entry{sollradl_symbolic_nodate}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fcc0499e8fdd0fd4d5bc5717da0e6676}{%
            family={Söllradl},
@@ -832,12 +800,10 @@
       }
       \strng{namehash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \strng{fullhash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
-      \strng{fullhashraw}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \strng{bibnamehash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \strng{authorbibnamehash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \strng{authornamehash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \strng{authorfullhash}{fcc0499e8fdd0fd4d5bc5717da0e6676}
-      \strng{authorfullhashraw}{fcc0499e8fdd0fd4d5bc5717da0e6676}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \true{singletitle}
@@ -849,7 +815,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\C73GXIXW\\Söllradl - Symbolic calculation of beam structures.pdf:application/pdf
       \endverb
     \endentry
-    \entry{szymkowiak_information_2021}{article}{}{}
+    \entry{szymkowiak_information_2021}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=26fecf4c0d6f11e79d55095952926f97}{%
            family={Szymkowiak},
@@ -884,12 +850,10 @@
       }
       \strng{namehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
       \strng{fullhash}{e368ec1af51508b8299ad6a5944e84f0}
-      \strng{fullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
       \strng{bibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
       \strng{authorbibnamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
       \strng{authornamehash}{15c1cb9ebd1c6c920b4514a23e6c5b4f}
       \strng{authorfullhash}{e368ec1af51508b8299ad6a5944e84f0}
-      \strng{authorfullhashraw}{e368ec1af51508b8299ad6a5944e84f0}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \true{singletitle}
@@ -916,7 +880,7 @@
       \endverb
       \keyw{Gen Z,Internet,Knowledge,Technology}
     \endentry
-    \entry{tawafak_innovative_2021}{article}{}{}
+    \entry{tawafak_innovative_2021}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=01d94d4b9300b2967ea39de968b43d7a}{%
            family={Tawafak},
@@ -939,12 +903,10 @@
       }
       \strng{namehash}{67ce44827e30b3ccbaad210b0d7d3697}
       \strng{fullhash}{b19aa7ec01f6e3cb29dc5584c5d29f47}
-      \strng{fullhashraw}{b19aa7ec01f6e3cb29dc5584c5d29f47}
       \strng{bibnamehash}{67ce44827e30b3ccbaad210b0d7d3697}
       \strng{authorbibnamehash}{67ce44827e30b3ccbaad210b0d7d3697}
       \strng{authornamehash}{67ce44827e30b3ccbaad210b0d7d3697}
       \strng{authorfullhash}{b19aa7ec01f6e3cb29dc5584c5d29f47}
-      \strng{authorfullhashraw}{b19aa7ec01f6e3cb29dc5584c5d29f47}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \true{singletitle}
@@ -971,7 +933,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\IKEZXPIN\\Tawafak et al. - 2021 - Innovative Smart Phone Learning System for Graphical Systems within COVID-19 Pandemic.pdf:application/pdf
       \endverb
     \endentry
-    \entry{wenceslao_mathematical_2022}{article}{}{}
+    \entry{wenceslao_mathematical_2022}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d63f265c34a8e491d08ab4075720cd34}{%
            family={Wenceslao},
@@ -982,12 +944,10 @@
       }
       \strng{namehash}{d63f265c34a8e491d08ab4075720cd34}
       \strng{fullhash}{d63f265c34a8e491d08ab4075720cd34}
-      \strng{fullhashraw}{d63f265c34a8e491d08ab4075720cd34}
       \strng{bibnamehash}{d63f265c34a8e491d08ab4075720cd34}
       \strng{authorbibnamehash}{d63f265c34a8e491d08ab4075720cd34}
       \strng{authornamehash}{d63f265c34a8e491d08ab4075720cd34}
       \strng{authorfullhash}{d63f265c34a8e491d08ab4075720cd34}
-      \strng{authorfullhashraw}{d63f265c34a8e491d08ab4075720cd34}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \true{singletitle}
@@ -1014,7 +974,7 @@
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\DUKKC4HI\\Wenceslao - 2022 - Mathematical Readiness of Freshmen Engineering Students (K-12 2020 Graduates) in Eastern Visayas in.pdf:application/pdf
       \endverb
     \endentry
-    \entry{world_wide_web_consortium_w3c_web_nodate}{online}{}{}
+    \entry{world_wide_web_consortium_w3c_web_nodate}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=66c3509f57565d7fbe270a57a403004c}{%
            family={{World Wide Web Consortium (W3C)}},
@@ -1022,12 +982,10 @@
       }
       \strng{namehash}{66c3509f57565d7fbe270a57a403004c}
       \strng{fullhash}{66c3509f57565d7fbe270a57a403004c}
-      \strng{fullhashraw}{66c3509f57565d7fbe270a57a403004c}
       \strng{bibnamehash}{66c3509f57565d7fbe270a57a403004c}
       \strng{authorbibnamehash}{66c3509f57565d7fbe270a57a403004c}
       \strng{authornamehash}{66c3509f57565d7fbe270a57a403004c}
       \strng{authorfullhash}{66c3509f57565d7fbe270a57a403004c}
-      \strng{authorfullhashraw}{66c3509f57565d7fbe270a57a403004c}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \true{singletitle}
@@ -1048,7 +1006,7 @@
       \verb www.w3.org/TR/WCAG21/
       \endverb
     \endentry
-    \entry{zeichner_using_2020}{article}{}{}
+    \entry{zeichner_using_2020}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b9880672f2c7854d0468ff9988b9928}{%
            family={Zeichner},
@@ -1059,12 +1017,10 @@
       }
       \strng{namehash}{4b9880672f2c7854d0468ff9988b9928}
       \strng{fullhash}{4b9880672f2c7854d0468ff9988b9928}
-      \strng{fullhashraw}{4b9880672f2c7854d0468ff9988b9928}
       \strng{bibnamehash}{4b9880672f2c7854d0468ff9988b9928}
       \strng{authorbibnamehash}{4b9880672f2c7854d0468ff9988b9928}
       \strng{authornamehash}{4b9880672f2c7854d0468ff9988b9928}
       \strng{authorfullhash}{4b9880672f2c7854d0468ff9988b9928}
-      \strng{authorfullhashraw}{4b9880672f2c7854d0468ff9988b9928}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \true{singletitle}

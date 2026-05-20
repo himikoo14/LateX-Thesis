@@ -253,4 +253,101 @@ Despite the positive feedback, respondents also provided several recommendations
 
 A few respondents also identified certain limitations and technical concerns within the platform. These included incomplete content in some modules, assumptions and restrictions in certain calculators, and issues involving the concurrent force calculator when solving for unknown angles. Some respondents also noted that the platform is more appropriate as a supplementary reference tool rather than a replacement for fundamental learning and conceptual understanding. Nevertheless, the overall responses indicate that the respondents positively received the platform and recognized its strong potential for further enhancement and broader educational application.
 
+\section{User Testing Period Overview}
+
+Over the 15-day testing period from May 1 to May 15, 2026, all system
+activity was monitored and recorded on a daily basis. The system
+processed a total of \textbf{16,756 requests} with a \textbf{0\% error
+rate}, reflecting consistent and reliable performance throughout.
+
+\vspace{1em}
+
+\begin{table}[H]
+\centering
+\caption{Summary of Key Metrics}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Testing Period & May 1 -- May 15, 2026 \\
+\hline
+Total Requests & \textbf{16,756} \\
+\hline
+Total Errors & 0 (0\%) \\
+\hline
+Peak Single-Day Requests & $\sim$2,740 --- May 11, 7:00 PM \\
+\hline
+Average Daily Requests & $\sim$1,197 \\
+\hline
+Blocked Requests & Not Available (Log Drains not connected) \\
+\hline
+\end{tabular}
+\end{table}
+
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    bar width=0.4cm,
+    width=\textwidth,
+    height=8cm,
+    xlabel={Date (May)},
+    ylabel={Total Requests},
+    xlabel style={font=\small\bfseries, yshift=-4pt},
+    ylabel style={font=\small\bfseries, xshift=-4pt},
+    symbolic x coords={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15},
+    xtick=data,
+    x tick label style={font=\footnotesize},
+    y tick label style={font=\footnotesize},
+    ymin=0,
+    ymax=3200,
+    ytick={0, 500, 1000, 1500, 2000, 2500, 3000},
+    ymajorgrids=true,
+    grid style={dashed, gray!30},
+    axis line style={gray!50},
+    nodes near coords,
+    nodes near coords align={vertical},
+    every node near coord/.append style={font=\footnotesize\bfseries, color=black},
+    enlarge x limits=0.04,
+]
+\addplot[
+    fill=blue!50!black!70,
+    draw=blue!50!black!90,
+    fill opacity=0.85
+] coordinates {
+    (1,   20)
+    (2,  180)
+    (3,   90)
+    (4,   80)
+    (5,  130)
+    (6,   60)
+    (7,  510)
+    (8,  200)
+    (9,  1000)
+    (10, 200)
+    (11, 2700)
+    (12, 150)
+    (13, 100)
+    (14, 400)
+    (15, 250)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Daily Request Volume --- May 1--15, 2026}
+\label{fig:daily_requests}
+\end{figure}
+
+
+Over the 15-day testing period, the system processed a total of 16,756 requests with a 0\% error rate. A request refers to any single interaction sent to the system, such as a user submitting a form, loading a page, or triggering a feature, that the system must receive and respond to.
+
+Usage was not uniform throughout the period. Most days recorded low activity ranging between 60 and 200 requests, averaging around 1,197 requests per day. May 9 stood out with 1,000 requests, roughly five times the typical daily volume, while May 11 represented the clear peak of the entire period at 2,700 requests. Despite this surge, the system absorbed the load without any slowdowns or reported failures, proving it can handle sudden heavy usage reliably.
+
+Activity dropped sharply on May 12 and 13 to just 150 and 100 requests respectively, consistent with a weekend pattern and suggesting the traffic was driven by real users rather than automated processes. Usage recovered toward the end of the period, with May 14 recording 400 requests and May 15 closing at 250.
+
+Overall, the system demonstrated strong stability and reliability throughout the entire testing window.
+
+
+
 %
