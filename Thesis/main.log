@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  20 MAY 2026 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  21 MAY 2026 06:44
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1498,11 +1498,6 @@ Package pdftex.def Info: ./assets/logo2.jpg  used on input line 34.
 [2
 
 ]
-Overfull \hbox (0.94247pt too wide) in paragraph at lines 49--49
- [][] [][]\OT1/cmr/m/n/10.95 (-20) Level of Pref-er-ence of Stu-dents for Dif-fer-ent Learn-ing Re-sources in Study-ing 
- []
-
-
 
 [3])
 \tf@toc=\write6
@@ -1510,21 +1505,42 @@ Overfull \hbox (0.94247pt too wide) in paragraph at lines 49--49
 
 
 
-[4] (main.lof)
+[4] (main.lof
+
+[5
+
+]
+Overfull \hbox (7.45103pt too wide) in paragraph at lines 33--33
+ \OT1/cmr/m/n/10.95 (-20) text-books, mod-ules, and on-line videos, Stat-i-Calcs pro-vides a more con-ve-nient 
+ []
+
+
+
+[6]
+Overfull \hbox (4.41618pt too wide) in paragraph at lines 44--44
+ [][] [][]\OT1/cmr/m/n/10.95 (-20) Distribution of in-struc-tors' re-sponses for the state-ment: ``Over-all, Stat-i-Calcs 
+ []
+
+
+Overfull \hbox (4.41618pt too wide) in paragraph at lines 49--49
+ [][] [][]\OT1/cmr/m/n/10.95 (-20) Distribution of in-struc-tors' re-sponses for the state-ment: ``Over-all, Stat-i-Calcs 
+ []
+
+
+
+[7])
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
 
 
-[5
-
-] (main.lot)
+[8] (main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[6
+[9
 
 ]
 \openout2 = `ch-1.aux'.
@@ -1567,32 +1583,32 @@ Overfull \hbox (7.51436pt too wide) in paragraph at lines 187--188
 
 
 [8]
-<assets/finalconcept.png, id=276, 1507.6325pt x 474.77374pt>
+<assets/finalconcept.png, id=424, 1507.6325pt x 474.77374pt>
 File: assets/finalconcept.png Graphic file (type png)
 <use assets/finalconcept.png>
-Package pdftex.def Info: assets/finalconcept.png  used on input line 212.
+Package pdftex.def Info: assets/finalconcept.png  used on input line 213.
 (pdftex.def)             Requested size: 375.14705pt x 118.13531pt.
 
 
 [9 <./assets/finalconcept.png>]
-Underfull \hbox (badness 1910) in paragraph at lines 268--268
+Underfull \hbox (badness 1910) in paragraph at lines 269--269
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 268--268
+Underfull \hbox (badness 1596) in paragraph at lines 269--269
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 268--268
+Underfull \hbox (badness 1596) in paragraph at lines 269--269
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
 
 [10]
-Underfull \hbox (badness 1910) in paragraph at lines 268--268
+Underfull \hbox (badness 1910) in paragraph at lines 269--269
 \OT1/cmr/m/n/10.95 (+20) in-clud-ing trans-la-tional and ro-ta-tional mo-tion,
  []
 
@@ -1601,12 +1617,12 @@ Underfull \hbox (badness 1910) in paragraph at lines 268--268
 [11]
 
 [12]
-Underfull \hbox (badness 1596) in paragraph at lines 268--268
+Underfull \hbox (badness 1596) in paragraph at lines 269--269
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 268--268
+Underfull \hbox (badness 1596) in paragraph at lines 269--269
 []\OT1/cmr/m/n/10.95 (+20) The de-gree to which Bach-e-lor of Sci-ence in
  []
 
@@ -1688,7 +1704,7 @@ Overfull \hbox (14.10834pt too wide) in paragraph at lines 61--62
 
 
 [28]
-<assets/SystemFlow.jpg, id=421, 129.1224pt x 254.8722pt>
+<assets/SystemFlow.jpg, id=576, 129.1224pt x 254.8722pt>
 File: assets/SystemFlow.jpg Graphic file (type jpg)
 <use assets/SystemFlow.jpg>
 Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 84.
@@ -1696,7 +1712,7 @@ Package pdftex.def Info: assets/SystemFlow.jpg  used on input line 84.
 
 
 [29]
-<assets/finalchart.png, id=426, 1311.90125pt x 1045.9075pt>
+<assets/finalchart.png, id=581, 1311.90125pt x 1045.9075pt>
 File: assets/finalchart.png Graphic file (type png)
 <use assets/finalchart.png>
 Package pdftex.def Info: assets/finalchart.png  used on input line 110.
@@ -1708,7 +1724,7 @@ Package pdftex.def Info: assets/finalchart.png  used on input line 110.
 [31 <./assets/finalchart.png>]
 
 [32]
-<assets/2D.png, id=446, 808.52063pt x 863.47594pt>
+<assets/2D.png, id=600, 808.52063pt x 863.47594pt>
 File: assets/2D.png Graphic file (type png)
 <use assets/2D.png>
 Package pdftex.def Info: assets/2D.png  used on input line 184.
@@ -1722,7 +1738,7 @@ Overfull \hbox (19.05408pt too wide) in paragraph at lines 205--218
 []\OT1/cmr/m/n/10.95 (-20) Once the user clicks Cal-cu-late, the sys-tem pro-cesses each force through the \OT1/cmtt/m/n/10.95 ForceSystem2D
  []
 
-<assets/Angles Tab.png, id=458, 818.30719pt x 1135.24126pt>
+<assets/Angles Tab.png, id=613, 818.30719pt x 1135.24126pt>
 File: assets/Angles Tab.png Graphic file (type png)
 <use assets/Angles Tab.png>
 Package pdftex.def Info: assets/Angles Tab.png  used on input line 223.
@@ -1732,7 +1748,7 @@ Package pdftex.def Info: assets/Angles Tab.png  used on input line 223.
 [35]
 
 [36 <./assets/Angles Tab.png>]
-<assets/Corrdinates Tab.png, id=470, 1032.10594pt x 1027.58907pt>
+<assets/Corrdinates Tab.png, id=625, 1032.10594pt x 1027.58907pt>
 File: assets/Corrdinates Tab.png Graphic file (type png)
 <use assets/Corrdinates Tab.png>
 Package pdftex.def Info: assets/Corrdinates Tab.png  used on input line 264.
@@ -1742,7 +1758,7 @@ Package pdftex.def Info: assets/Corrdinates Tab.png  used on input line 264.
 [37]
 
 [38 <./assets/Corrdinates Tab.png>]
-<assets/Concurent.png, id=482, 1218.05063pt x 1206.00563pt>
+<assets/Concurent.png, id=636, 1218.05063pt x 1206.00563pt>
 File: assets/Concurent.png Graphic file (type png)
 <use assets/Concurent.png>
 Package pdftex.def Info: assets/Concurent.png  used on input line 301.
@@ -1756,7 +1772,7 @@ Overfull \hbox (12.94969pt too wide) in paragraph at lines 341--350
 []\OT1/cmr/m/n/10.95 (-20) All valid cases are routed through \OT1/cmtt/m/n/10.95 solveEquilibrium2D \OT1/cmr/m/n/10.95 (-20) from the \OT1/cmtt/m/n/10.95 lib/Equilibriumconc
  []
 
-<assets/non-concurent.png, id=494, 1644.89531pt x 792.71156pt>
+<assets/non-concurent.png, id=649, 1644.89531pt x 792.71156pt>
 File: assets/non-concurent.png Graphic file (type png)
 <use assets/non-concurent.png>
 Package pdftex.def Info: assets/non-concurent.png  used on input line 356.
@@ -1766,7 +1782,7 @@ Package pdftex.def Info: assets/non-concurent.png  used on input line 356.
 [41]
 
 [42 <./assets/non-concurent.png>]
-<assets/Truss.png, id=505, 1778.89594pt x 2329.20187pt>
+<assets/Truss.png, id=660, 1778.89594pt x 2329.20187pt>
 File: assets/Truss.png Graphic file (type png)
 <use assets/Truss.png>
 Package pdftex.def Info: assets/Truss.png  used on input line 389.
@@ -1776,7 +1792,7 @@ Package pdftex.def Info: assets/Truss.png  used on input line 389.
 [43 <./assets/Truss.png>]
 
 [44]
-<assets/moi.drawio.png, id=517, 1674.255pt x 2448.89906pt>
+<assets/moi.drawio.png, id=671, 1674.255pt x 2448.89906pt>
 File: assets/moi.drawio.png Graphic file (type png)
 <use assets/moi.drawio.png>
 Package pdftex.def Info: assets/moi.drawio.png  used on input line 445.
@@ -1827,17 +1843,12 @@ Overfull \hbox (43.12457pt too wide) in paragraph at lines 666--676
  (ch-4.tex
 Chapter 4.
 
-Underfull \hbox (badness 2478) in paragraph at lines 17--17
-[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+Underfull \hbox (badness 1755) in paragraph at lines 17--17
+[]|\OT1/cmr/m/n/10.95 (+20) The Stat-i-Calcs web-site is easy to
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 34--34
-[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
- []
-
-
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 28--40
+Overfull \hbox (6.1978pt too wide) in paragraph at lines 13--25
  [][] 
  []
 
@@ -1849,110 +1860,146 @@ Overfull \hbox (17.22787pt too wide) in paragraph at lines 28--40
 
 
 ]
+Underfull \hbox (badness 3792) in paragraph at lines 42--42
+[]|\OT1/cmr/m/n/10.95 (+20) The text and vi-sual el-e-ments of
+ []
 
-[56]
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 67--79
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/cmr/m/n/10.95 (+20) The lay-out makes im-por-tant
+ []
+
+
+Overfull \hbox (6.1978pt too wide) in paragraph at lines 38--50
  [][] 
  []
 
 
 
+[56]
+
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/cmr/m/n/10.95 (+20) I am sat-is-fied with my over-all
+ []
+
+
+Overfull \hbox (6.1978pt too wide) in paragraph at lines 64--76
+ [][] 
  []
 
 
 
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
- []
-
-
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 106--118
- [][] 
- []
-
-
 
 [59]
+Underfull \hbox (badness 1755) in paragraph at lines 94--94
+[]|\OT1/cmr/m/n/10.95 (+20) The Stat-i-Calcs web-site is easy to
+ []
+
+
+Overfull \hbox (6.1978pt too wide) in paragraph at lines 90--102
+ [][] 
+ []
+
+
 
 [60]
+Underfull \hbox (badness 3792) in paragraph at lines 121--121
+[]|\OT1/cmr/m/n/10.95 (+20) The text and vi-sual el-e-ments of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\OT1/cmr/m/n/10.95 (+20) The lay-out makes im-por-tant
+ []
+
+
+Overfull \hbox (6.1978pt too wide) in paragraph at lines 117--129
+ [][] 
+ []
+
+
 
 [61]
-Underfull \hbox (badness 2478) in paragraph at lines 174--174
-[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
- []
-
-
-Underfull \hbox (badness 2478) in paragraph at lines 191--191
-[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
- []
-
-
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 185--197
- [][] 
+Overfull \hbox (5.92232pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10.95 (-20) The re-sults in-di-cate that the in-struc-tor re-spon-dents pos-i-tively eval-u-ated the ac-ces-si-bil-ity
  []
 
 
 
 [62]
+Overfull \hbox (10.40674pt too wide) in paragraph at lines 133--134
+\OT1/cmr/m/n/10.95 (-20) high-lighted that web-based learn-ing en-vi-ron-ments should pro-mote flex-i-bil-ity and ac-ces-si-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|\OT1/cmr/m/n/10.95 (+20) I am sat-is-fied with my over-all
+ []
+
+
+Overfull \hbox (0.57837pt too wide) in paragraph at lines 144--156
+ [][] 
+ []
+
+
 
 [63]
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 224--236
- [][] 
- []
-
-
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 253--253
-[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
- []
-
-
 
 [65]
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
-[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+Underfull \hbox (badness 1226) in paragraph at lines 200--200
+[]|\OT1/cmr/m/n/10.95 (+20) Lecture Notes (e.g., class notes,
  []
 
 
-Overfull \hbox (17.22787pt too wide) in paragraph at lines 265--277
- [][] 
+Underfull \hbox (badness 5475) in paragraph at lines 203--203
+[]|\OT1/cmr/m/n/10.95 (+20) Online En-gi-neer-ing Tools (e.g.,
  []
 
 
 
 [66]
-
-[67]
-
-[68]
-Overfull \hbox (7.3604pt too wide) in paragraph at lines 321--321
+Overfull \hbox (7.3604pt too wide) in paragraph at lines 216--216
 |[]\OT1/cmr/bx/n/10.95 (-20) Significant Dif-fer-ence Be-tween the Per-cep-tions of Stu-dents and In-struc-tors
  []
 
 
 
-[69])
+[67]
 
-[70]
+[68])
 
-[71]
+[69]
 \openout2 = `ch-5.aux'.
 
  (ch-5.tex
 Chapter 5.
-)
 
-[72
+
+[70
 
 
 
 
 ]
+
+[71]
+
+[72]
+Overfull \hbox (31.83418pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10.95 (-20) Based on the find-ings, con-clu-sions, and re-spon-dents' feed-back, the fol-low-ing rec-om-men-da-tions
+ []
+
+
+
+[73]
+
+[74])
+
+[75]
 Overfull \hbox (0.78162pt too wide) in paragraph at lines 85--85
 \OT1/cmr/m/n/10.95 (-20) Self-Explanation Strat-egy in a Re-mote Learn-ing Con-text." \OT1/cmr/m/it/10.95 (-20) 9th Re-search in En-gi-neer-ing
  []
@@ -1969,7 +2016,7 @@ Overfull \hbox (21.2103pt too wide) in paragraph at lines 85--85
 
 
 
-[73
+[76
 
 
 
@@ -1983,9 +2030,11 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
 
 
-[74]
+[77]
 
-[75]
+[78]
+
+[79]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
@@ -1995,14 +2044,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
 
 
-[76
+[80
 
 
 ]
 
-[77]
+[81]
 
-[78]
+[82]
 Underfull \hbox (badness 1960) in paragraph at lines 130--130
 []|\OT1/cmr/m/n/10.95 (+20) I strongly pre-fer other learn-ing
  []
@@ -2024,7 +2073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--145
 
 
 
-[79]
+[83]
 Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 $[]$ 
  []
@@ -2046,37 +2095,99 @@ Overfull \hbox (9.95845pt too wide) in paragraph at lines 163--169
 
 
 
-[80]
+[84]
+Underfull \hbox (badness 2478) in paragraph at lines 193--193
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
 
-[81
+
+
+[85
 
 ]
-
-[82]
-
-[83]
-
-[84]
-
-[85]
 
 [86]
 
 [87]
 
 [88]
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+ []
+
+
 
 [89]
 
 [90]
 
-[91])
+[91]
 
 [92]
+
+[93]
+Underfull \hbox (badness 2478) in paragraph at lines 726--726
+[]|\OT1/cmr/m/n/10.95 (+20) The web-site pro-vides clear feed-back af-ter
+ []
+
+
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 970--970
+[]|\OT1/cmr/m/n/10.95 (+20) StatiCalcs meets my ex-pec-ta-tions as a
+ []
+
+
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+
+[105
+
+]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115])
+
+[116]
 \openout2 = `curriculum-vitae.aux'.
 
  (curriculum-vitae.tex
-<./assets/ian.png, id=746, 532.99126pt x 532.99126pt>
+<./assets/ian.png, id=1062, 532.99126pt x 532.99126pt>
 File: ./assets/ian.png Graphic file (type png)
 <use ./assets/ian.png>
 Package pdftex.def Info: ./assets/ian.png  used on input line 5.
@@ -2088,13 +2199,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--29
 
 
 
-[93
+[117
 
 
 
 
  <./assets/ian.png>]
-<./assets/sophia.jpg, id=752, 819.06pt x 819.06pt>
+<./assets/sophia.jpg, id=1068, 819.06pt x 819.06pt>
 File: ./assets/sophia.jpg Graphic file (type jpg)
 <use ./assets/sophia.jpg>
 Package pdftex.def Info: ./assets/sophia.jpg  used on input line 72.
@@ -2106,7 +2217,7 @@ Overfull \hbox (1.1983pt too wide) in paragraph at lines 87--95
 
 )
 
-[94
+[118
 
  <./assets/sophia.jpg>] (main.aux (ch-1.aux) (ch-2.aux) (ch-3.aux) (ch-4.aux) (ch-5.aux) (appendix.aux) (curriculum-vitae.aux))
  ***********
@@ -2126,17 +2237,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### simple group (level 1) entered at line 3 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 58448 strings out of 468081
- 1326119 string characters out of 5425788
- 2443836 words of memory out of 5000000
- 85835 multiletter control sequences out of 15000+600000
- 643179 words of font info for 173 fonts, out of 8000000 for 9000
+ 59472 strings out of 468081
+ 1350094 string characters out of 5425788
+ 2448340 words of memory out of 5000000
+ 86739 multiletter control sequences out of 15000+600000
+ 643503 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,15n,104p,2085b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,15n,104p,2282b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (100 pages, 2836570 bytes).
+Output written on main.pdf (127 pages, 2937681 bytes).
 PDF statistics:
- 1038 PDF objects out of 1200 (max. 8388607)
- 254 named destinations out of 1000 (max. 500000)
- 41998 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1384 PDF objects out of 1440 (max. 8388607)
+ 368 named destinations out of 1000 (max. 500000)
+ 42014 words of extra memory for PDF output out of 42996 (max. 10000000)
 

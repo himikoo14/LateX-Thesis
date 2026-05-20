@@ -369,6 +369,76 @@
       \endverb
       \keyw{Physics - Physics Education}
     \endentry
+    \entry{hassan_usability_2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9d1a0305bba75c18c13ca4d5094a3ad7}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Jawad\bibnamedelima Ul},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c047426cdfbba1641bbca0db2aa43a8}{%
+           family={Missen},
+           familyi={M\bibinitperiod},
+           given={Malik\bibnamedelimb M.\bibnamedelimi Saad},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd36a242998d70a19f4adc2377cfc972}{%
+           family={Karim},
+           familyi={K\bibinitperiod},
+           given={Musrat},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe17388b24f98ddf11fc5c98c5ff7d11}{%
+           family={Ain},
+           familyi={A\bibinitperiod},
+           given={Qurat\bibnamedelima Ul},
+           giveni={Q\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbd07c9f260cd54c4a597ac2f15e667c}{%
+           family={Firdous},
+           familyi={F\bibinitperiod},
+           given={Amnah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a23a8cc05ec0da0758f628ced081aa4a}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Asad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{fullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{fullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{bibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authorbibnamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authornamehash}{b3f9965a65e9dba24023c03d142c6bf3}
+      \strng{authorfullhash}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \strng{authorfullhashraw}{f1f52b3ce903d74f3a9bc6b90446a458}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}p{>}An application is considered "usable" if it is visually appealing, simple to use, and performs as expected. The majority of {IT} industries focus on the app's functional requirements while making only minor efforts to improve usability. Usability is an essential attribute that want more attention in determining the production of a successful mobile application. In recent years, different learning applications have been developed to help the effective learning and enhanced the {IT} expertise of the students but the usability of apps for slow learners is ignored during design process so that the slow learners are facing problem during learning process. In order for slow learners to learn effectively, learning apps must focus on usability so that they can learn effectively as learn others. Slow learners are students who have difficulty in learning due of their limited cognitive abilities. They face difficulties in understanding complex instructions and take longer to catch up. Smart phones can be used as complementary learning tools to support and enhance the learning experience of the slow learners. The touch screens to interact the applications on the smart phone gives the more confidence of slow learners to feel more encouraged to stay maximum period and to involve with the application. Using apps in learning activities with slow learners reaps benefits for their learning. In this work, we performed a participant-based usability evaluation of the 25 apps on {HTML} learning for {iOS} and Android. Slow learners between the ages of 16 to 55 years are selected for usability evaluation. Further participants are distributed into four main groups Group I, Group {II}, Group {III} and Group {IV} based on their age and 24 participants/slow learners are selected for usability testing under the supervision of moderator. As a result of usability testing of {HTML} learning apps, we discovered that {HTML} learning apps usability decrease as the age of the slow learners participants increase. Current {HTML} learning apps are not effective and efficient for slow learners learning.{<}/p{>}}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{{USABILITY} {EVALUATION} {OF} {MOBILE} {LEARNING} {APPS} {FOR} {SLOW} {LEARNERS}}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb tianjindaxuexuebao.com/details.php?id=DOI:10.17605/OSF.IO/URSNJ
+      \endverb
+      \verb{url}
+      \verb tianjindaxuexuebao.com/details.php?id=DOI:10.17605/OSF.IO/URSNJ
+      \endverb
+    \endentry
     \entry{incierto_mathematics_nodate}{thesis}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=77f2ef920bf1521ace8ed73b8b97de5a}{%
@@ -415,6 +485,89 @@
       \endverb
       \verb{url}
       \verb www.scribd.com/document/516791046/Mathematics-Anxiety-Level-of-the-First-Year-Education-Students-in-Manduae-City-College-in-the-New-Normal-in-Relation-to-Their-Academic-Performance-1
+      \endverb
+    \endentry
+    \entry{johnson_customer_2001}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=041d9d4248f654c0e34e66212b3c0310}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={M.D.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{fullhash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{fullhashraw}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{bibnamehash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{authorbibnamehash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{authornamehash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{authorfullhash}{041d9d4248f654c0e34e66212b3c0310}
+      \strng{authorfullhashraw}{041d9d4248f654c0e34e66212b3c0310}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Simply stated, customer satisfaction is a customer's evaluation of their purchase and consumption experience with a product, service, brand, or compan…}
+      \field{day}{1}
+      \field{langid}{american}
+      \field{month}{1}
+      \field{note}{Publisher: Pergamon}
+      \field{title}{Customer Satisfaction}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{3198\bibrangedash 3202}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/B0-08-043076-7/04273-X
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\AFR3VCIQ\\B008043076704273X.html:text/html
+      \endverb
+    \endentry
+    \entry{nielsen_10_1994}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jakob Nielsen's 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.}
+      \field{day}{24}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{10 Usability Heuristics for User Interface Design}
+      \field{titleaddon}{Nielsen Norman Group}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\696YS6RM\\ten-usability-heuristics.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb www.nngroup.com/articles/ten-usability-heuristics/
+      \endverb
+      \verb{url}
+      \verb www.nngroup.com/articles/ten-usability-heuristics/
       \endverb
     \endentry
     \entry{paulin_effectiveness_2024}{article}{}{}
@@ -464,6 +617,49 @@
       \endverb
       \verb{file}
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\YHN968WM\\Paulin and Jean Baptiste - 2024 - Effectiveness of the Symbolab Calculator in Improving Second Year Science and Mathematics Students A.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{pedraza_assessing_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ccdfeabe49c684b1d3dc775d64762e18}{%
+           family={Pedraza},
+           familyi={P\bibinitperiod},
+           given={Salvador\bibnamedelima Miguel},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb28f96a8bea8a6633fcd820721084d4}{%
+           family={Canoy},
+           familyi={C\bibinitperiod},
+           given={Orbel},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{fullhash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{fullhashraw}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{bibnamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorbibnamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authornamehash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorfullhash}{3da716dbe67869efe223fba61acfbdc6}
+      \strng{authorfullhashraw}{3da716dbe67869efe223fba61acfbdc6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The rapid evolution of educational technology has positioned mobile learning apps as transformative tools for enhancing student learning and engagement. This study assesses the effectiveness of mobile learning apps in selected secondary public schools in General Trias City, Philippines, focusing}
+      \field{issn}{2822-4353, 2822-4353}
+      \field{journaltitle}{Psychology and Education: A Multidisciplinary Journal}
+      \field{shortjournal}{Psych Educ Multidisc J}
+      \field{title}{Assessing the Effectiveness of Mobile Learning Apps in Enhancing Student Learning and Engagement in Selected Secondary Public Schools in General Trias City}
+      \field{volume}{45}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.70838/pemj.450909
+      \endverb
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\ADMIN\\Zotero\\storage\\VYWQRP2D\\6254.html:text/html
       \endverb
     \endentry
     \entry{salami_challenges_2025}{inproceedings}{}{}
@@ -816,6 +1012,40 @@
       \endverb
       \verb{file}
       \verb PDF:C\:\\Users\\ADMIN\\Zotero\\storage\\DUKKC4HI\\Wenceslao - 2022 - Mathematical Readiness of Freshmen Engineering Students (K-12 2020 Graduates) in Eastern Visayas in.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{world_wide_web_consortium_w3c_web_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66c3509f57565d7fbe270a57a403004c}{%
+           family={{World Wide Web Consortium (W3C)}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{fullhash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{fullhashraw}{66c3509f57565d7fbe270a57a403004c}
+      \strng{bibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorbibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authornamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorfullhash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorfullhashraw}{66c3509f57565d7fbe270a57a403004c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Web Content Accessibility Guidelines ({WCAG}) 2.1}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Web Content Accessibility Guidelines (WCAG) 2.1:C\:\\Users\\ADMIN\\Zotero\\storage\\U7U8V6R3\\WCAG21.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb www.w3.org/TR/WCAG21/
+      \endverb
+      \verb{url}
+      \verb www.w3.org/TR/WCAG21/
       \endverb
     \endentry
     \entry{zeichner_using_2020}{article}{}{}
