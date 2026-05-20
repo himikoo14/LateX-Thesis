@@ -459,6 +459,9 @@ INPUT ch-3.aux
 INPUT .\ch-4.aux
 INPUT .\ch-4.aux
 INPUT ch-4.aux
+INPUT .\ch-5.aux
+INPUT .\ch-5.aux
+INPUT ch-5.aux
 INPUT .\appendix.aux
 INPUT .\appendix.aux
 INPUT appendix.aux
@@ -621,12 +624,6 @@ INPUT .\assets\non-concurent.png
 INPUT .\assets\non-concurent.png
 INPUT .\assets\non-concurent.png
 INPUT .\assets\non-concurent.png
-INPUT .\scode.pdf
-INPUT .\scode.pdf
-INPUT .\scode.pdf
-INPUT .\scode.pdf
-INPUT .\scode.pdf
-INPUT .\scode.pdf
 INPUT .\assets\Truss.png
 INPUT .\assets\Truss.png
 INPUT .\assets\Truss.png
@@ -651,6 +648,11 @@ INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT .\ch-5.tex
+OUTPUT ch-5.aux
+INPUT .\ch-5.tex
+INPUT .\ch-5.tex
+INPUT ch-5.tex
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
@@ -693,6 +695,9 @@ INPUT ch-3.aux
 INPUT .\ch-4.aux
 INPUT .\ch-4.aux
 INPUT ch-4.aux
+INPUT .\ch-5.aux
+INPUT .\ch-5.aux
+INPUT ch-5.aux
 INPUT .\appendix.aux
 INPUT .\appendix.aux
 INPUT appendix.aux
