@@ -42,25 +42,25 @@
 \contentsline {section}{\numberline {3.5}Research Instrument}{51}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Statistical Tools}{52}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Statistical Treatment}{55}{section.3.7}%
-\contentsline {chapter}{\numberline {4}Results and Discussions}{56}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Level of Perception of Students Regarding StatiCalcs in Terms of Usability}{56}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Level of Perception of Students Regarding StatiCalcs in Terms of Accessibility}{58}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Level of Perception of Students Regarding StatiCalcs in Terms of Satisfaction}{59}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Level of Perception of Instructors Regarding StatiCalcs in Terms of Usability}{61}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Level of Perception of Instructors Regarding StatiCalcs in Terms of Accessibility}{62}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Level of Perception of Instructors Regarding StatiCalcs in Terms of Satisfaction}{64}{section.4.6}%
-\contentsline {section}{\numberline {4.7}The Preference of Students for Different Learning Resources in Studying Statics of Rigid Bodies}{65}{section.4.7}%
-\contentsline {section}{\numberline {4.8}The Preference of Instructors for Different Learning Resources in Studying Statics of Rigid Bodies}{67}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Significant Difference Between the Perceptions of Students and Instructors Regarding StatiCalcs}{68}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Respondents’ Comments and Suggestions Regarding StatiCalcs}{69}{section.4.10}%
-\contentsline {section}{\numberline {4.11}User Testing Period Overview}{70}{section.4.11}%
-\contentsline {chapter}{\numberline {5}Summary, Conclusion, and Recommendations}{73}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary of Findings}{73}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Conclusions}{75}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Recommendations}{76}{section.5.3}%
-\contentsline {chapter}{References}{81}{chapter*.38}%
-\contentsline {chapter}{Appendix A}{82}{appendix*.39}%
-\contentsline {chapter}{Appendix B}{87}{appendix*.42}%
-\contentsline {chapter}{Appendix C}{107}{appendix*.93}%
-\contentsline {chapter}{Curriculum Vitae}{119}{appendix*.94}%
-\contentsline {chapter}{Curriculum Vitae}{120}{appendix*.95}%
+\contentsline {chapter}{\numberline {4}Results and Discussions}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Level of Perception of Students Regarding StatiCalcs in Terms of Usability}{57}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Level of Perception of Students Regarding StatiCalcs in Terms of Accessibility}{59}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Level of Perception of Students Regarding StatiCalcs in Terms of Satisfaction}{60}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Level of Perception of Instructors Regarding StatiCalcs in Terms of Usability}{62}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Level of Perception of Instructors Regarding StatiCalcs in Terms of Accessibility}{63}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Level of Perception of Instructors Regarding StatiCalcs in Terms of Satisfaction}{65}{section.4.6}%
+\contentsline {section}{\numberline {4.7}The Preference of Students for Different Learning Resources in Studying Statics of Rigid Bodies}{66}{section.4.7}%
+\contentsline {section}{\numberline {4.8}The Preference of Instructors for Different Learning Resources in Studying Statics of Rigid Bodies}{68}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Significant Difference Between the Perceptions of Students and Instructors Regarding StatiCalcs}{69}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Respondents’ Comments and Suggestions Regarding StatiCalcs}{70}{section.4.10}%
+\contentsline {section}{\numberline {4.11}User Testing Period Overview}{71}{section.4.11}%
+\contentsline {chapter}{\numberline {5}Summary, Conclusion, and Recommendations}{74}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Findings}{74}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Conclusions}{76}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Recommendations}{77}{section.5.3}%
+\contentsline {chapter}{References}{82}{chapter*.38}%
+\contentsline {chapter}{Appendix A}{83}{appendix*.39}%
+\contentsline {chapter}{Appendix B}{88}{appendix*.42}%
+\contentsline {chapter}{Appendix C}{108}{appendix*.93}%
+\contentsline {chapter}{Curriculum Vitae}{120}{appendix*.94}%
+\contentsline {chapter}{Curriculum Vitae}{121}{appendix*.95}%
