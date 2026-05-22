@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.24)  21 MAY 2026 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.24)  22 MAY 2026 13:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1796,7 +1796,17 @@ Overfull \hbox (0.57837pt too wide) in paragraph at lines 147--159
  [][] 
  []
 
-[64] [65] [66]
+[64] [65]
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\OT1/cmr/m/n/10.95 (+20) YouTube Videos (e.g.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]|\OT1/cmr/m/n/10.95 (+20) Modules (e.g.,
+ []
+
+[66]
 Underfull \hbox (badness 1226) in paragraph at lines 204--204
 []|\OT1/cmr/m/n/10.95 (+20) Lecture Notes (e.g., class notes,
  []
@@ -1812,12 +1822,12 @@ Overfull \hbox (7.3604pt too wide) in paragraph at lines 220--220
  []
 
 [69] [70]
-Overfull \hbox (1.29416pt too wide) in paragraph at lines 262--266
+Overfull \hbox (1.29416pt too wide) in paragraph at lines 263--267
 \OT1/cmr/bx/n/10.95 (-20) re-quests \OT1/cmr/m/n/10.95 (-20) with a \OT1/cmr/bx/n/10.95 (-20) 0% er-ror rate\OT1/cmr/m/n/10.95 (-20) , re-flect-ing con-sis-tent and re-li-able per-for-mance through-out. 
  []
 
 [71]
-Package pgfplots info on input line 316: Using 'lua backend=false' for axis: x coord trafo unsupported.
+Package pgfplots info on input line 317: Using 'lua backend=false' for axis: x coord trafo unsupported.
  [72]) [73]
 \openout2 = `ch-5.aux'.
 
@@ -1993,7 +2003,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  104i,15n,104p,2291b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmmi9.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmsl10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MiKtex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (131 pages, 2959213 bytes).
+Output written on main.pdf (131 pages, 2959784 bytes).
 PDF statistics:
  1423 PDF objects out of 1440 (max. 8388607)
  376 named destinations out of 1000 (max. 500000)
